@@ -1,0 +1,3413 @@
+n|rsc|name|tag|tagId
+0|02|science-and-technology|המדען הראשי|--
+0|02|science-and-technology|חוקר|--
+0|02|science-and-technology|מחקרים|--
+0|02|science-and-technology|קול קורא|--
+0|02|science-and-technology|שיתוף פעולה|--
+1|03|science-and-technology|מדע|--
+2|04|science-and-technology|שיתוף פעולה בינלאומי הסכם|--
+3|05|science-and-technology|מדע|--
+4|06|science-and-technology|מדע|--
+5|062019|mof|תקציב|--
+6|14|science-and-technology|מלגות נשים הנדסת אלקטרואופטיקה ביואינפורמטיקה|--
+7|17|science-and-technology|טכנולוגיה|--
+7|17|science-and-technology|מדע|--
+9|19|science-and-technology|חוגים|--
+9|19|science-and-technology|מדע|--
+10|1minrain|meteorological_service|אקלים|--
+10|1minrain|meteorological_service|גשם|--
+10|1minrain|meteorological_service|תחנות|--
+11|20|science-and-technology|מדע|--
+12|2002-31-10-2016|ministry_of_immigrant_absorption|אוכלוסייה|--
+12|2002-31-10-2016|ministry_of_immigrant_absorption|עלייה|--
+12|2002-31-10-2016|ministry_of_immigrant_absorption|קליטת עלייה|--
+13|2004-1997|mof|אוצר וכלכלה|--
+13|2004-1997|mof|תקציב|--
+14|2005|mof|אוצר וכלכלה|--
+14|2005|mof|שינוי תקציב|--
+14|2005|mof|שינויים תקציב|--
+14|2005|mof|תקציב|--
+15|2005-2008|mof|אוצר וכלכלה|--
+15|2005-2008|mof|ביצוע|--
+15|2005-2008|mof|תקציב|--
+16|2005-2011|mof|אוצר וכלכלה|--
+16|2005-2011|mof|שינויי תקציב|--
+16|2005-2011|mof|שינויים תקציב|--
+16|2005-2011|mof|תקציב|--
+17|2006|mof|אוצר וכלכלה|--
+17|2006|mof|שינויי תקציב|--
+17|2006|mof|שינויים תקציב|--
+17|2006|mof|תקציב|--
+18|2007|mof|אוצר וכלכלה|--
+18|2007|mof|שינויי תקציב|--
+18|2007|mof|שינויים תקציב|--
+18|2007|mof|תקציב|--
+19|2008|mof|אוצר וכלכלה|--
+19|2008|mof|שינויי תקציב|--
+19|2008|mof|שינויים בתקציב|--
+19|2008|mof|תקציב|--
+20|2009|mof|אוצר וכלכלה|--
+20|2009|mof|שינויי תקציב|--
+20|2009|mof|שינויים בתקציב|--
+20|2009|mof|תקציב|--
+21|2009-2011|mof|אוצר וכלכלה|--
+21|2009-2011|mof|ביצוע|--
+21|2009-2011|mof|תקציב|--
+22|2009-2018|ministry_of_immigrant_absorption|גילאים|--
+22|2009-2018|ministry_of_immigrant_absorption|ישובים|--
+22|2009-2018|ministry_of_immigrant_absorption|עולים|--
+22|2009-2018|ministry_of_immigrant_absorption|עלייה|--
+22|2009-2018|ministry_of_immigrant_absorption|קליטה|--
+22|2009-2018|ministry_of_immigrant_absorption|רשויות|--
+23|2010|mof|אוצר וכלכלה|--
+23|2010|mof|שינויי תקציב|--
+23|2010|mof|שינויים תקציב|--
+23|2010|mof|תקציב|--
+24|2010-2019|ministry_of_transport|סקר הרגלי נסיעה|--
+24|2010-2019|ministry_of_transport|תחבורה|--
+25|2011|mof|אוצר וכלכלה|--
+25|2011|mof|שינויים תקציב|--
+25|2011|mof|תקציב|--
+26|2012-2005|mof|אוצר וכלכלה|--
+26|2012-2005|mof|תקציב|--
+27|2013|social_security|2013|--
+27|2013|social_security|אוכלוסיה|--
+27|2013|social_security|אוכלוסייה|--
+27|2013|social_security|אוצר וכלכלה|--
+27|2013|social_security|גמלאות|--
+27|2013|social_security|יישוב|--
+28|2014|social_security|אוכלוסיה|--
+28|2014|social_security|אוצר וכלכלה|--
+29|2015-2013|mof|אוצר וכלכלה|--
+29|2015-2013|mof|תקציב|--
+30|2017|pmo|ביצוע|--
+30|2017|pmo|בקרה|--
+30|2017|pmo|דוח|--
+30|2017|pmo|דיווח|--
+30|2017|pmo|החלטות ממשלה|--
+30|2017|pmo|ממשל|--
+30|2017|pmo|ממשל וחברה|--
+30|2017|pmo|מעקב|--
+30|2017|pmo|משרד ראש הממשלה|--
+30|2017|pmo|פיקוח|--
+30|2017|pmo|תכנון|--
+30|2017|pmo|תרבות ארגונית|--
+31|2017-2018|mof|אוצר|--
+31|2017-2018|mof|אוצר וכלכלה|--
+31|2017-2018|mof|משרד האוצר|--
+31|2017-2018|mof|תקציב|--
+32|2018|religion-office|דת|--
+32|2018|religion-office|מקוואות|--
+32|2018|religion-office|שירותי דת|--
+33|2018-2017|mof|אוצר וכלכלה|--
+33|2018-2017|mof|תקציב|--
+34|2019infrastructure|pmo|משרד האוצר|--
+34|2019infrastructure|pmo|משרד האנרגיה|--
+34|2019infrastructure|pmo|משרד החינוך|--
+34|2019infrastructure|pmo|משרד התחבורה והבטיחות בדרכים|--
+34|2019infrastructure|pmo|משרד התקשורת|--
+34|2019infrastructure|pmo|משרד ראש הממשלה|--
+34|2019infrastructure|pmo|תשתיות|--
+35|2020|pmo|משרד האוצר|--
+35|2020|pmo|משרד האנרגיה|--
+35|2020|pmo|משרד התחבורה|--
+35|2020|pmo|משרד התחבורה והבטיחות בדרכים|--
+35|2020|pmo|משרד התקשורת|--
+35|2020|pmo|משרד ראש הממשלה|--
+35|2020|pmo|תשתיות|--
+37|2030|ministry_of_transport|2030|--
+37|2030|ministry_of_transport|GIS|--
+37|2030|ministry_of_transport|ממג|--
+37|2030|ministry_of_transport|מקומות עבודה|--
+37|2030|ministry_of_transport|צפיפות|--
+38|206|ministry_of_the_environment|חוף|--
+38|206|ministry_of_the_environment|חוף נקי|--
+38|206|ministry_of_the_environment|סביבה|--
+39|209|ministry_of_the_environment|ארגונים|--
+39|209|ministry_of_the_environment|בעלי חיים|--
+39|209|ministry_of_the_environment|חיות|--
+39|209|ministry_of_the_environment|סביבה|--
+39|209|ministry_of_the_environment|עמותות|--
+40|21|science-and-technology|מדע|--
+41|257|ministry_of_transport|בקרה מרחבית|--
+41|257|ministry_of_transport|טיסות אזרחיות|--
+41|257|ministry_of_transport|מודיעין טיס|--
+41|257|ministry_of_transport|מידע תעופתי פנים ארצי|--
+41|257|ministry_of_transport|תחבורה|--
+41|257|ministry_of_transport|תעבורה אווירית|--
+42|258|ministry_of_transport|בטיחות|--
+42|258|ministry_of_transport|דוחות חקירה בטיחותיים|--
+42|258|ministry_of_transport|טיסה|--
+42|258|ministry_of_transport|טיסות|--
+42|258|ministry_of_transport|תחבורה|--
+43|276|airport_authority|אוצר וכלכלה|--
+43|276|airport_authority|חינוך ותרבות|--
+44|278|airport_authority|אוכלוסיה|--
+44|278|airport_authority|כתובות|--
+44|278|airport_authority|מעברי גבול|--
+44|278|airport_authority|שדות תעופה|--
+44|278|airport_authority|תחבורה|--
+45|280|airport_authority|אוכלוסיה|--
+45|280|airport_authority|סביבה|--
+45|280|airport_authority|תחבורה|--
+46|285|social_security|ביטוח לאומי|--
+46|285|social_security|בריאות ורווחה|--
+46|285|social_security|סביבה|--
+46|285|social_security|סניפים|--
+47|287|social_security|אוצר וכלכלה|--
+47|287|social_security|ביטוח לאומי|--
+47|287|social_security|בריאות ורווחה|--
+47|287|social_security|קיצבאות|--
+48|288|social_security|אוצר וכלכלה|--
+48|288|social_security|ביטוח לאומי|--
+48|288|social_security|שכר מינימום|--
+49|289|social_security|אוצר וכלכלה|--
+49|289|social_security|ביטוח לאומי|--
+49|289|social_security|בריאות ורווחה|--
+49|289|social_security|שכיר|--
+50|29|science-and-technology|מדע|--
+50|29|science-and-technology|קייטנות|--
+50|29|science-and-technology|קיץ|--
+51|290|social_security|אוצר וכלכלה|--
+51|290|social_security|ביטוח לאומי|--
+51|290|social_security|בריאות ורווחה|--
+51|290|social_security|עצמאי|--
+52|291|social_security|אוצר וכלכלה|--
+52|291|social_security|ביטוח לאומי|--
+52|291|social_security|לא שכירים|--
+53|292|social_security|אוצר וכלכלה|--
+53|292|social_security|ביטוח לאומי|--
+53|292|social_security|דמי ביטוח לאומי|--
+53|292|social_security|הכנסה מזערית|--
+53|292|social_security|הכנסה מירבות|--
+53|292|social_security|מעסיק|--
+53|292|social_security|תקרת הכנסה|--
+54|293|social_security|אוצר וכלכלה|--
+54|293|social_security|ביטוח לאומי|--
+54|293|social_security|דמי ביטוח|--
+54|293|social_security|הכנסה מזערית|--
+54|293|social_security|הכנסה מירבות|--
+54|293|social_security|תקרת הכנסה|--
+55|294|social_security|אוצר וכלכלה|--
+55|294|social_security|ביטוח לאומי|--
+55|294|social_security|דמי ביטוח לאומי|--
+55|294|social_security|הכנסה מזערית|--
+55|294|social_security|הכנסה מירבות|--
+55|294|social_security|תקרת הכנסה|--
+56|30|science-and-technology|מדע|--
+57|30-2021|mof|אומדן|--
+57|30-2021|mof|שינויים בתקציב|--
+57|30-2021|mof|תקציב|--
+57|30-2021|mof|תקציב וביצוע|--
+59|31-2021|mof|אומדן|--
+59|31-2021|mof|שינויים בתקציב|--
+59|31-2021|mof|תקציב|--
+59|31-2021|mof|תקציב וביצוע|--
+60|31-2022|mof|תקציב|--
+60|31-2022|mof|תקציב וביצוע|--
+61|321|population_authority|אוכלוסיה|--
+61|321|population_authority|רחובות ישראל|--
+62|334|isa|אוצר וכלכלה|--
+62|334|isa|חברות ציבוריות|--
+62|334|isa|תאגידים מדווחים בישראל|--
+62|334|isa|תאגידים ציבוריים|--
+63|335|isa|אוצר וכלכלה|--
+64|343|ministry_of_immigrant_absorption|אוכלוסיה|--
+64|343|ministry_of_immigrant_absorption|אוצר וכלכלה|--
+64|343|ministry_of_immigrant_absorption|מוסדות ציבור|--
+64|343|ministry_of_immigrant_absorption|סיוע|--
+64|343|ministry_of_immigrant_absorption|עזבונות|--
+65|345|ministry_of_agriculture|בעלי חיים|--
+65|345|ministry_of_agriculture|בריאות|--
+65|345|ministry_of_agriculture|בריאות ורווחה|--
+65|345|ministry_of_agriculture|חקלאות|--
+65|345|ministry_of_agriculture|סביבה|--
+65|345|ministry_of_agriculture|רופאים וטרינריים|--
+65|345|ministry_of_agriculture|רפואה|--
+66|348|bank_israel|אוצר וכלכלה|--
+67|350|bank_israel|אוצר וכלכלה|--
+68|351|bank_israel|אוצר וכלכלה|--
+69|352|bank_israel|אוצר וכלכלה|--
+70|353|bank_israel|אוצר וכלכלה|--
+71|354new|bank_israel|אוצר וכלכלה|--
+72|355new|bank_israel|אוצר וכלכלה|--
+73|356|bank_israel|2012|--
+73|356|bank_israel|אוצר וכלכלה|--
+73|356|bank_israel|בנק ישראל|--
+73|356|bank_israel|מטבעות יציגים|--
+73|356|bank_israel|שער חליפין|--
+73|356|bank_israel|שערי מטבע|--
+74|357|bank_israel|2011|--
+74|357|bank_israel|אוצר וכלכלה|--
+74|357|bank_israel|בנק ישראל|--
+74|357|bank_israel|שערי מטבע|--
+74|357|bank_israel|שערים יציגים|--
+75|358|bank_israel|אוצר וכלכלה|--
+76|360|bank_israel|אוצר וכלכלה|--
+77|361|bank_israel|2007|--
+77|361|bank_israel|אוצר וכלכלה|--
+77|361|bank_israel|בנק ישראל|--
+77|361|bank_israel|מטבעות יציגים|--
+77|361|bank_israel|שערי מטבע|--
+78|362|bank_israel|2006|--
+78|362|bank_israel|אוצר וכלכלה|--
+78|362|bank_israel|בנק ישראל|--
+78|362|bank_israel|מטבע חוץ|--
+78|362|bank_israel|שערי חליפין|--
+78|362|bank_israel|שערים יציגים|--
+78|362|bank_israel|שערים ממוצעים|--
+79|363|bank_israel|2005|--
+79|363|bank_israel|אוצר וכלכלה|--
+79|363|bank_israel|בנק ישראל|--
+79|363|bank_israel|מטבע יציג|--
+79|363|bank_israel|שערי מטבע|--
+79|363|bank_israel|שערים ממוצעים|--
+80|364|bank_israel|אוצר וכלכלה|--
+80|364|bank_israel|בנק ישראל|--
+80|364|bank_israel|שער יציג|--
+80|364|bank_israel|שערי מטבע|--
+80|364|bank_israel|שערים ממוצעים|--
+81|365|bank_israel|אוצר וכלכלה|--
+81|365|bank_israel|מטבע חוץ|--
+81|365|bank_israel|שערי חליפין|--
+81|365|bank_israel|שערים יציגים|--
+81|365|bank_israel|שערים ממוצעים|--
+82|366|bank_israel|אוצר וכלכלה|--
+82|366|bank_israel|מטבע חוץ|--
+82|366|bank_israel|מטבעות יציגים|--
+82|366|bank_israel|שער יציג|--
+82|366|bank_israel|שערי חליפין|--
+82|366|bank_israel|שערים ממוצעים|--
+83|367|bank_israel|2001|--
+83|367|bank_israel|אוצר וכלכלה|--
+83|367|bank_israel|בנק ישראל|--
+83|367|bank_israel|שער יציג|--
+83|367|bank_israel|שערי מטבע|--
+83|367|bank_israel|שערים ממוצעים|--
+84|371|bank_israel|אוצר וכלכלה|--
+84|371|bank_israel|בנק ישראל|--
+84|371|bank_israel|הצמדה למדד|--
+84|371|bank_israel|משכנתאות|--
+84|371|bank_israel|עמלת פרעון מוקדם|--
+84|371|bank_israel|ריבית ממוצעת|--
+85|374|bank_israel|אוצר וכלכלה|--
+85|374|bank_israel|בנק ישראל|--
+85|374|bank_israel|לא צמוד|--
+85|374|bank_israel|מגזר שיקלי|--
+85|374|bank_israel|משכנתאות|--
+85|374|bank_israel|ריבית קבועה ממוצעת|--
+86|375|bank_israel|אוצר וכלכלה|--
+86|375|bank_israel|בנק ישראל|--
+86|375|bank_israel|בנקים|--
+87|377|bank_israel|אוצר וכלכלה|--
+87|377|bank_israel|בנק ישראל|--
+87|377|bank_israel|חשבונות מוגבלים|--
+87|377|bank_israel|תאגידים|--
+88|379|bank_israel|אוצר וכלכלה|--
+88|379|bank_israel|בנק ישראל|--
+88|379|bank_israel|מדד משולב|--
+88|379|bank_israel|שינוי במדד המשולב|--
+89|381|bank_israel|אוצר וכלכלה|--
+90|408|culture_and_sports|חינוך ותרבות|--
+90|408|culture_and_sports|מתקני ספורט|--
+90|408|culture_and_sports|נגישות|--
+90|408|culture_and_sports|ספורט|--
+90|408|culture_and_sports|תחרויות|--
+91|425|ministry_of_education|חינוך ותרבות|--
+92|46|science-and-technology|מדען ראשי חברי פורום|--
+93|48|science-and-technology|מדע|--
+93|48|science-and-technology|סל מדע|--
+94|481|meteorological_service|אקלים|--
+94|481|meteorological_service|השירות המטאורולוגי|--
+94|481|meteorological_service|השרות המטאורולוגי|--
+94|481|meteorological_service|טמפרטורה|--
+94|481|meteorological_service|לחות יחסית|--
+94|481|meteorological_service|לחץ|--
+94|481|meteorological_service|משקעים|--
+94|481|meteorological_service|סביבה|--
+94|481|meteorological_service|רוח|--
+95|486|betihut-drahim|אוכלוסיה|--
+95|486|betihut-drahim|בטיחות|--
+95|486|betihut-drahim|בטיחות בדרכים|--
+95|486|betihut-drahim|משרד התחבורה|--
+95|486|betihut-drahim|תחבורה|--
+96|49|science-and-technology|מדע|--
+98|500|ministry_of_agriculture|חקלאות|--
+98|500|ministry_of_agriculture|ירקות|--
+98|500|ministry_of_agriculture|מזון|--
+98|500|ministry_of_agriculture|משרד החקלאות|--
+98|500|ministry_of_agriculture|פירות|--
+98|500|ministry_of_agriculture|פירות וירקות|--
+99|502|culture_and_sports|הכשרה|--
+99|502|culture_and_sports|מרכזי צלילה|--
+99|502|culture_and_sports|ספורט|--
+99|502|culture_and_sports|צלילה|--
+100|502-2|culture_and_sports|איל|--
+100|502-2|culture_and_sports|מרכזי צלילה|--
+100|502-2|culture_and_sports|ספורט|--
+100|502-2|culture_and_sports|צלילה|--
+101|503|culture_and_sports|מוזיאונים|--
+102|504|culture_and_sports|סרטים|--
+103|506-1|culture_and_sports|בוחן רכב|--
+103|506-1|culture_and_sports|מכוניו|--
+103|506-1|culture_and_sports|נהיגה ספורטיבי|--
+104|506-2|culture_and_sports|אופנוע|--
+104|506-2|culture_and_sports|בוחני רכב|--
+104|506-2|culture_and_sports|טרקטורון|--
+104|506-2|culture_and_sports|נהיגה ספורטיבי|--
+105|507|culture_and_sports|הכשרה|--
+105|507|culture_and_sports|מוסד|--
+105|507|culture_and_sports|נהיגה ספורטיבית|--
+106|508|culture_and_sports|דרגות|--
+106|508|culture_and_sports|נהיגה|--
+106|508|culture_and_sports|נהיגה ספורטיבית|--
+106|508|culture_and_sports|רישיון|--
+107|51|science-and-technology|חוגים|--
+107|51|science-and-technology|סל מדע|--
+108|510|culture_and_sports|מוזיאון|--
+108|510|culture_and_sports|מוכר|--
+108|510|culture_and_sports|תרבות|--
+109|517|culture_and_sports|הכשר|--
+109|517|culture_and_sports|מאושרים|--
+109|517|culture_and_sports|מאמנים|--
+109|517|culture_and_sports|מוסדו|--
+109|517|culture_and_sports|קורסים|--
+110|518|culture_and_sports|מוסדות הכשרה|--
+110|518|culture_and_sports|מידעונים|--
+111|519|culture_and_sports|תוכנית לימודים ענף ספורט הכשרת מדריכים|--
+112|52|science-and-technology|חלל|--
+112|52|science-and-technology|טכנולוגיה|--
+112|52|science-and-technology|מדע|--
+113|520|culture_and_sports|תוכניות לימודים הכשרת מאמנים ענף ספורט|--
+114|521|culture_and_sports|ענפי קרב מוכרים|--
+115|53|science-and-technology|משרד המדע|--
+116|531|mof|אוצר וכלכלה|--
+116|531|mof|שינויים תקציב|--
+116|531|mof|תקציב|--
+117|532|culture_and_sports|מנהלי מחלקות ספורט רשויות מקומיות|--
+118|534|mof|אוצר וכלכלה|--
+118|534|mof|ביצוע|--
+118|534|mof|תקציב|--
+119|535|culture_and_sports|סוגי מתקן|--
+119|535|culture_and_sports|סל הספורט|--
+120|536|culture_and_sports|גיל|--
+120|536|culture_and_sports|ספורט|--
+120|536|culture_and_sports|ענף|--
+121|537|ministry_of_immigrant_absorption|אוכלוסיה|--
+121|537|ministry_of_immigrant_absorption|משרד לקליטת עליה|--
+121|537|ministry_of_immigrant_absorption|עולים חדשים|--
+121|537|ministry_of_immigrant_absorption|עלייה|--
+121|537|ministry_of_immigrant_absorption|קליטה|--
+122|538|ministry_of_immigrant_absorption|אוכלוסיה|--
+123|538-1|culture_and_sports|אגרה|--
+123|538-1|culture_and_sports|כלי תחרותי|--
+123|538-1|culture_and_sports|נהיגה ספורטיבית|--
+123|538-1|culture_and_sports|רישיון|--
+123|538-1|culture_and_sports|רכב|--
+124|539|ministry_of_immigrant_absorption|אוכלוסיה|--
+125|54|science-and-technology|משרד המדע|--
+126|541|culture_and_sports|מומחי שימור מוזיאונים|--
+127|542|isa|אוצר וכלכלה|--
+127|542|isa|יועצי השקעות|--
+127|542|isa|מנהלי תיקים|--
+127|542|isa|רשות ניירות הערך|--
+128|543|isa|אוצר וכלכלה|--
+129|544|isa|אוצר וכלכלה|--
+129|544|isa|חברות חיתום|--
+129|544|isa|חתמים|--
+129|544|isa|רשות ניירות הערך|--
+130|545|isa|אוצר וכלכלה|--
+130|545|isa|חתמים|--
+130|545|isa|חתמים מורשים|--
+130|545|isa|רשות לניירות ערך|--
+130|545|isa|רשות ניירות הערך|--
+131|547|knesset|הכנה בוועדה|--
+131|547|knesset|הכנסת|--
+131|547|knesset|הצעות חוק|--
+131|547|knesset|הצעות חוק ממשלתיות|--
+131|547|knesset|הצעות חוק פרטיות|--
+131|547|knesset|הצעת חוק ממשלתית|--
+131|547|knesset|הצעת חוק פרטית|--
+131|547|knesset|הצעת חוק של ועדה|--
+131|547|knesset|כנסת|--
+131|547|knesset|לדיון במליאה|--
+131|547|knesset|משפט|--
+131|547|knesset|קריאה ראשונה|--
+131|547|knesset|קריאה שלישית|--
+131|547|knesset|קריאה שלישת|--
+131|547|knesset|קריאה שניה|--
+131|547|knesset|קריאה שנייה|--
+132|548|knesset|הכנסת|--
+132|548|knesset|הצעות חוק|--
+132|548|knesset|חקיקה|--
+132|548|knesset|כנסת|--
+132|548|knesset|משפט|--
+132|548|knesset|קריאה שלישית|--
+133|549|knesset|אוצר וכלכלה|--
+133|549|knesset|חברי כנסת|--
+133|549|knesset|כנסת|--
+133|549|knesset|ממשלות|--
+133|549|knesset|סיעות|--
+134|551|culture_and_sports|ספריות ציבוריות חברי מועצה|--
+135|552|culture_and_sports|קולנוע חברי מועצה|--
+136|557|ministry_of_the_environment|קרינה|--
+137|558|culture_and_sports|אלימות ספורט|--
+138|559|culture_and_sports|קידום נשים ספורט חברי מועצה|--
+139|56|science-and-technology|משרד המדע|--
+140|564|mof|אוצר וכלכלה|--
+140|564|mof|משרד האוצר|--
+140|564|mof|תקציב 2013|--
+140|564|mof|תקציב 2014|--
+140|564|mof|תקציב המדינה|--
+141|566|culture_and_sports|מאגר יועצים משפטיים|--
+142|568|culture_and_sports|אגרה|--
+142|568|culture_and_sports|נהיגה|--
+142|568|culture_and_sports|נהיגה ספורטיבית|--
+142|568|culture_and_sports|רישוי|--
+142|568|culture_and_sports|רישיון|--
+143|591|science-and-technology|מוזיאונים חברי מועצה|--
+144|609|culture_and_sports|התאחדות תאגיד נהיגה ספורטיבית|--
+145|61|science-and-technology|משרד המדע|--
+146|62|science-and-technology|משרד המדע|--
+147|642|culture_and_sports|ספריות ציבוריות|--
+148|643|culture_and_sports|ביקורת סרטים חברי מועצה|--
+149|650|culture_and_sports|סרטים|--
+150|651|bank_israel|אוצר וכלכלה|--
+150|651|bank_israel|בנק ישראל|--
+150|651|bank_israel|מטבע חוץ|--
+150|651|bank_israel|שערי חליפין|--
+151|652|bank_israel|אוצר וכלכלה|--
+152|653|bank_israel|2013|--
+152|653|bank_israel|אוצר וכלכלה|--
+152|653|bank_israel|בנק ישראל|--
+152|653|bank_israel|מטבע יציג|--
+152|653|bank_israel|שערי מטבע|--
+153|659|isa|אוצר וכלכלה|--
+153|659|isa|השקעות|--
+153|659|isa|חברות ייעוץ השקעות|--
+153|659|isa|ניהול תיקים|--
+153|659|isa|ניירות ערך|--
+154|671|ministry_of_agriculture|בקר|--
+154|671|ministry_of_agriculture|בריאות ורווחה|--
+154|671|ministry_of_agriculture|דגים|--
+154|671|ministry_of_agriculture|וטרינרים|--
+154|671|ministry_of_agriculture|חקלאות|--
+154|671|ministry_of_agriculture|מחלות בעלי חיים|--
+154|671|ministry_of_agriculture|סביבה|--
+154|671|ministry_of_agriculture|סוסים|--
+155|673|ministry_of_agriculture|הדברה|--
+155|673|ministry_of_agriculture|חקלאות|--
+155|673|ministry_of_agriculture|סביבה|--
+156|6b1c032a-fdc1-4f92-bee1-14d6bf6af910|water_authority|טיוב|--
+156|6b1c032a-fdc1-4f92-bee1-14d6bf6af910|water_authority|מים|--
+156|6b1c032a-fdc1-4f92-bee1-14d6bf6af910|water_authority|קידוחים|--
+156|6b1c032a-fdc1-4f92-bee1-14d6bf6af910|water_authority|רשות המים|--
+157|711|mof|אוצר וכלכלה|--
+157|711|mof|משרד האוצר|--
+157|711|mof|שינויי תקציב|--
+157|711|mof|תקציב 2013|--
+157|711|mof|תקציב המדינה|--
+158|808|mof|אוצר וכלכלה|--
+159|813|ministry_of_justice|חוק חופש המידע|--
+159|813|ministry_of_justice|משפט|--
+160|814|ministry_of_justice|חופש המידע|--
+160|814|ministry_of_justice|משפט|--
+160|814|ministry_of_justice|תשובות לבקשות|--
+161|826|israel_mapping_center|מטה דאטה|--
+161|826|israel_mapping_center|סביבה|--
+161|826|israel_mapping_center|שכבות|--
+162|827|israel_mapping_center|מפות|--
+162|827|israel_mapping_center|מרחק בין יישובים|--
+162|827|israel_mapping_center|מרחקי דרך|--
+162|827|israel_mapping_center|מרכז למיפוי ישראל|--
+162|827|israel_mapping_center|סביבה|--
+163|828|israel_mapping_center|אוכלוסיה|--
+163|828|israel_mapping_center|מיפוי ישראל|--
+163|828|israel_mapping_center|סביבה|--
+163|828|israel_mapping_center|קואורדינטות ITM|--
+164|829|israel_mapping_center|מיפוי ישראל|--
+164|829|israel_mapping_center|מפות כבישים|--
+164|829|israel_mapping_center|פריסת כבישים|--
+164|829|israel_mapping_center|תחבורה|--
+165|830|israel_mapping_center|GPS|--
+165|830|israel_mapping_center|דיוק גבוה|--
+165|830|israel_mapping_center|מיקום על פי לווין|--
+165|830|israel_mapping_center|סביבה|--
+165|830|israel_mapping_center|תחנות קבע|--
+166|831|israel_mapping_center|מיפוי ישראל|--
+166|831|israel_mapping_center|מפות|--
+166|831|israel_mapping_center|מפות 25000|--
+166|831|israel_mapping_center|סביבה|--
+166|831|israel_mapping_center|קנה מידה 25000|--
+167|832|israel_mapping_center|מפות 50000|--
+167|832|israel_mapping_center|מפי|--
+167|832|israel_mapping_center|מרכז למיפוי ישראל|--
+167|832|israel_mapping_center|סביבה|--
+168|833|israel_mapping_center|מפתח מפות|--
+168|833|israel_mapping_center|סביבה|--
+169|860|rabinical_court|אוכלוסיה|--
+169|860|rabinical_court|דת|--
+169|860|rabinical_court|משפט|--
+170|861|rabinical_court|בתי דין|--
+170|861|rabinical_court|בתי הדין הרבניים|--
+170|861|rabinical_court|משפט|--
+171|862|rabinical_court|בתי דין הרבניים|--
+171|862|rabinical_court|בתי הדין|--
+171|862|rabinical_court|גירושין|--
+171|862|rabinical_court|דת|--
+171|862|rabinical_court|משפט|--
+171|862|rabinical_court|פסקי דין|--
+172|863|rabinical_court|אוכלוסיה|--
+172|863|rabinical_court|בתי הדין הרבניים|--
+172|863|rabinical_court|גירושין|--
+172|863|rabinical_court|דת|--
+173|864|rabinical_court|בתי דין רבניים|--
+173|864|rabinical_court|בתי הדין|--
+173|864|rabinical_court|דת|--
+173|864|rabinical_court|משפט|--
+174|865|rabinical_court|בתי דין רבניים|--
+174|865|rabinical_court|בתי הדין הרבניים|--
+174|865|rabinical_court|דת|--
+174|865|rabinical_court|משפט|--
+175|926|israel_mapping_center|אוכלוסיה|--
+175|926|israel_mapping_center|סביבה|--
+175|926|israel_mapping_center|שדה תעופה|--
+175|926|israel_mapping_center|שדות תעופה|--
+175|926|israel_mapping_center|תחבורה|--
+176|927|israel_mapping_center|אנרגיה ומים|--
+176|927|israel_mapping_center|חוף|--
+176|927|israel_mapping_center|סביבה|--
+176|927|israel_mapping_center|קווי החוף|--
+177|928|israel_mapping_center|נמלי פריקה והטענה|--
+177|928|israel_mapping_center|נמלים|--
+177|928|israel_mapping_center|סביבה|--
+177|928|israel_mapping_center|פריקה|--
+177|928|israel_mapping_center|תחבורה|--
+178|930|israel_mapping_center|ים|--
+178|930|israel_mapping_center|נמל|--
+178|930|israel_mapping_center|נמלים ימיים|--
+178|930|israel_mapping_center|סביבה|--
+179|931|israel_mapping_center|סביבה|--
+179|931|israel_mapping_center|שכבת דרכים|--
+179|931|israel_mapping_center|תחבורה|--
+180|932|israel_mapping_center|מסילות ברזל|--
+180|932|israel_mapping_center|סביבה|--
+181|933|israel_mapping_center|אנרגיה ומים|--
+181|933|israel_mapping_center|נחל|--
+181|933|israel_mapping_center|נחלים|--
+181|933|israel_mapping_center|סביבה|--
+181|933|israel_mapping_center|שכבת נחלים|--
+182|934|isa|אוצר וכלכלה|--
+182|934|isa|קרנות נאמנות|--
+183|935|isa|אוצר וכלכלה|--
+183|935|isa|מנהלי קרנות נאמנות|--
+184|943|haifa|אוכלוסיה|--
+184|943|haifa|איכות הסביבה|--
+184|943|haifa|בתי כנסת|--
+184|943|haifa|חינוך ותרבות|--
+184|943|haifa|חיפה|--
+185|944|haifa|אוכלוסיה|--
+185|944|haifa|אזורים|--
+185|944|haifa|חיפה|--
+185|944|haifa|רובע|--
+185|944|haifa|רחובות|--
+186|945|haifa|אוכלוסיה|--
+187|946|haifa|אוכלוסיה|--
+187|946|haifa|חינוך ותרבות|--
+188|947|haifa|אוכלוסיה|--
+188|947|haifa|בריאות ורווחה|--
+189|953|mof|אוצר וכלכלה|--
+190|958|social_security|אוכלוסיה|--
+191|961|mof|אוצר וכלכלה|--
+192|969|mof|אוצר וכלכלה|--
+192|969|mof|תקציב|--
+193|982|mof|אוצר וכלכלה|--
+193|982|mof|תקציב וביצוע|--
+194|983|rabinical_court|דת|--
+194|983|rabinical_court|משפט|--
+194|983|rabinical_court|סנקציות|--
+195|991|mof|אוצר וכלכלה|--
+195|991|mof|תקציב|--
+196|a2016|mof|אוצר וכלכלה|--
+196|a2016|mof|תקציב|--
+197|academic|israel_mapping_center|המרכז למיפוי ישראל|--
+197|academic|israel_mapping_center|חינוך ותרבות|--
+198|accessibilityorders|ministry_of_justice|משרד המשפטים|--
+198|accessibilityorders|ministry_of_justice|תיקי פיקוח|--
+199|accidents2018|lamas|הלשכה המרכזית לסטטיסטיקה|--
+199|accidents2018|lamas|תאונות דרכים|--
+199|accidents2018|lamas|תחבורה|--
+200|accidents_municipal|ministry_of_transport|gis|--
+200|accidents_municipal|ministry_of_transport|חצב|--
+200|accidents_municipal|ministry_of_transport|ממג|--
+200|accidents_municipal|ministry_of_transport|רשות מוניציפלית|--
+200|accidents_municipal|ministry_of_transport|תאונות דרכים|--
+201|accid_taz|ministry_of_transport|gis|--
+201|accid_taz|ministry_of_transport|אזורי תנועה|--
+201|accid_taz|ministry_of_transport|חצב|--
+201|accid_taz|ministry_of_transport|ממג|--
+201|accid_taz|ministry_of_transport|תאונות דרכים|--
+202|acquifer|water_authority|water|--
+202|acquifer|water_authority|אקוויפר|--
+202|acquifer|water_authority|מים|--
+202|acquifer|water_authority|רשות המים|--
+204|aidtools|moital|כלי סיוע|--
+204|aidtools|moital|כלכלה|--
+205|aircraft_data_il|ministry_of_transport|משרד התחבורה|--
+205|aircraft_data_il|ministry_of_transport|תחבורה|--
+205|aircraft_data_il|ministry_of_transport|תעופה אזרחית|--
+206|airport|ministry_of_transport|GIS|--
+206|airport|ministry_of_transport|airport|--
+206|airport|ministry_of_transport|חצב|--
+206|airport|ministry_of_transport|ממג|--
+206|airport|ministry_of_transport|שדות תעופה|--
+206|airport|ministry_of_transport|תעופה אזרחית|--
+207|air-stations|ministry_of_the_environment|המשרד להגנת הסביבה|--
+207|air-stations|ministry_of_the_environment|זיהום אוויר|--
+208|airstrip|ministry_of_transport|gis|--
+208|airstrip|ministry_of_transport|חצב|--
+208|airstrip|ministry_of_transport|ממג|--
+208|airstrip|ministry_of_transport|מנחתים|--
+208|airstrip|ministry_of_transport|תעופה אזרחית|--
+209|alhakav|ministry_of_transport|תחבורה ציבורית|--
+210|aluyot-pituach|ministry_of_housing|בניה עירונית|--
+210|aluyot-pituach|ministry_of_housing|עלויות פיתוח|--
+211|ambrosia|ministry_of_the_environment|מגוון ביולוגי|--
+211|ambrosia|ministry_of_the_environment|מים|--
+211|ambrosia|ministry_of_the_environment|נחלים|--
+211|ambrosia|ministry_of_the_environment|סביבה|--
+212|amount_monthly_closures_vehicles|ministry_of_transport|כלי רכב|--
+212|amount_monthly_closures_vehicles|ministry_of_transport|משרד התחבורה|--
+212|amount_monthly_closures_vehicles|ministry_of_transport|רכב|--
+212|amount_monthly_closures_vehicles|ministry_of_transport|תחבורה|--
+213|antennaactive|ministry_of_the_environment|אנטנות|--
+213|antennaactive|ministry_of_the_environment|טלפון|--
+213|antennaactive|ministry_of_the_environment|סביבה|--
+213|antennaactive|ministry_of_the_environment|סלולריות|--
+213|antennaactive|ministry_of_the_environment|קרינה|--
+213|antennaactive|ministry_of_the_environment|תקשורת|--
+214|antenna_hakama|ministry_of_the_environment|אנטנות|--
+214|antenna_hakama|ministry_of_the_environment|טלפון|--
+214|antenna_hakama|ministry_of_the_environment|סביבה|--
+214|antenna_hakama|ministry_of_the_environment|סלולריות|--
+214|antenna_hakama|ministry_of_the_environment|קרינה|--
+214|antenna_hakama|ministry_of_the_environment|תקשורת|--
+215|ap|ministry_of_the_environment|רעש שדות שדה תעופה סביבה|--
+216|api-eca|eca|api|--
+217|applying-to-social-services-departments|ministry_of_social_affairs|בריאות ורווחה|--
+218|approved-items-by-personal-import|tikshoret|יבוא ציוד|--
+218|approved-items-by-personal-import|tikshoret|מכס|--
+218|approved-items-by-personal-import|tikshoret|מסלול|--
+218|approved-items-by-personal-import|tikshoret|משרד התקשורת|--
+218|approved-items-by-personal-import|tikshoret|ציוד אלחוטי|--
+218|approved-items-by-personal-import|tikshoret|ציוד קצה|--
+219|aquifer_level_history|water_authority|אקוויפר|--
+219|aquifer_level_history|water_authority|מפלס|--
+219|aquifer_level_history|water_authority|רשות המים|--
+220|aquifer-sensitivity|ministry_of_the_environment|אקוויפרים|--
+220|aquifer-sensitivity|ministry_of_the_environment|דלק|--
+220|aquifer-sensitivity|ministry_of_the_environment|זיהום|--
+220|aquifer-sensitivity|ministry_of_the_environment|סביבה|--
+220|aquifer-sensitivity|ministry_of_the_environment|רגישות|--
+221|ararim|ministry_of_justice|בתי דין לעררים|--
+221|ararim|ministry_of_justice|משרד המשפטים|--
+223|archivesfreedomofinformationforzover|ministry_of_the_environment|מאגר חופש המידע|--
+224|archivespermissiontostreamforzover|ministry_of_the_environment|הזרמה לנחלים|--
+224|archivespermissiontostreamforzover|ministry_of_the_environment|מאגר צווי הרשאה|--
+225|archivespermitflowingtoseaforzover-csv|ministry_of_the_environment|היתרי הזרמה הטלה לים|--
+226|archives-yco|archives|אוכלוסיה|--
+226|archives-yco|archives|ארכיון המדינה|--
+226|archives-yco|archives|ועדת בהלול מינקובסקי|--
+226|archives-yco|archives|ועדת כהן קדמי|--
+226|archives-yco|archives|ועדת שלגי|--
+229|arrivaltostationdayandhours|ministry_of_transport|אוטובוסים|--
+229|arrivaltostationdayandhours|ministry_of_transport|משרד התחבורה|--
+229|arrivaltostationdayandhours|ministry_of_transport|תחבורה|--
+229|arrivaltostationdayandhours|ministry_of_transport|תחבורה ציבורית|--
+230|arrivaltostationhours|ministry_of_transport|אוטובוסים|--
+230|arrivaltostationhours|ministry_of_transport|משרד התחבורה|--
+230|arrivaltostationhours|ministry_of_transport|תחבורה|--
+230|arrivaltostationhours|ministry_of_transport|תחבורה ציבורית|--
+231|asbest|ministry_of_the_environment|איכות הסביבה|--
+231|asbest|ministry_of_the_environment|אסבסט|--
+231|asbest|ministry_of_the_environment|הגנת הסביבה|--
+231|asbest|ministry_of_the_environment|המשרד להגנת הסביבה|--
+231|asbest|ministry_of_the_environment|סביבה|--
+231|asbest|ministry_of_the_environment|רישיונות|--
+232|asbest-permit-03-2016|ministry_of_the_environment|איכות הסביבה|--
+232|asbest-permit-03-2016|ministry_of_the_environment|אסבסט|--
+232|asbest-permit-03-2016|ministry_of_the_environment|סביבה|--
+232|asbest-permit-03-2016|ministry_of_the_environment|פינוי אסבסט|--
+233|asbestsamplinganalysis|ministry_of_the_environment|אנליזה|--
+233|asbestsamplinganalysis|ministry_of_the_environment|אסבסט|--
+233|asbestsamplinganalysis|ministry_of_the_environment|דיגום|--
+233|asbestsamplinganalysis|ministry_of_the_environment|מעבדות|--
+233|asbestsamplinganalysis|ministry_of_the_environment|סביבה|--
+234|asbest-waste-sites|ministry_of_the_environment|איכות הסביבה|--
+234|asbest-waste-sites|ministry_of_the_environment|אסבסט|--
+234|asbest-waste-sites|ministry_of_the_environment|אתרי פסולת|--
+234|asbest-waste-sites|ministry_of_the_environment|סביבה|--
+234|asbest-waste-sites|ministry_of_the_environment|פסולת|--
+237|assb122019|mof|תקציב|--
+238|assb32018|mof|שינויים בתקציב|--
+239|assb32019|mof|שינויים בתקציב|--
+240|assb32020|mof|תקציב|--
+241|assb62017|mof|שינויים בתקציב|--
+242|assb62018|mof|שינויים בתקציב|--
+243|assb62020|mof|תקציב|--
+244|assb92017|mof|שינויים בתקציב|--
+245|assb92018|mof|שינויים ב|--
+246|assb92019|mof|שינויים ב|--
+247|assb92020|mof|תקציב|--
+248|assign-a-numbering-range-to-premium-service-numbers|tikshoret|מספור שירותי טלפוניה|--
+248|assign-a-numbering-range-to-premium-service-numbers|tikshoret|משרד התקשורת|--
+249|assigning-mobile-numbering-ranges|tikshoret|מספור שירותי טלפוניה|--
+249|assigning-mobile-numbering-ranges|tikshoret|משרד התקשורת|--
+250|assigning-national-service-numbering-ranges|tikshoret|מספור שירותי טלפוניה|--
+250|assigning-national-service-numbering-ranges|tikshoret|משרד התקשורת|--
+251|atarim-leumim|ministry_of_the_environment|סביבה|--
+254|audit-cities|interior_affairs|אוצר וכלכלה|--
+254|audit-cities|interior_affairs|דוחות ביקורת|--
+254|audit-cities|interior_affairs|עיריות|--
+254|audit-cities|interior_affairs|רשויות מקומיות|--
+255|autism-schools|ministry-health|אוטיזם|--
+255|autism-schools|ministry-health|בריאות הנפש|--
+255|autism-schools|ministry-health|חינוך מיוחד|--
+255|autism-schools|ministry-health|מסגרות לימוד|--
+256|automated-devices|bank_israel|אוטומטים|--
+256|automated-devices|bank_israel|אוכלוסיה|--
+256|automated-devices|bank_israel|בנק ישראל|--
+256|automated-devices|bank_israel|מכשירים|--
+257|average-salary|social_security|אוצר וכלכלה|--
+257|average-salary|social_security|משק|--
+257|average-salary|social_security|שכר|--
+258|avian-influenza-events|ministry_of_agriculture|שפעת העופות|--
+259|ayalontrafficcounts|ministry_of_transport|נתיבי איילון|--
+259|ayalontrafficcounts|ministry_of_transport|ספירות תנועה|--
+260|azakamaaleadumim|maaleedumim|אזעקה|--
+260|azakamaaleadumim|maaleedumim|ביטחון|--
+260|azakamaaleadumim|maaleedumim|חירום|--
+261|bakashot_cpc|ministry_of_justice|בקשות פטנטים|--
+261|bakashot_cpc|ministry_of_justice|משרד המשפטים|--
+262|bakashot_ipc|ministry_of_justice|משפטים|--
+263|bakashot_patents|ministry_of_justice|משרד המשפטים|--
+264|banks|bank_israel|אוצר וכלכלה|--
+265|basic_domes|water_authority|water|--
+265|basic_domes|water_authority|כמות מוכרת|--
+265|basic_domes|water_authority|מים|--
+265|basic_domes|water_authority|ספקי מים|--
+265|basic_domes|water_authority|רשות המים|--
+266|basin|water_authority|basin|--
+266|basin|water_authority|water|--
+266|basin|water_authority|אגן|--
+266|basin|water_authority|מים|--
+266|basin|water_authority|רשות המים|--
+267|batei-esek|ministry_of_transport|משרד התחבורה|--
+267|batei-esek|ministry_of_transport|רכב|--
+267|batei-esek|ministry_of_transport|תחבורה|--
+268|beach|interior_affairs|אוכלוסיה|--
+268|beach|interior_affairs|חופים|--
+268|beach|interior_affairs|ים|--
+268|beach|interior_affairs|סוג חוף|--
+268|beach|interior_affairs|תחנת הצלה|--
+269|beneficiary_recipients|water_authority|water|--
+269|beneficiary_recipients|water_authority|מים|--
+269|beneficiary_recipients|water_authority|ספק|--
+269|beneficiary_recipients|water_authority|ספקי מים|--
+269|beneficiary_recipients|water_authority|רשות המים|--
+271|bichildrengrowth2016|ministry-health|בריאות|--
+271|bichildrengrowth2016|ministry-health|בריאות הציבור|--
+271|bichildrengrowth2016|ministry-health|בריאות התלמיד|--
+271|bichildrengrowth2016|ministry-health|בריאות ורווחה|--
+271|bichildrengrowth2016|ministry-health|משרד הבריאות|--
+271|bichildrengrowth2016|ministry-health|נתוני גדילה|--
+272|bicycle_jer_2019|ministry_of_transport|GIS|--
+272|bicycle_jer_2019|ministry_of_transport|אופניים|--
+272|bicycle_jer_2019|ministry_of_transport|ירושלים|--
+272|bicycle_jer_2019|ministry_of_transport|ממג|--
+272|bicycle_jer_2019|ministry_of_transport|שביל|--
+273|bike_mahirlair|ministry_of_transport|GIS|--
+273|bike_mahirlair|ministry_of_transport|אופניים|--
+273|bike_mahirlair|ministry_of_transport|חצב|--
+273|bike_mahirlair|ministry_of_transport|מהיר לעיר|--
+273|bike_mahirlair|ministry_of_transport|ממג|--
+274|bike_net_center|ministry_of_transport|2030|--
+274|bike_net_center|ministry_of_transport|GIS|--
+274|bike_net_center|ministry_of_transport|אופניים|--
+274|bike_net_center|ministry_of_transport|חצב|--
+274|bike_net_center|ministry_of_transport|מטרופולין תל אביב|--
+274|bike_net_center|ministry_of_transport|ממג|--
+274|bike_net_center|ministry_of_transport|רשת|--
+274|bike_net_center|ministry_of_transport|שביל|--
+275|bike_net_tlv|ministry_of_transport|GIS|--
+275|bike_net_tlv|ministry_of_transport|אופניים|--
+275|bike_net_tlv|ministry_of_transport|חצב|--
+275|bike_net_tlv|ministry_of_transport|משרד התחבורה|--
+275|bike_net_tlv|ministry_of_transport|רכיבה|--
+276|bilateral-communications-agreements|tikshoret|הסכמי תקשורת בילטרליים|--
+276|bilateral-communications-agreements|tikshoret|משרד התקשורת|--
+276|bilateral-communications-agreements|tikshoret|קשרי חוץ|--
+279|bor_depth|water_authority|borehole|--
+279|bor_depth|water_authority|water|--
+279|bor_depth|water_authority|מים|--
+279|bor_depth|water_authority|קידוח|--
+279|bor_depth|water_authority|רשות המים|--
+280|borehole_level|water_authority|borehole|--
+280|borehole_level|water_authority|level|--
+280|borehole_level|water_authority|water|--
+280|borehole_level|water_authority|מים|--
+280|borehole_level|water_authority|מפלס|--
+280|borehole_level|water_authority|קידוח|--
+280|borehole_level|water_authority|רשות המים|--
+281|borehole_refpoint|water_authority|borehole|--
+281|borehole_refpoint|water_authority|water|--
+281|borehole_refpoint|water_authority|מים|--
+281|borehole_refpoint|water_authority|קידוח|--
+281|borehole_refpoint|water_authority|רשות המים|--
+282|boreholes|water_authority|borehole|--
+282|boreholes|water_authority|water|--
+282|boreholes|water_authority|מים|--
+282|boreholes|water_authority|קידוח|--
+282|boreholes|water_authority|רשות המים|--
+283|borehole_wq_params|water_authority|borehole|--
+283|borehole_wq_params|water_authority|water|--
+283|borehole_wq_params|water_authority|water quality|--
+283|borehole_wq_params|water_authority|איכות מים|--
+283|borehole_wq_params|water_authority|מים|--
+283|borehole_wq_params|water_authority|קידוח|--
+283|borehole_wq_params|water_authority|רשות המים|--
+284|bor_perfor|water_authority|borehole|--
+284|bor_perfor|water_authority|perforation|--
+284|bor_perfor|water_authority|water|--
+284|bor_perfor|water_authority|מים|--
+284|bor_perfor|water_authority|קידוח|--
+284|bor_perfor|water_authority|רשות המים|--
+286|br7-address|beer-sheva|באר שבע|--
+286|br7-address|beer-sheva|בתים|--
+286|br7-address|beer-sheva|דואר|--
+286|br7-address|beer-sheva|כתובות|--
+286|br7-address|beer-sheva|מספר|--
+286|br7-address|beer-sheva|משלוחים|--
+286|br7-address|beer-sheva|עיר|--
+286|br7-address|beer-sheva|רחובות|--
+286|br7-address|beer-sheva|שמות|--
+287|br7-budjet|beer-sheva|באר שבע|--
+287|br7-budjet|beer-sheva|כלכלה|--
+287|br7-budjet|beer-sheva|נגב|--
+287|br7-budjet|beer-sheva|עיריות|--
+287|br7-budjet|beer-sheva|עירייה|--
+287|br7-budjet|beer-sheva|רשויות מקומיות|--
+287|br7-budjet|beer-sheva|שינויים בתקציב|--
+288|br7-michrazim|beer-sheva|באר שבע|--
+288|br7-michrazim|beer-sheva|הצעות מחיר|--
+288|br7-michrazim|beer-sheva|כלכלה|--
+288|br7-michrazim|beer-sheva|מכרזים|--
+288|br7-michrazim|beer-sheva|עירייה|--
+288|br7-michrazim|beer-sheva|רכש|--
+288|br7-michrazim|beer-sheva|רשויות|--
+288|br7-michrazim|beer-sheva|רשויות מקומיות|--
+289|br7-shimur|beer-sheva|אדריכלות|--
+289|br7-shimur|beer-sheva|אטרקציות תיירות|--
+289|br7-shimur|beer-sheva|באר שבע|--
+289|br7-shimur|beer-sheva|בריטים|--
+289|br7-shimur|beer-sheva|מדבר|--
+289|br7-shimur|beer-sheva|נגב|--
+289|br7-shimur|beer-sheva|נחל באר שבע|--
+289|br7-shimur|beer-sheva|עותמנים|--
+289|br7-shimur|beer-sheva|עיר עתיקה|--
+289|br7-shimur|beer-sheva|רשות העתיקות|--
+289|br7-shimur|beer-sheva|שימור|--
+290|br7-zoning|beer-sheva|גוש|--
+290|br7-zoning|beer-sheva|חלקה|--
+290|br7-zoning|beer-sheva|ייעודי קרקע|--
+290|br7-zoning|beer-sheva|מגרש|--
+290|br7-zoning|beer-sheva|קומפילציה|--
+290|br7-zoning|beer-sheva|רמי|--
+290|br7-zoning|beer-sheva|שימושים|--
+290|br7-zoning|beer-sheva|תבע|--
+290|br7-zoning|beer-sheva|תוכניות אסטרטגיות|--
+290|br7-zoning|beer-sheva|תכנון סטטוטורי|--
+290|br7-zoning|beer-sheva|תכנית בניין עיר|--
+291|branches|bank_israel|אוצר וכלכלה|--
+292|britzugiyut|ministry_of_justice|ברית הזוגיות|--
+292|britzugiyut|ministry_of_justice|משרד המשפטים|--
+292|britzugiyut|ministry_of_justice|רשם הזוגיות|--
+293|brt_line|ministry_of_transport|BRT|--
+293|brt_line|ministry_of_transport|GIS|--
+293|brt_line|ministry_of_transport|אוטובוס|--
+293|brt_line|ministry_of_transport|אוטובוסים מהירים|--
+293|brt_line|ministry_of_transport|ממג|--
+293|brt_line|ministry_of_transport|תחבורה מהירה|--
+297|budget2020|mof|שינויים בתקציב|--
+297|budget2020|mof|תקציב|--
+297|budget2020|mof|תקציב וביצוע|--
+298|budget-changes-2014|mof|שינויים תקציביים|--
+299|budget-changes-2015|mof|שינויים תקציביים|--
+300|budget-changes-2016|mof|שינויים תקציביים|--
+301|buildingsites|labor|אתרי בנייה פעילים|--
+302|bureaus-of-health|ministry-health|בריאות|--
+302|bureaus-of-health|ministry-health|בריאות ורווחה|--
+302|bureaus-of-health|ministry-health|לשכות בריאות|--
+302|bureaus-of-health|ministry-health|משרד הבריאות|--
+303|bus_fleet|ministry_of_transport|אוטובוסים|--
+303|bus_fleet|ministry_of_transport|משרד התחבורה|--
+303|bus_fleet|ministry_of_transport|תחבורה ציבורית|--
+304|businessreq|firefightingcommission|בעלי עסקים|--
+304|businessreq|firefightingcommission|הסוכנות לעסקים קטנים|--
+304|businessreq|firefightingcommission|כבאות והצלה|--
+304|businessreq|firefightingcommission|עסקים|--
+304|businessreq|firefightingcommission|עסקים קטנים|--
+304|businessreq|firefightingcommission|רישוי|--
+305|bus_rishui_bitzua_2021|ministry_of_transport|אוטובוסים|--
+305|bus_rishui_bitzua_2021|ministry_of_transport|משרד התחבורה|--
+305|bus_rishui_bitzua_2021|ministry_of_transport|תחבורה|--
+305|bus_rishui_bitzua_2021|ministry_of_transport|תחבורה ציבורית|--
+307|bus_stops|ministry_of_transport|אוטובוסים|--
+307|bus_stops|ministry_of_transport|משרד התחבורה|--
+307|bus_stops|ministry_of_transport|תחבורה|--
+307|bus_stops|ministry_of_transport|תחבורה ציבורית|--
+308|busterminal|ministry_of_transport|GIS|--
+308|busterminal|ministry_of_transport|אוטובוסים|--
+308|busterminal|ministry_of_transport|חצב|--
+308|busterminal|ministry_of_transport|ממג|--
+308|busterminal|ministry_of_transport|מסוף|--
+308|busterminal|ministry_of_transport|מסופים|--
+308|busterminal|ministry_of_transport|תחבורה ציבורית|--
+309|bus_terminal_fcl|ministry_of_transport|GIS|--
+309|bus_terminal_fcl|ministry_of_transport|אוטובוסים|--
+309|bus_terminal_fcl|ministry_of_transport|חצב|--
+309|bus_terminal_fcl|ministry_of_transport|מסופים|--
+309|bus_terminal_fcl|ministry_of_transport|משרד התחבורה|--
+310|bus_terminal_strat|ministry_of_transport|GIS|--
+310|bus_terminal_strat|ministry_of_transport|אוטובוסים|--
+310|bus_terminal_strat|ministry_of_transport|חצב|--
+310|bus_terminal_strat|ministry_of_transport|ממג|--
+310|bus_terminal_strat|ministry_of_transport|מסופי אוטובוסים|--
+310|bus_terminal_strat|ministry_of_transport|מסופים|--
+310|bus_terminal_strat|ministry_of_transport|תכנית אב|--
+311|calculatorforentrepreneur|moital|איזורי תעשייה|--
+311|calculatorforentrepreneur|moital|יזם|--
+311|calculatorforentrepreneur|moital|כלכלה|--
+312|callkorekitotvatikim|socialequality|המשרד|--
+312|callkorekitotvatikim|socialequality|ותיקים|--
+312|callkorekitotvatikim|socialequality|חברתי|--
+312|callkorekitotvatikim|socialequality|כיתות|--
+312|callkorekitotvatikim|socialequality|לשוויון|--
+312|callkorekitotvatikim|socialequality|קול קורא|--
+313|callkoreyoung|socialequality|המשרד|--
+313|callkoreyoung|socialequality|המשרד לשוויון חברתי|--
+313|callkoreyoung|socialequality|הצעירים|--
+313|callkoreyoung|socialequality|חברתי|--
+313|callkoreyoung|socialequality|לשוויון|--
+313|callkoreyoung|socialequality|מעורבות חברתית|--
+313|callkoreyoung|socialequality|קול|--
+313|callkoreyoung|socialequality|קול קורא|--
+313|callkoreyoung|socialequality|קורא|--
+313|callkoreyoung|socialequality|רשויות|--
+313|callkoreyoung|socialequality|רשות|--
+313|callkoreyoung|socialequality|רשות הצעירים|--
+313|callkoreyoung|socialequality|תקצוב|--
+314|cannabis_certified_physicians|ministry-health|קנאביס|--
+314|cannabis_certified_physicians|ministry-health|קנאביס רפואי|--
+314|cannabis_certified_physicians|ministry-health|קנביס|--
+314|cannabis_certified_physicians|ministry-health|קנביס רפואי|--
+314|cannabis_certified_physicians|ministry-health|רישיון לקנביס|--
+315|cannabis_licensed_workers|ministry-health|קנאביס רפואי|--
+315|cannabis_licensed_workers|ministry-health|קנביס רפואי|--
+315|cannabis_licensed_workers|ministry-health|רישיון עיסוק בקנביס|--
+316|cannabis_pharmacies|ministry-health|קנאביס רפואי|--
+316|cannabis_pharmacies|ministry-health|קנביס רפואי|--
+317|carbon-monoxide|ministry_of_the_environment|זיהום אוויר|--
+317|carbon-monoxide|ministry_of_the_environment|מחצבות|--
+317|carbon-monoxide|ministry_of_the_environment|סביבה|--
+317|carbon-monoxide|ministry_of_the_environment|פליטות|--
+317|carbon-monoxide|ministry_of_the_environment|תעשיה|--
+318|car-insurance|mof|ביטוח רכב|--
+318|car-insurance|mof|עובדי מדינה|--
+318|car-insurance|mof|תעריפי ביטוח רכב|--
+319|cell_subbasin|water_authority|אגן|--
+319|cell_subbasin|water_authority|מים|--
+319|cell_subbasin|water_authority|רשות המים|--
+319|cell_subbasin|water_authority|תא דיווח הידרולוגי|--
+319|cell_subbasin|water_authority|תת אגן|--
+320|cemeteries|israel_mapping_center|אוכלוסיה|--
+320|cemeteries|israel_mapping_center|המרכז למיפוי ישראל|--
+321|central-database-of-cbs|lamas|אוכלוסיה|--
+321|central-database-of-cbs|lamas|נתוני הלמס|--
+322|certificate-list-of-line-equipment|tikshoret|יבוא ציוד|--
+322|certificate-list-of-line-equipment|tikshoret|מכס|--
+322|certificate-list-of-line-equipment|tikshoret|משרד התקשורת|--
+322|certificate-list-of-line-equipment|tikshoret|ציוד קווי|--
+322|certificate-list-of-line-equipment|tikshoret|ציוד קצה|--
+323|cf-output|ministry_of_the_environment|CHIMERE|--
+323|cf-output|ministry_of_the_environment|איכות אוויר|--
+323|cf-output|ministry_of_the_environment|מודל|--
+323|cf-output|ministry_of_the_environment|מזהמי אוויר|--
+323|cf-output|ministry_of_the_environment|סביבה|--
+323|cf-output|ministry_of_the_environment|תחזית|--
+324|chiller|energy_and_water|אנרגיה ומים|--
+324|chiller|energy_and_water|שימור אנרגיה|--
+325|chiyuvim|ministry_of_justice|משרד המשפטים|--
+332|citiesandsettelments|population_authority|אוכלוסיה|--
+332|citiesandsettelments|population_authority|ישובים בישראל|--
+333|cleanasbestos|ministry_of_the_environment|אסבסט|--
+333|cleanasbestos|ministry_of_the_environment|פינוי אסבסט|--
+334|cleanliness|ministry_of_the_environment|הגנת הסביבה|--
+334|cleanliness|ministry_of_the_environment|נקיון|--
+335|coast-sensitivity|ministry_of_the_environment|דלק|--
+335|coast-sensitivity|ministry_of_the_environment|זיהום|--
+335|coast-sensitivity|ministry_of_the_environment|חופים|--
+335|coast-sensitivity|ministry_of_the_environment|סביבה|--
+335|coast-sensitivity|ministry_of_the_environment|רגישות|--
+336|companiespersonscleansing20200|ministry_of_justice|משפטים|--
+336|companiespersonscleansing20200|ministry_of_justice|רשם החברות|--
+337|cong_tax_rings|ministry_of_transport|gis|--
+337|cong_tax_rings|ministry_of_transport|חצב|--
+337|cong_tax_rings|ministry_of_transport|משרד התחבורה|--
+337|cong_tax_rings|ministry_of_transport|סל גודש|--
+338|construction_equipment|ministry_of_transport|כלי רכב|--
+338|construction_equipment|ministry_of_transport|משרד התחבורה|--
+338|construction_equipment|ministry_of_transport|רכב|--
+338|construction_equipment|ministry_of_transport|תחבורה|--
+339|contaminated_land_tlv|ministry_of_the_environment|זיהום|--
+339|contaminated_land_tlv|ministry_of_the_environment|סביבה|--
+340|contaminatedterrains|ministry_of_the_environment|הגנת הסביבה|--
+340|contaminatedterrains|ministry_of_the_environment|קרקע|--
+341|continuing_education|ministry_of_justice|השתלמויות|--
+341|continuing_education|ministry_of_justice|משרד המשפטים|--
+342|coordinates|ministry_of_education|חינוך|--
+342|coordinates|ministry_of_education|חינוך ותרבות|--
+342|coordinates|ministry_of_education|מיקום מוסדות|--
+343|cord-blood-banks|ministry-health|בנקי דם טבורי|--
+343|cord-blood-banks|ministry-health|בריאות|--
+343|cord-blood-banks|ministry-health|בריאות ורווחה|--
+343|cord-blood-banks|ministry-health|דם טבורי|--
+343|cord-blood-banks|ministry-health|הריון ולידה|--
+343|cord-blood-banks|ministry-health|משרד הבריאות|--
+345|corpus|cio|hebrew|--
+345|corpus|cio|nlp|--
+345|corpus|cio|עברית|--
+345|corpus|cio|קורפוס|--
+345|corpus|cio|שפה|--
+347|countries|population_authority|אוכלוסיה|--
+347|countries|population_authority|ארצות|--
+347|countries|population_authority|ארצות מוכרות|--
+347|countries|population_authority|מדינות|--
+348|court_specialists|ministry_of_social_affairs|בית משפט|--
+348|court_specialists|ministry_of_social_affairs|בריאות ורווחה|--
+348|court_specialists|ministry_of_social_affairs|גירושין|--
+348|court_specialists|ministry_of_social_affairs|משרד הרווחה|--
+349|covid-19|ministry-health|covid19|--
+349|covid-19|ministry-health|משרד הבריאות|--
+349|covid-19|ministry-health|קורונה|--
+350|cpalist|ministry_of_justice|משרד המשפטים|--
+350|cpalist|ministry_of_justice|רואי החשבון|--
+350|cpalist|ministry_of_justice|רואי חשבון|--
+350|cpalist|ministry_of_justice|רואי חשבון פעילים|--
+351|cpc|ministry_of_justice|משרד המשפטים|--
+351|cpc|ministry_of_justice|סיווגי CPC|--
+352|crime_records_data|israel-police|משטרה|--
+352|crime_records_data|israel-police|משטרת ישראל|--
+352|crime_records_data|israel-police|פלילי|--
+352|crime_records_data|israel-police|פשיעה|--
+352|crime_records_data|israel-police|תחנות|--
+353|cvfr|ministry_of_transport|CVFR|--
+353|cvfr|ministry_of_transport|GIS|--
+353|cvfr|ministry_of_transport|חצב|--
+353|cvfr|ministry_of_transport|ממג|--
+353|cvfr|ministry_of_transport|נתיבי טיסה|--
+353|cvfr|ministry_of_transport|תעופה אזרחית|--
+354|cybermarketplace|israel_national_cyber_directorate|סייבר|--
+356|database-of-plant-pests-in-israel|ministry_of_agriculture|מזיקים|--
+356|database-of-plant-pests-in-israel|ministry_of_agriculture|מחלות צמחים|--
+356|database-of-plant-pests-in-israel|ministry_of_agriculture|נגעים|--
+357|datasetlist|cio|אוכלוסיה|--
+357|datasetlist|cio|אוצר וכלכלה|--
+357|datasetlist|cio|אנרגיה ומים|--
+357|datasetlist|cio|בריאות ורווחה|--
+357|datasetlist|cio|דיור|--
+357|datasetlist|cio|חינוך ותרבות|--
+357|datasetlist|cio|משפט|--
+357|datasetlist|cio|סביבה|--
+357|datasetlist|cio|תחבורה|--
+357|datasetlist|cio|תיירות|--
+358|dat-gov-il|religion-office|דת|--
+358|dat-gov-il|religion-office|הדלקת נרות|--
+358|dat-gov-il|religion-office|חג|--
+358|dat-gov-il|religion-office|שבת|--
+359|decision260|cio|החלטות ממשלה|--
+360|degem-rechev-wltp|ministry_of_transport|כלי רכב|--
+360|degem-rechev-wltp|ministry_of_transport|משרד התחבורה|--
+360|degem-rechev-wltp|ministry_of_transport|רכב|--
+360|degem-rechev-wltp|ministry_of_transport|תחבורה|--
+361|depo_lrt_metro|ministry_of_transport|GIS|--
+361|depo_lrt_metro|ministry_of_transport|דיפו|--
+361|depo_lrt_metro|ministry_of_transport|חצב|--
+361|depo_lrt_metro|ministry_of_transport|מטרו|--
+361|depo_lrt_metro|ministry_of_transport|ממג|--
+361|depo_lrt_metro|ministry_of_transport|רכבת קלה|--
+361|depo_lrt_metro|ministry_of_transport|רקל|--
+362|desalination|water_authority|desalination|--
+362|desalination|water_authority|water|--
+362|desalination|water_authority|התפלה|--
+362|desalination|water_authority|מים|--
+362|desalination|water_authority|רשות המים|--
+363|designs|ministry_of_justice|מדגמים|--
+363|designs|ministry_of_justice|משרד המשפטים|--
+363|designs|ministry_of_justice|עיצובים|--
+364|digumi_arubut|ministry_of_the_environment|זיהום אוויר מארובות|--
+366|distance|israel_mapping_center|מרחק בין יישובים|--
+366|distance|israel_mapping_center|צמתים|--
+367|diurtziburi|ministry_of_housing|בינוי|--
+367|diurtziburi|ministry_of_housing|דיור ציבורי|--
+367|diurtziburi|ministry_of_housing|דירה פנויה|--
+367|diurtziburi|ministry_of_housing|חדרים|--
+367|diurtziburi|ministry_of_housing|מלאי|--
+367|diurtziburi|ministry_of_housing|משרד הבינוי והשיכון|--
+367|diurtziburi|ministry_of_housing|קומות|--
+367|diurtziburi|ministry_of_housing|ראוי למגורים|--
+367|diurtziburi|ministry_of_housing|שיכון|--
+369|domestic_pesticides|ministry_of_the_environment|בטיחות הדברה|--
+369|domestic_pesticides|ministry_of_the_environment|הגנת הסביבה|--
+369|domestic_pesticides|ministry_of_the_environment|חומרי הדברה|--
+370|driving_license_ranks|ministry_of_transport|משרד התחבורה|--
+370|driving_license_ranks|ministry_of_transport|נהיגה|--
+370|driving_license_ranks|ministry_of_transport|תחבורה|--
+371|driving_shcool|ministry_of_transport|משרד התחבורה|--
+371|driving_shcool|ministry_of_transport|נהיגה|--
+371|driving_shcool|ministry_of_transport|תחבורה|--
+372|drugs-rehab|ministry-health|אשפוזיות|--
+372|drugs-rehab|ministry-health|אשפוזית|--
+372|drugs-rehab|ministry-health|גמילה מאלכוהול|--
+372|drugs-rehab|ministry-health|גמילה מסמים|--
+372|drugs-rehab|ministry-health|מוסד גמילה|--
+373|druzim|ministry_of_justice|בתי הדין הדרוזים|--
+373|druzim|ministry_of_justice|חוזי נישואין|--
+373|druzim|ministry_of_justice|משרד המשפטים|--
+373|druzim|ministry_of_justice|תיקים|--
+374|druzim_kadim|ministry_of_justice|דרוזים|--
+374|druzim_kadim|ministry_of_justice|משרד המשפטים|--
+374|druzim_kadim|ministry_of_justice|קאדים|--
+374|druzim_kadim|ministry_of_justice|רשמי נישואין|--
+375|ecological-mapping-for-mosquito-controle|ministry_of_the_environment|אקולוגיה|--
+375|ecological-mapping-for-mosquito-controle|ministry_of_the_environment|הדברה|--
+375|ecological-mapping-for-mosquito-controle|ministry_of_the_environment|יתושים|--
+375|ecological-mapping-for-mosquito-controle|ministry_of_the_environment|נחלים|--
+375|ecological-mapping-for-mosquito-controle|ministry_of_the_environment|סביבה|--
+376|e-data-gov-il|israel_mapping_center|גוש שומה|--
+376|e-data-gov-il|israel_mapping_center|המרכז למיפוי ישראל|--
+376|e-data-gov-il|israel_mapping_center|שכבה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|אבטלה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|אוכלוסיה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|אוצר וכלכלה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|אקדמאים|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|גברים|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|דורשי עבודה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|הבטחת הכנסה|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|מועצות אזוריות|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|מחוז|--
+377|e-data-gov-il-dataset-yeshuvmoatzadata|ies|נשים|--
+381|emergencywatertanks|maaleedumim|חירום|--
+381|emergencywatertanks|maaleedumim|מחסור|--
+381|emergencywatertanks|maaleedumim|מים|--
+381|emergencywatertanks|maaleedumim|שריפה|--
+382|employeetravel|ministry_of_justice|משרד המשפטים|--
+382|employeetravel|ministry_of_justice|נסיעות|--
+383|employment|ministry_of_transport|GIS|--
+383|employment|ministry_of_transport|חצב|--
+383|employment|ministry_of_transport|משרד התחבורה|--
+383|employment|ministry_of_transport|שותפים לדרך|--
+384|e-new-data-gov-il|israel_mapping_center|המרכז למיפוי ישראל|--
+384|e-new-data-gov-il|israel_mapping_center|חלקות|--
+384|e-new-data-gov-il|israel_mapping_center|שכבה|--
+385|environmental_impact_index|ministry_of_the_environment|מדד ההשפעה ההסביבתית|--
+387|ethiopianrab|religion-office|העדה האתיופית|--
+387|ethiopianrab|religion-office|קייסים|--
+387|ethiopianrab|religion-office|רבנים|--
+388|eventsdistrict|firefightingcommission|אירועים|--
+388|eventsdistrict|firefightingcommission|חילוץ|--
+388|eventsdistrict|firefightingcommission|כבאות|--
+388|eventsdistrict|firefightingcommission|שריפה|--
+389|excellenceframework-2016|ministry_of_education|חינוך|--
+389|excellenceframework-2016|ministry_of_education|תמונה_חינוכית|--
+390|excellenceframework-district-2016|ministry_of_education|חינוך|--
+390|excellenceframework-district-2016|ministry_of_education|מחוז|--
+390|excellenceframework-district-2016|ministry_of_education|תמונה_חינוכית|--
+391|excellenceframework-loacal-2016|ministry_of_education|חינוך|--
+391|excellenceframework-loacal-2016|ministry_of_education|רשויות_מקומיות|--
+391|excellenceframework-loacal-2016|ministry_of_education|תמונה_חינוכית|--
+392|excellenceframework-school-2016|ministry_of_education|חינוך|--
+392|excellenceframework-school-2016|ministry_of_education|מוסדות_חינוך|--
+392|excellenceframework-school-2016|ministry_of_education|תמונה_חינוכית|--
+393|excellenceframework-service-2016|ministry_of_education|חינוך|--
+393|excellenceframework-service-2016|ministry_of_education|רשויות_מקומיות|--
+393|excellenceframework-service-2016|ministry_of_education|תמונה_חינוכית|--
+394|exemptions|governmentprocurementadministration|החשב הכללי|--
+394|exemptions|governmentprocurementadministration|מינהל הרכש|--
+394|exemptions|governmentprocurementadministration|מכרז|--
+394|exemptions|governmentprocurementadministration|מכרזים|--
+394|exemptions|governmentprocurementadministration|מרכבה|--
+394|exemptions|governmentprocurementadministration|רכש|--
+394|exemptions|governmentprocurementadministration|שינויים בתקציב|--
+397|ezvonot2018|ministry_of_justice|משרד המשפטים|--
+397|ezvonot2018|ministry_of_justice|עזבונות לטובת המדינה|--
+398|factory|ministry_of_the_environment|איכות הסביבה|--
+398|factory|ministry_of_the_environment|מפעלים|--
+398|factory|ministry_of_the_environment|סביבה|--
+398|factory|ministry_of_the_environment|תעשייה|--
+399|fast_lane_gate|ministry_of_transport|GIS|--
+399|fast_lane_gate|ministry_of_transport|חצב|--
+399|fast_lane_gate|ministry_of_transport|ממג|--
+399|fast_lane_gate|ministry_of_transport|נתיב מהיר|--
+399|fast_lane_gate|ministry_of_transport|שערים|--
+400|fast_lanes|ministry_of_transport|GIS|--
+400|fast_lanes|ministry_of_transport|דרכים|--
+400|fast_lanes|ministry_of_transport|ממג|--
+400|fast_lanes|ministry_of_transport|נתיב מהיר|--
+400|fast_lanes|ministry_of_transport|תשתית העדפה|--
+403|fcs-manufacturer|ministry-health|יצרני מזון|--
+403|fcs-manufacturer|ministry-health|עסקי מזון|--
+403|fcs-manufacturer|ministry-health|רישיון יצרן|--
+405|fieldschools|israel_mapping_center|המרכז למיפוי ישראל|--
+407|fireant|ministry_of_the_environment|הגנת הסביבה|--
+407|fireant|ministry_of_the_environment|המשרד להגנת הסביבה|--
+407|fireant|ministry_of_the_environment|מזיקים|--
+408|firefightingfees|firefightingcommission|אגרה|--
+408|firefightingfees|firefightingcommission|כבאות והצלה|--
+408|firefightingfees|firefightingcommission|כלכלה|--
+409|firs-name|population_authority|שמות|--
+409|firs-name|population_authority|שמות פרטיים|--
+410|flydata|airport_authority|טיסות|--
+411|foreignntz|ministry_of_exterior|משרד החוץ|--
+411|foreignntz|ministry_of_exterior|נציגויות זרות|--
+411|foreignntz|ministry_of_exterior|קונסוליות|--
+412|freedom-of-info|ministry_of_the_environment|איכות אוויר|--
+412|freedom-of-info|ministry_of_the_environment|דיגומים|--
+412|freedom-of-info|ministry_of_the_environment|פליטות והעברות לסביבה|--
+412|freedom-of-info|ministry_of_the_environment|קרינה|--
+412|freedom-of-info|ministry_of_the_environment|ריח|--
+412|freedom-of-info|ministry_of_the_environment|שפכים|--
+414|fuelstationbynumber|energy_and_water|אנרגיה ומים|--
+414|fuelstationbynumber|energy_and_water|תחבורה|--
+414|fuelstationbynumber|energy_and_water|תחנות דלק|--
+415|garbagecontainers|maaleedumim|איכות הסביבה|--
+415|garbagecontainers|maaleedumim|אשפה|--
+415|garbagecontainers|maaleedumim|זבל|--
+415|garbagecontainers|maaleedumim|מיחזור|--
+415|garbagecontainers|maaleedumim|פינוי|--
+417|gemelnet|cma|אוצר וכלכלה|--
+417|gemelnet|cma|גופים מוסדיים|--
+417|gemelnet|cma|גמל|--
+417|gemelnet|cma|דיווח חודשי|--
+417|gemelnet|cma|דמי ניהול|--
+417|gemelnet|cma|יתרת נכסים|--
+417|gemelnet|cma|מדד|--
+417|gemelnet|cma|רשות שוק ההון|--
+417|gemelnet|cma|תשואה|--
+418|geographic-and-national-land-based-numbering-range|tikshoret|מספור שירותי טלפוניה|--
+418|geographic-and-national-land-based-numbering-range|tikshoret|משרד התקשורת|--
+419|gis|ministry_of_agriculture|gis|--
+419|gis|ministry_of_agriculture|בריכות|--
+419|gis|ministry_of_agriculture|גאוגרפי|--
+419|gis|ministry_of_agriculture|דגים|--
+419|gis|ministry_of_agriculture|חקלאות|--
+419|gis|ministry_of_agriculture|חקלאות צמחית|--
+419|gis|ministry_of_agriculture|חקלאים|--
+419|gis|ministry_of_agriculture|מדגה|--
+419|gis|ministry_of_agriculture|מחוזות|--
+419|gis|ministry_of_agriculture|מטאורולוגי|--
+419|gis|ministry_of_agriculture|מים|--
+419|gis|ministry_of_agriculture|מפות|--
+419|gis|ministry_of_agriculture|מרעה|--
+419|gis|ministry_of_agriculture|פיתוח הכפר|--
+419|gis|ministry_of_agriculture|קרקע|--
+419|gis|ministry_of_agriculture|שטחי גידול|--
+419|gis|ministry_of_agriculture|שכבות|--
+419|gis|ministry_of_agriculture|תכנון|--
+420|gis-_|ministry_of_housing|GIS|--
+420|gis-_|ministry_of_housing|דירה בהנחה|--
+420|gis-_|ministry_of_housing|התחדשות עירונית|--
+420|gis-_|ministry_of_housing|מחיר למשתכן|--
+420|gis-_|ministry_of_housing|שיקום שכונות|--
+420|gis-_|ministry_of_housing|שכבה|--
+420|gis-_|ministry_of_housing|שכבות|--
+421|gizanut|ministry_of_justice|ממונים משרדיים למניעת גזענות|--
+422|govdecisions2016|pmo|אוכלוסיה|--
+422|govdecisions2016|pmo|אוצר וכלכלה|--
+422|govdecisions2016|pmo|אנרגיה ומים|--
+422|govdecisions2016|pmo|ביצוע|--
+422|govdecisions2016|pmo|בקרה|--
+422|govdecisions2016|pmo|בריאות ורווחה|--
+422|govdecisions2016|pmo|דוחות ביקורת|--
+422|govdecisions2016|pmo|דיווח|--
+422|govdecisions2016|pmo|דיור|--
+422|govdecisions2016|pmo|החלטות ממשלה|--
+422|govdecisions2016|pmo|חינוך ותרבות|--
+422|govdecisions2016|pmo|מעקב|--
+422|govdecisions2016|pmo|משפט|--
+422|govdecisions2016|pmo|סביבה|--
+422|govdecisions2016|pmo|שקיפות|--
+422|govdecisions2016|pmo|תחבורה|--
+422|govdecisions2016|pmo|תיירות|--
+424|greenbuildings|ministry_of_the_environment|אנרגיה|--
+424|greenbuildings|ministry_of_the_environment|בנייה ירוקה|--
+424|greenbuildings|ministry_of_the_environment|הגנת הסביבה|--
+424|greenbuildings|ministry_of_the_environment|סביבה|--
+424|greenbuildings|ministry_of_the_environment|שטחים בנויים|--
+425|greenkd|ministry_of_the_environment|גני ילדים|--
+425|greenkd|ministry_of_the_environment|חינוך|--
+425|greenkd|ministry_of_the_environment|סביבה|--
+426|greenschools|ministry_of_the_environment|הגנת הסביבה|--
+426|greenschools|ministry_of_the_environment|מוסדות חינוך|--
+426|greenschools|ministry_of_the_environment|עיר ירוקה|--
+427|gsa|mof|חברות ממשלתיות|--
+428|hafradat-psolet|ministry_of_the_environment|סביבה|--
+430|hagbalat_recall|ministry_of_transport|כלי רכב|--
+430|hagbalat_recall|ministry_of_transport|משרד התחבורה|--
+430|hagbalat_recall|ministry_of_transport|רכב|--
+430|hagbalat_recall|ministry_of_transport|תחבורה|--
+431|hakirot|ministry_of_justice|רשימת משרד חקירות|--
+432|halicim_bateydin|ministry_of_justice|הליכי בתי הדין|--
+432|halicim_bateydin|ministry_of_justice|משרד המשפטים|--
+432|halicim_bateydin|ministry_of_justice|סמני מסחר|--
+432|halicim_bateydin|ministry_of_justice|פטנטים|--
+433|hasmachottoveim|ministry_of_justice|הסמכות תובעים|--
+433|hasmachottoveim|ministry_of_justice|הסמכת תובעים|--
+433|hasmachottoveim|ministry_of_justice|משרד המשפטים|--
+433|hasmachottoveim|ministry_of_justice|תובעים|--
+434|hativot-nof|ministry_of_the_environment|בעלי חיים|--
+434|hativot-nof|ministry_of_the_environment|הגנת הסביבה|--
+434|hativot-nof|ministry_of_the_environment|מורשת|--
+434|hativot-nof|ministry_of_the_environment|נוף|--
+434|hativot-nof|ministry_of_the_environment|סביבה|--
+434|hativot-nof|ministry_of_the_environment|צמחיה|--
+434|hativot-nof|ministry_of_the_environment|רגישות|--
+434|hativot-nof|ministry_of_the_environment|שטחים פתוחים|--
+435|hatkana_nekudat_igun|ministry_of_transport|כלי רכב|--
+435|hatkana_nekudat_igun|ministry_of_transport|משרד התחבורה|--
+435|hatkana_nekudat_igun|ministry_of_transport|רכב|--
+435|hatkana_nekudat_igun|ministry_of_transport|תחבורה|--
+437|heavy-truck|ministry_of_transport|כלי רכב|--
+437|heavy-truck|ministry_of_transport|משרד התחבורה|--
+437|heavy-truck|ministry_of_transport|רכב|--
+437|heavy-truck|ministry_of_transport|תחבורה|--
+439|hekdeshot|ministry_of_justice|הקדש|--
+439|hekdeshot|ministry_of_justice|הקדש ציבורי|--
+439|hekdeshot|ministry_of_justice|הקדשות|--
+439|hekdeshot|ministry_of_justice|הקדשות ציבוריים|--
+439|hekdeshot|ministry_of_justice|משרד המשפטים|--
+440|helipad|ministry_of_transport|gis|--
+440|helipad|ministry_of_transport|בתי חולים|--
+440|helipad|ministry_of_transport|חצב|--
+440|helipad|ministry_of_transport|מנחתים|--
+441|highwayparkinglots|israel_mapping_center|המרכז למיפוי ישראל|--
+442|hitkadmuthabnia|ministry_of_housing|שיווק ובניה|--
+443|hiv|ministry-health|איידס|--
+443|hiv|ministry-health|בריאות|--
+443|hiv|ministry-health|בריאות ורווחה|--
+443|hiv|ministry-health|משרד הבריאות|--
+446|hmo-companies|social_security|בריאות ורווחה|--
+446|hmo-companies|social_security|קופת חולים|--
+447|hmo_companies2014|social_security|בריאות ורווחה|--
+447|hmo_companies2014|social_security|קופת חולים|--
+448|hmomaaleadumim|maaleedumim|בריאות|--
+448|hmomaaleadumim|maaleedumim|קופות חולים|--
+448|hmomaaleadumim|maaleedumim|רופאים|--
+448|hmomaaleadumim|maaleedumim|רפואה|--
+448|hmomaaleadumim|maaleedumim|תרופות|--
+450|hofesh|ministry_of_justice|חופש המידע|--
+450|hofesh|ministry_of_justice|משרד המשפטים|--
+451|hofesh_hameida|ministry_of_justice|משרד המשפטים|--
+451|hofesh_hameida|ministry_of_justice|תלונות חופש המידע|--
+452|hof-naki|ministry_of_the_environment|סביבה|--
+453|hokrim|ministry_of_justice|חוקרים|--
+454|holidaysinisrael|ministry_of_tourism|משרד התיירות|--
+454|holidaysinisrael|ministry_of_tourism|תיירות|--
+455|honoraryconsuls|ministry_of_exterior|משרד החוץ|--
+455|honoraryconsuls|ministry_of_exterior|קונסול כבוד|--
+457|hotels_ranking|ministry_of_tourism|משרד התיירות|--
+461|housingunits-planning-inventory|the_israel_lands_administration|דיור|--
+461|housingunits-planning-inventory|the_israel_lands_administration|רשות מקרקעי ישראל|--
+462|hoze_zhut|ministry_of_transport|GIS|--
+462|hoze_zhut|ministry_of_transport|דרך|--
+462|hoze_zhut|ministry_of_transport|זכות|--
+462|hoze_zhut|ministry_of_transport|חוצה ישראל|--
+462|hoze_zhut|ministry_of_transport|כביש|--
+462|hoze_zhut|ministry_of_transport|ממג|--
+466|http-dat-gov-il-forms-data-shabat-5777-xls|religion-office|הדלת נרות|--
+466|http-dat-gov-il-forms-data-shabat-5777-xls|religion-office|חיונך ותרבות|--
+466|http-dat-gov-il-forms-data-shabat-5777-xls|religion-office|שבת|--
+467|http-dat-gov-il-forms-data-shabat-5778-xls|religion-office|דת|--
+467|http-dat-gov-il-forms-data-shabat-5778-xls|religion-office|הדלקת נרות|--
+467|http-dat-gov-il-forms-data-shabat-5778-xls|religion-office|חינוך ותרבות|--
+467|http-dat-gov-il-forms-data-shabat-5778-xls|religion-office|שבת|--
+468|https-data-gov-il-organization-ministry-of-immigrant-absorption|ministry_of_immigrant_absorption|מוסדות לימוד|--
+468|https-data-gov-il-organization-ministry-of-immigrant-absorption|ministry_of_immigrant_absorption|סטודנט|--
+468|https-data-gov-il-organization-ministry-of-immigrant-absorption|ministry_of_immigrant_absorption|סטודנטים|--
+468|https-data-gov-il-organization-ministry-of-immigrant-absorption|ministry_of_immigrant_absorption|עולים|--
+468|https-data-gov-il-organization-ministry-of-immigrant-absorption|ministry_of_immigrant_absorption|תואר אקדמי|--
+469|https-goo-gl-u7v4qv|haifa|אוכלוסיה|--
+469|https-goo-gl-u7v4qv|haifa|חינוך ותרבות|--
+469|https-goo-gl-u7v4qv|haifa|חיפה|--
+469|https-goo-gl-u7v4qv|haifa|מתקני ספורט|--
+470|https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws|knesset|חוקי מדינת ישראל|--
+470|https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws|knesset|חוקים|--
+470|https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws|knesset|חקיקה|--
+470|https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws|knesset|כנסת|--
+470|https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws|knesset|משפטים|--
+471|https-shirathayam-m-datit-org-il-pirsumnisuin|religion-office|אוכלוסיה|--
+471|https-shirathayam-m-datit-org-il-pirsumnisuin|religion-office|חתונה|--
+471|https-shirathayam-m-datit-org-il-pirsumnisuin|religion-office|נישואין|--
+471|https-shirathayam-m-datit-org-il-pirsumnisuin|religion-office|נרשמים לנישואין|--
+471|https-shirathayam-m-datit-org-il-pirsumnisuin|religion-office|שירותי דת|--
+472|https-www-cbs-gov-il-he-mediarelease-doclib-2019-057-24_19_057t1-xlsx|ministry-health|אוכלוסיה|--
+472|https-www-cbs-gov-il-he-mediarelease-doclib-2019-057-24_19_057t1-xlsx|ministry-health|כלכלה|--
+473|https-www-data-gov-il-dataset-682|water_authority|Kineret|--
+473|https-www-data-gov-il-dataset-682|water_authority|level|--
+473|https-www-data-gov-il-dataset-682|water_authority|water|--
+473|https-www-data-gov-il-dataset-682|water_authority|כנרת|--
+473|https-www-data-gov-il-dataset-682|water_authority|מים|--
+473|https-www-data-gov-il-dataset-682|water_authority|מפלס|--
+473|https-www-data-gov-il-dataset-682|water_authority|רשות המים|--
+474|https-www-data-gov-il-dataset-683|water_authority|dead sea|--
+474|https-www-data-gov-il-dataset-683|water_authority|level|--
+474|https-www-data-gov-il-dataset-683|water_authority|water|--
+474|https-www-data-gov-il-dataset-683|water_authority|ים המלח|--
+474|https-www-data-gov-il-dataset-683|water_authority|מים|--
+474|https-www-data-gov-il-dataset-683|water_authority|מפלס|--
+474|https-www-data-gov-il-dataset-683|water_authority|רשות המים|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|אכיפה|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|כבישים|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|מהירות|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|מצלמה|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|רמזור|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|תחבורה|--
+475|https-www-gov-il-he-departments-general-traffic-enforcement-cameras|ministry_of_internal_security|תנועה|--
+476|https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2|ministry_of_internal_security|אכיפה|--
+476|https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2|ministry_of_internal_security|השבתה|--
+476|https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2|ministry_of_internal_security|חנייה|--
+476|https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2|ministry_of_internal_security|כלי רכב|--
+476|https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2|ministry_of_internal_security|משטרה|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|אוכלוסיה|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|חיפה|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|חניה יומית|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|מדחנים|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|רחובות|--
+477|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls|haifa|תחבורה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|אוכלוסיה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|איכות הסביבה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|ארנונה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|חיפה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|סביבה|--
+478|https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls|haifa|שומה|--
+479|https-www-haifa-muni-il-informationcity-pages-databasespublic-aspx|haifa|בתי מלון|--
+479|https-www-haifa-muni-il-informationcity-pages-databasespublic-aspx|haifa|חיפה|--
+479|https-www-haifa-muni-il-informationcity-pages-databasespublic-aspx|haifa|תיירות|--
+481|hydro_station|water_authority|water|--
+481|hydro_station|water_authority|הידרומטריה|--
+481|hydro_station|water_authority|מים|--
+481|hydro_station|water_authority|רשות המים|--
+481|hydro_station|water_authority|תחנה הידרומטרית|--
+484|ica-changes|ministry_of_justice|חברות|--
+484|ica-changes|ministry_of_justice|משרד המשפטים|--
+484|ica-changes|ministry_of_justice|שינויים|--
+484|ica-changes|ministry_of_justice|שינויים בחברות|--
+484|ica-changes|ministry_of_justice|שינויים בתאגידים|--
+484|ica-changes|ministry_of_justice|תאגידים|--
+485|ica_companies|ministry_of_justice|חברות|--
+485|ica_companies|ministry_of_justice|משפטים|--
+485|ica_companies|ministry_of_justice|משרד המשפטים|--
+486|ica_partnerships|ministry_of_justice|משרד המשפטים|--
+487|idea|ministry_of_exterior|כותרים|--
+487|idea|ministry_of_exterior|משרד החוץ|--
+487|idea|ministry_of_exterior|ספריה|--
+488|idg-platform|socialequality|דיגיטלית|--
+488|idg-platform|socialequality|המשרד|--
+488|idg-platform|socialequality|השרד לשוויון חברתי|--
+488|idg-platform|socialequality|חברתי|--
+488|idg-platform|socialequality|ישראל|--
+488|idg-platform|socialequality|ישראל דיגיטלית|--
+488|idg-platform|socialequality|לשוויון|--
+488|idg-platform|socialequality|פלטפורמות|--
+488|idg-platform|socialequality|פלטפורמות רוחביות|--
+488|idg-platform|socialequality|קול|--
+488|idg-platform|socialequality|קול קורא|--
+488|idg-platform|socialequality|קורא|--
+488|idg-platform|socialequality|רוחביות|--
+488|idg-platform|socialequality|רשויות|--
+488|idg-platform|socialequality|תקצוב|--
+489|import_quotas|moital|יבוא|--
+489|import_quotas|moital|כלכלה|--
+489|import_quotas|moital|מוצרי מזון|--
+489|import_quotas|moital|מכסות|--
+490|ims_stat|ministry_of_transport|gis|--
+490|ims_stat|ministry_of_transport|השרות המטאורולוגי|--
+490|ims_stat|ministry_of_transport|חצב|--
+490|ims_stat|ministry_of_transport|מגבלות בניה|--
+490|ims_stat|ministry_of_transport|ממג|--
+490|ims_stat|ministry_of_transport|תחנות|--
+491|industrial|ministry_of_transport|GIS|--
+491|industrial|ministry_of_transport|חצב|--
+491|industrial|ministry_of_transport|ממג|--
+491|industrial|ministry_of_transport|תעסוקה|--
+491|industrial|ministry_of_transport|תעשיה|--
+492|industrialareas|ministry_of_the_environment|סביבה|--
+492|industrialareas|ministry_of_the_environment|תעשייה|--
+493|industrial-zones-info|moital|איזורי תעשייה|--
+493|industrial-zones-info|moital|כלכלה|--
+493|industrial-zones-info|moital|תעשייה|--
+495|installed-filters|ministry_of_the_environment|זיהום אויר|--
+495|installed-filters|ministry_of_the_environment|כלי רכב|--
+495|installed-filters|ministry_of_the_environment|סביבה|--
+496|insurance|cma|אוצר וכלכלה|--
+496|insurance|cma|ביטוח|--
+496|insurance|cma|גופים מוסדיים|--
+496|insurance|cma|דיווח חודשי|--
+496|insurance|cma|דמי ניהול|--
+496|insurance|cma|יתרת נכסים|--
+496|insurance|cma|מדד|--
+496|insurance|cma|רשות שוק ההון|--
+496|insurance|cma|תשואה|--
+497|interchange_areas|ministry_of_transport|gis|--
+497|interchange_areas|ministry_of_transport|חצב|--
+497|interchange_areas|ministry_of_transport|מחלפים|--
+497|interchange_areas|ministry_of_transport|ממג|--
+497|interchange_areas|ministry_of_transport|רמפות|--
+497|interchange_areas|ministry_of_transport|שטחים כלואים|--
+497|interchange_areas|ministry_of_transport|תשתית תחבורתית|--
+498|intershiplabs|ministry-health|בריאות|--
+498|intershiplabs|ministry-health|בריאות ורווחה|--
+498|intershiplabs|ministry-health|התמחות|--
+498|intershiplabs|ministry-health|מוסדות רפואיים|--
+498|intershiplabs|ministry-health|מעבדות|--
+498|intershiplabs|ministry-health|משרד הבריאות|--
+499|ipc|ministry_of_justice|משרד המשפטים|--
+499|ipc|ministry_of_justice|סיווגי IPC|--
+500|iplan-itur-tochnit|iplan|מידע סטטוטורי|--
+500|iplan-itur-tochnit|iplan|מינהל התכנון|--
+500|iplan-itur-tochnit|iplan|משרד האוצר|--
+500|iplan-itur-tochnit|iplan|סביבה|--
+500|iplan-itur-tochnit|iplan|סמכות ארצית|--
+500|iplan-itur-tochnit|iplan|סמכות מחוזית|--
+500|iplan-itur-tochnit|iplan|תכנון|--
+500|iplan-itur-tochnit|iplan|תכניות|--
+500|iplan-itur-tochnit|iplan|תכניות מפורטות|--
+500|iplan-itur-tochnit|iplan|תכניות מתאר|--
+501|israel_fire_rescue_stations|firefightingcommission|כיבוי|--
+501|israel_fire_rescue_stations|firefightingcommission|מיקום|--
+501|israel_fire_rescue_stations|firefightingcommission|מיקומי|--
+501|israel_fire_rescue_stations|firefightingcommission|תחנה|--
+502|israel_rain_areas_for_planning|iplan|גשם|--
+502|israel_rain_areas_for_planning|iplan|הצפות|--
+502|israel_rain_areas_for_planning|iplan|מים|--
+502|israel_rain_areas_for_planning|iplan|מסמך ניהול נגר|--
+502|israel_rain_areas_for_planning|iplan|נגר|--
+502|israel_rain_areas_for_planning|iplan|נגר עילי|--
+502|israel_rain_areas_for_planning|iplan|ניהול נגר|--
+502|israel_rain_areas_for_planning|iplan|ניקוז|--
+502|israel_rain_areas_for_planning|iplan|תכנון|--
+503|israel-streets-synom|population_authority|אוכלוסיה|--
+503|israel-streets-synom|population_authority|סינונימי|--
+503|israel-streets-synom|population_authority|רחוב|--
+503|israel-streets-synom|population_authority|רחובות|--
+503|israel-streets-synom|population_authority|רחובות בישראל|--
+504|isreal_fire_rescue_gis|firefightingcommission|כבאות והצלה|--
+504|isreal_fire_rescue_gis|firefightingcommission|מחוזות|--
+504|isreal_fire_rescue_gis|firefightingcommission|תחנות אזוריות|--
+505|items-appproved-by-personal-import|tikshoret|יבוא ציוד|--
+505|items-appproved-by-personal-import|tikshoret|מכס|--
+505|items-appproved-by-personal-import|tikshoret|מסלול|--
+505|items-appproved-by-personal-import|tikshoret|משרד התקשורת|--
+505|items-appproved-by-personal-import|tikshoret|ציוד אלחוטי|--
+505|items-appproved-by-personal-import|tikshoret|ציוד קצה|--
+506|items-that-not-approved-by-personal-import|tikshoret|יבוא ציוד|--
+506|items-that-not-approved-by-personal-import|tikshoret|מכס|--
+506|items-that-not-approved-by-personal-import|tikshoret|מסלול|--
+506|items-that-not-approved-by-personal-import|tikshoret|משרד התקשורת|--
+506|items-that-not-approved-by-personal-import|tikshoret|ציוד אלחוטי|--
+506|items-that-not-approved-by-personal-import|tikshoret|ציוד קצה|--
+507|itzumim|labor|זרוע העבודה|--
+507|itzumim|labor|עיצומים כספיים|--
+508|ivf|ministry-health|בריאות|--
+508|ivf|ministry-health|בריאות ורווחה|--
+508|ivf|ministry-health|משרד הבריאות|--
+509|ivflist|ministry-health|IVF|--
+509|ivflist|ministry-health|הפריה חוץ גופי|--
+510|jobmarketpulse|ies|אבטלה|--
+510|jobmarketpulse|ies|אוכלוסיה|--
+510|jobmarketpulse|ies|אוצר וכלכלה|--
+510|jobmarketpulse|ies|דורשי עבודה|--
+510|jobmarketpulse|ies|שוק עבודה|--
+510|jobmarketpulse|ies|תעסוקה|--
+511|jobseekersdata|ies|אבטלה|--
+511|jobseekersdata|ies|אוכלוסיה|--
+511|jobseekersdata|ies|אוצר וכלכלה|--
+511|jobseekersdata|ies|אקדמאים|--
+511|jobseekersdata|ies|גיל|--
+511|jobseekersdata|ies|דורשי עבודה|--
+511|jobseekersdata|ies|הבטחת הכנסה|--
+511|jobseekersdata|ies|מפוטרים|--
+511|jobseekersdata|ies|שנות לימוד|--
+513|justice-miflagot|ministry_of_justice|משרד המשפטים|--
+513|justice-miflagot|ministry_of_justice|רשם המפלגות|--
+514|justice-patent-attorneys|ministry_of_justice|משרד המשפטים|--
+514|justice-patent-attorneys|ministry_of_justice|עורכי פטנטים|--
+516|kamut_sgirot_hodshi_rechev_blikoddegem|ministry_of_transport|כלי רכב|--
+516|kamut_sgirot_hodshi_rechev_blikoddegem|ministry_of_transport|משרד התחבורה|--
+516|kamut_sgirot_hodshi_rechev_blikoddegem|ministry_of_transport|רכב|--
+516|kamut_sgirot_hodshi_rechev_blikoddegem|ministry_of_transport|תחבורה|--
+517|kavi-hof|israel_mapping_center|המרכז למיפוי ישראל|--
+517|kavi-hof|israel_mapping_center|חוף|--
+517|kavi-hof|israel_mapping_center|מיפוי|--
+517|kavi-hof|israel_mapping_center|קווי חוף|--
+518|kav_ratzif_surveys|ministry_of_transport|ארצי|--
+518|kav_ratzif_surveys|ministry_of_transport|משרד התחבורה|--
+518|kav_ratzif_surveys|ministry_of_transport|רכבת|--
+518|kav_ratzif_surveys|ministry_of_transport|תחבורה ציבורית|--
+519|kindergarten|israel_mapping_center|המרכז למיפוי ישראל|--
+519|kindergarten|israel_mapping_center|חינוך ותרבות|--
+520|kindergartensmaaleadumim|maaleedumim|גני ילדים|--
+520|kindergartensmaaleadumim|maaleedumim|גנים|--
+520|kindergartensmaaleadumim|maaleedumim|גננות|--
+520|kindergartensmaaleadumim|maaleedumim|הגיל הרך|--
+520|kindergartensmaaleadumim|maaleedumim|חינוך|--
+520|kindergartensmaaleadumim|maaleedumim|לימודים|--
+521|kinneret_cl|water_authority|כינרת|--
+521|kinneret_cl|water_authority|כנרת|--
+521|kinneret_cl|water_authority|רשות המים|--
+522|kinuyeymakor|ministry_of_justice|כינויי מקור|--
+522|kinuyeymakor|ministry_of_justice|משרד המשפטים|--
+523|kiosk|cio|עמדות שירות|--
+523|kiosk|cio|עמדות שירות ממשלתיות|--
+523|kiosk|cio|עמדות שירות עצמי|--
+523|kiosk|cio|שירות עצמי|--
+524|kitot|ministry_of_education|חינוך|--
+524|kitot|ministry_of_education|חינוך ותרבות|--
+524|kitot|ministry_of_education|כיתות|--
+524|kitot|ministry_of_education|מוסדות|--
+525|klitamaaleadumim|maaleedumim|ארצות מוצא עולים חדשים|--
+525|klitamaaleadumim|maaleedumim|חינוך|--
+525|klitamaaleadumim|maaleedumim|מחוזות משרד העלייה והקליטה|--
+525|klitamaaleadumim|maaleedumim|קהילה|--
+526|kriahaziva|energy_and_water|אנרגיה ומים|--
+526|kriahaziva|energy_and_water|חציבה|--
+526|kriahaziva|energy_and_water|מחצבים|--
+526|kriahaziva|energy_and_water|סביבה|--
+528|labs-list|ministry-health|מעבדות מזון|--
+529|legislation|ministry_of_the_environment|חוקים|--
+529|legislation|ministry_of_the_environment|סביבה|--
+529|legislation|ministry_of_the_environment|תקנות|--
+530|level_discharge|water_authority|רשות המים|--
+530|level_discharge|water_authority|תחנות הידרומטריות|--
+531|levelseparation|ministry_of_transport|GIS|--
+531|levelseparation|ministry_of_transport|חצב|--
+531|levelseparation|ministry_of_transport|משרד התחבורה|--
+531|levelseparation|ministry_of_transport|רכבת ישראל|--
+532|lic_consumers|water_authority|consumer|--
+532|lic_consumers|water_authority|supplier|--
+532|lic_consumers|water_authority|water|--
+532|lic_consumers|water_authority|מים|--
+532|lic_consumers|water_authority|מפיק|--
+532|lic_consumers|water_authority|ספק|--
+532|lic_consumers|water_authority|ספקי מים|--
+532|lic_consumers|water_authority|צרכן|--
+532|lic_consumers|water_authority|רשות המים|--
+534|license_import_chemicals|moital|יבוא|--
+534|license_import_chemicals|moital|כימיקלים|--
+534|license_import_chemicals|moital|כלכלה|--
+534|license_import_chemicals|moital|רישוי|--
+535|licensing_bus_system|ministry_of_transport|אוטובוס|--
+535|licensing_bus_system|ministry_of_transport|אוטובוסים|--
+535|licensing_bus_system|ministry_of_transport|משרד התחבורה|--
+535|licensing_bus_system|ministry_of_transport|תחבורה|--
+535|licensing_bus_system|ministry_of_transport|תחבורה ציבורית|--
+536|lishkahebrew|ies|אוכלוסיה|--
+536|lishkahebrew|ies|דרכי הגעה|--
+536|lishkahebrew|ies|טלפון|--
+536|lishkahebrew|ies|ישוב|--
+536|lishkahebrew|ies|כתובת|--
+536|lishkahebrew|ies|לשכה|--
+536|lishkahebrew|ies|מענה טלפוני|--
+536|lishkahebrew|ies|שעות פתיחה|--
+536|lishkahebrew|ies|תעסוקה|--
+537|lishkot-tayarut|ministry_of_tourism|חול|--
+537|lishkot-tayarut|ministry_of_tourism|לשכות|--
+537|lishkot-tayarut|ministry_of_tourism|משרד התיירות|--
+537|lishkot-tayarut|ministry_of_tourism|תיירות|--
+538|lishkot-tayarut-eng|ministry_of_tourism|אטרקציות תיירות|--
+538|lishkot-tayarut-eng|ministry_of_tourism|לשכות תיירות|--
+538|lishkot-tayarut-eng|ministry_of_tourism|משרד התיירות|--
+538|lishkot-tayarut-eng|ministry_of_tourism|תיירות|--
+539|List_of_abbreviated_numbers_for_emergency_distress|tikshoret|מספור שירותי טלפוניה|--
+539|List_of_abbreviated_numbers_for_emergency_distress|tikshoret|משרד התקשורת|--
+540|list_of_rabbis_for_kidushin|rabanot|חופה|--
+540|list_of_rabbis_for_kidushin|rabanot|חופה וקידושין|--
+540|list_of_rabbis_for_kidushin|rabanot|חתונה|--
+540|list_of_rabbis_for_kidushin|rabanot|חתן|--
+540|list_of_rabbis_for_kidushin|rabanot|כלה|--
+540|list_of_rabbis_for_kidushin|rabanot|מקדש|--
+540|list_of_rabbis_for_kidushin|rabanot|קידושין|--
+540|list_of_rabbis_for_kidushin|rabanot|רב|--
+540|list_of_rabbis_for_kidushin|rabanot|רבנים|--
+541|lists-permit-holders-for-the-provision-of-large-scale-post|tikshoret|בעלי היתרים|--
+541|lists-permit-holders-for-the-provision-of-large-scale-post|tikshoret|משרד התקשורת|--
+541|lists-permit-holders-for-the-provision-of-large-scale-post|tikshoret|שירותי דואר|--
+542|local-authorities|interior_affairs|אוצר וכלכלה|--
+542|local-authorities|interior_affairs|דוחות כספיים|--
+542|local-authorities|interior_affairs|מועצות|--
+542|local-authorities|interior_affairs|מועצות אזוריות|--
+542|local-authorities|interior_affairs|מועצות מקומיות|--
+542|local-authorities|interior_affairs|רשויות המקומיות|--
+543|localauthorities2017|lamas|הלשכה המרכזית לסטטיסטיקה|--
+543|localauthorities2017|lamas|יישובים|--
+543|localauthorities2017|lamas|רשויות מקומיות|--
+544|localauthorities2018|lamas|בנייה|--
+544|localauthorities2018|lamas|דירוג הרשויות לפי מדדים|--
+544|localauthorities2018|lamas|חינוך|--
+544|localauthorities2018|lamas|מים|--
+544|localauthorities2018|lamas|רווחה|--
+544|localauthorities2018|lamas|רשויות מקומיות|--
+544|localauthorities2018|lamas|תחבורה|--
+544|localauthorities2018|lamas|תשתיות|--
+545|local_council|interior_affairs|אוצר וכלכלה|--
+545|local_council|interior_affairs|דוחות ביקורת|--
+545|local_council|interior_affairs|מועצות|--
+545|local_council|interior_affairs|מועצות אזוריות|--
+545|local_council|interior_affairs|מועצות מקומיות|--
+545|local_council|interior_affairs|רשויות מקומיות|--
+546|local-council-1|interior_affairs|אוצר וכלכלה|--
+546|local-council-1|interior_affairs|דוחות ביקורת|--
+546|local-council-1|interior_affairs|דוחות כספיים|--
+546|local-council-1|interior_affairs|דוחות מבוקרים|--
+546|local-council-1|interior_affairs|מועצות מקומיות|--
+546|local-council-1|interior_affairs|רשויות מקומיות|--
+549|lrt_line|ministry_of_transport|GIS|--
+549|lrt_line|ministry_of_transport|הסעת המונים|--
+549|lrt_line|ministry_of_transport|חצב|--
+549|lrt_line|ministry_of_transport|ממג|--
+549|lrt_line|ministry_of_transport|נתע|--
+549|lrt_line|ministry_of_transport|רכבת קלה|--
+549|lrt_line|ministry_of_transport|רקל|--
+550|lrt_stat|ministry_of_transport|GIS|--
+550|lrt_stat|ministry_of_transport|הסעת המונים|--
+550|lrt_stat|ministry_of_transport|חצב|--
+550|lrt_stat|ministry_of_transport|ממג|--
+550|lrt_stat|ministry_of_transport|רכבת קלה|--
+550|lrt_stat|ministry_of_transport|רקל|--
+550|lrt_stat|ministry_of_transport|תחנות|--
+551|lrt_strat_plan|ministry_of_transport|2040|--
+551|lrt_strat_plan|ministry_of_transport|GIS|--
+551|lrt_strat_plan|ministry_of_transport|הסעת המונים|--
+551|lrt_strat_plan|ministry_of_transport|ממג|--
+551|lrt_strat_plan|ministry_of_transport|תכנית אסטרטגית|--
+552|maale|ministry_of_justice|בתי דין|--
+552|maale|ministry_of_justice|השפעות קורונה|--
+552|maale|ministry_of_justice|משפטים|--
+553|maaleadumimpublicbuildings|maaleedumim|מבני קהילה|--
+553|maaleadumimpublicbuildings|maaleedumim|מבנים עירוניים|--
+553|maaleadumimpublicbuildings|maaleedumim|מיבני ציבור|--
+553|maaleadumimpublicbuildings|maaleedumim|עירייה|--
+554|mactzavot|maaleedumim|אזורי תעשייה|--
+554|mactzavot|maaleedumim|מחצבות|--
+555|madbirim|ministry_of_the_environment|אנשי מקצוע|--
+555|madbirim|ministry_of_the_environment|הדברה|--
+555|madbirim|ministry_of_the_environment|מדבירים|--
+555|madbirim|ministry_of_the_environment|מזיקים|--
+555|madbirim|ministry_of_the_environment|סביבה|--
+556|maflasmultiannual|ministry_of_the_environment|הגנת הסביבה|--
+556|maflasmultiannual|ministry_of_the_environment|פליטה|--
+557|maflasmultiannualforzover|ministry_of_the_environment|הגנת הסביבה|--
+557|maflasmultiannualforzover|ministry_of_the_environment|פליטה|--
+558|mahirlair_city|ministry_of_transport|GIS|--
+558|mahirlair_city|ministry_of_transport|אוטובוס|--
+558|mahirlair_city|ministry_of_transport|מהיר לעיר|--
+558|mahirlair_city|ministry_of_transport|ממג|--
+558|mahirlair_city|ministry_of_transport|נתיבי העדפה|--
+558|mahirlair_city|ministry_of_transport|עירוני|--
+559|mahirlair_intercity|ministry_of_transport|GIS|--
+559|mahirlair_intercity|ministry_of_transport|אוטובוס|--
+559|mahirlair_intercity|ministry_of_transport|בינעירוני|--
+559|mahirlair_intercity|ministry_of_transport|מהיר לעיר|--
+559|mahirlair_intercity|ministry_of_transport|ממג|--
+559|mahirlair_intercity|ministry_of_transport|נתיבי העדפה|--
+560|mahozot|ministry_of_the_environment|סביבה|--
+561|mamtziim_patents|ministry_of_justice|ממציאים לבקשות פטנט|--
+561|mamtziim_patents|ministry_of_justice|משרד המשפטים|--
+561|mamtziim_patents|ministry_of_justice|פטנטים|--
+562|mandatory-standards|moital|כלכלה|--
+562|mandatory-standards|moital|תקנים רשמיים|--
+563|manpowerconstructors|labor|זרוע העבודה|--
+563|manpowerconstructors|labor|כוח אדם|--
+563|manpowerconstructors|labor|מורשים|--
+563|manpowerconstructors|labor|קבלני|--
+563|manpowerconstructors|labor|קבלנים|--
+564|marks|ministry_of_justice|סמני מסחר כולל דמות|--
+565|mashkonot|ministry_of_justice|משכונות|--
+565|mashkonot|ministry_of_justice|משרד המשפטים|--
+565|mashkonot|ministry_of_justice|רשם החברות|--
+566|mashlima2023|ministry_of_transport|2023|--
+566|mashlima2023|ministry_of_transport|GIS|--
+566|mashlima2023|ministry_of_transport|HOV|--
+566|mashlima2023|ministry_of_transport|gis|--
+566|mashlima2023|ministry_of_transport|חצב|--
+566|mashlima2023|ministry_of_transport|ממג|--
+566|mashlima2023|ministry_of_transport|נרת|--
+566|mashlima2023|ministry_of_transport|תכנית משלימה|--
+567|mataan_ashkelon|ministry_of_transport|2040|--
+567|mataan_ashkelon|ministry_of_transport|gis|--
+567|mataan_ashkelon|ministry_of_transport|אשקלון|--
+567|mataan_ashkelon|ministry_of_transport|הסעת המונים|--
+567|mataan_ashkelon|ministry_of_transport|חצב|--
+567|mataan_ashkelon|ministry_of_transport|ממג|--
+567|mataan_ashkelon|ministry_of_transport|מתען|--
+567|mataan_ashkelon|ministry_of_transport|תחבורה ציבורית|--
+567|mataan_ashkelon|ministry_of_transport|תחצ|--
+569|matash|ministry_of_the_environment|אתרים סביבתיים|--
+569|matash|ministry_of_the_environment|טיהור שפכים|--
+569|matash|ministry_of_the_environment|סביבה|--
+569|matash|ministry_of_the_environment|שפכים|--
+570|max_discharge|water_authority|ספיקה|--
+570|max_discharge|water_authority|רשות המים|--
+570|max_discharge|water_authority|רשות המים והביוב|--
+570|max_discharge|water_authority|תחנות הידרומטריות|--
+571|maxdischarge_yearlyvolume|water_authority|water|--
+571|maxdischarge_yearlyvolume|water_authority|הידרומטריה|--
+571|maxdischarge_yearlyvolume|water_authority|מים|--
+571|maxdischarge_yearlyvolume|water_authority|ספיקה|--
+571|maxdischarge_yearlyvolume|water_authority|רשות המים|--
+571|maxdischarge_yearlyvolume|water_authority|תחנה הידרומטרית|--
+572|max_min_longtermforecast|meteorological_service|השירות המטאורולוגי|--
+573|mazon|rabanot|איכות מזון|--
+573|mazon|rabanot|גוף כשרות|--
+573|mazon|rabanot|חומרי גלם|--
+573|mazon|rabanot|כשרות|--
+573|mazon|rabanot|מוצר|--
+573|mazon|rabanot|מוצרי מזון|--
+573|mazon|rabanot|מזון|--
+573|mazon|rabanot|מיובאים|--
+573|mazon|rabanot|רבנות|--
+574|mdn-status|ministry_of_exterior|מדינות|--
+574|mdn-status|ministry_of_exterior|משרד החוץ|--
+574|mdn-status|ministry_of_exterior|סטטוס יחסים|--
+575|measlescoverage|ministry-health|בריאות|--
+575|measlescoverage|ministry-health|חיסונים|--
+575|measlescoverage|ministry-health|חצב|--
+575|measlescoverage|ministry-health|מחלו|--
+575|measlescoverage|ministry-health|מחלו זיהומיו|--
+575|measlescoverage|ministry-health|משרד הבריאו|--
+576|mechir-lamishtaken|ministry_of_housing|בינוי|--
+576|mechir-lamishtaken|ministry_of_housing|דיור|--
+576|mechir-lamishtaken|ministry_of_housing|דירה בהנחה|--
+576|mechir-lamishtaken|ministry_of_housing|מחיר למשתכן|--
+576|mechir-lamishtaken|ministry_of_housing|שיכון|--
+578|mehir_yevuan|ministry_of_transport|כלי רכב|--
+578|mehir_yevuan|ministry_of_transport|משרד התחבורה|--
+578|mehir_yevuan|ministry_of_transport|רכב|--
+578|mehir_yevuan|ministry_of_transport|תחבורה|--
+579|membership-in-liquidation|ministry_of_justice|משרד המשפטים|--
+580|mentalhealthclinics|ministry-health|בריאות|--
+580|mentalhealthclinics|ministry-health|בריאות הנפש|--
+580|mentalhealthclinics|ministry-health|בריאות ורווחה|--
+580|mentalhealthclinics|ministry-health|מוסדות רפואיים|--
+580|mentalhealthclinics|ministry-health|מרפאות בריאות נפש|--
+580|mentalhealthclinics|ministry-health|משרד הבריאות|--
+581|meonotyommaaleadumim|maaleedumim|חינוך|--
+581|meonotyommaaleadumim|maaleedumim|מעונות יום|--
+581|meonotyommaaleadumim|maaleedumim|רווחה|--
+582|merchav_tichnun|iplan|וועדות|--
+582|merchav_tichnun|iplan|וועדות תכנון|--
+582|merchav_tichnun|iplan|ועדה לתכנון ולבניה|--
+582|merchav_tichnun|iplan|מרחב תכנון|--
+582|merchav_tichnun|iplan|מרחבי תכנון|--
+583|merhavironi|ministry_of_transport|GIS|--
+583|merhavironi|ministry_of_transport|חצב|--
+583|merhavironi|ministry_of_transport|ממג|--
+583|merhavironi|ministry_of_transport|מרחבים עירוניים|--
+583|merhavironi|ministry_of_transport|תחבורה ציבורית|--
+584|metachnenim|ministry_of_housing|וועדות תכנון|--
+584|metachnenim|ministry_of_housing|מאגר|--
+584|metachnenim|ministry_of_housing|מודדים|--
+584|metachnenim|ministry_of_housing|משרד השיכון|--
+584|metachnenim|ministry_of_housing|מתכננים|--
+585|metadata|meteorological_service|גשם|--
+585|metadata|meteorological_service|הומוגני|--
+585|metadata|meteorological_service|טמפרטורה|--
+586|metavhim|ministry_of_justice|משרד המשפטים|--
+586|metavhim|ministry_of_justice|מתווכים פעילים|--
+587|metrofan|ministry_of_transport|gis|--
+587|metrofan|ministry_of_transport|אופניים|--
+587|metrofan|ministry_of_transport|חיפה|--
+587|metrofan|ministry_of_transport|חצב|--
+587|metrofan|ministry_of_transport|טירת הכרמל|--
+587|metrofan|ministry_of_transport|ממג|--
+587|metrofan|ministry_of_transport|נשר|--
+587|metrofan|ministry_of_transport|קריות|--
+587|metrofan|ministry_of_transport|רשת שבילים|--
+587|metrofan|ministry_of_transport|תכנית אב|--
+588|metro_line|ministry_of_transport|GIS|--
+588|metro_line|ministry_of_transport|METRO|--
+588|metro_line|ministry_of_transport|הסעת המונים|--
+588|metro_line|ministry_of_transport|מטרו|--
+588|metro_line|ministry_of_transport|מטרופולין תל אביב|--
+588|metro_line|ministry_of_transport|ממג|--
+588|metro_line|ministry_of_transport|קווים|--
+589|metronit|ministry_of_transport|GIS|--
+589|metronit|ministry_of_transport|חצב|--
+589|metronit|ministry_of_transport|מטרונית|--
+589|metronit|ministry_of_transport|ממג|--
+589|metronit|ministry_of_transport|קווים|--
+589|metronit|ministry_of_transport|תחבורה ציבורית|--
+590|metro_stat|ministry_of_transport|GIS|--
+590|metro_stat|ministry_of_transport|METRO|--
+590|metro_stat|ministry_of_transport|מטרו|--
+590|metro_stat|ministry_of_transport|מטרופולין תל אביב|--
+590|metro_stat|ministry_of_transport|ממג|--
+590|metro_stat|ministry_of_transport|תחנות|--
+591|mevakshimpatents|ministry_of_justice|משפטים|--
+592|mfaamanot|ministry_of_exterior|משרד החוץ|--
+593|mfa_un|ministry_of_exterior|אום|--
+595|mhamad-hahisha|socialequality|אישה|--
+595|mhamad-hahisha|socialequality|מעמד|--
+595|mhamad-hahisha|socialequality|מעמד האישה|--
+595|mhamad-hahisha|socialequality|קול|--
+595|mhamad-hahisha|socialequality|קול קורא|--
+595|mhamad-hahisha|socialequality|קורא|--
+595|mhamad-hahisha|socialequality|רשויות|--
+596|miflas2012|ministry_of_the_environment|זיהום אוויר|--
+596|miflas2012|ministry_of_the_environment|מפעלים|--
+596|miflas2012|ministry_of_the_environment|סביבה|--
+596|miflas2012|ministry_of_the_environment|פליטות|--
+596|miflas2012|ministry_of_the_environment|פסולת|--
+596|miflas2012|ministry_of_the_environment|שפכים|--
+597|miflas2013|ministry_of_the_environment|זיהום אוויר|--
+597|miflas2013|ministry_of_the_environment|מפעלים|--
+597|miflas2013|ministry_of_the_environment|סביבה|--
+597|miflas2013|ministry_of_the_environment|פליטות|--
+597|miflas2013|ministry_of_the_environment|פסולת|--
+597|miflas2013|ministry_of_the_environment|שפכים|--
+598|miflas2014|ministry_of_the_environment|זיהום אוויר|--
+598|miflas2014|ministry_of_the_environment|מפעלים|--
+598|miflas2014|ministry_of_the_environment|סביבה|--
+598|miflas2014|ministry_of_the_environment|פליטות|--
+598|miflas2014|ministry_of_the_environment|פסולת|--
+598|miflas2014|ministry_of_the_environment|שפכים|--
+601|miflas2017|ministry_of_the_environment|זיהום אוויר|--
+601|miflas2017|ministry_of_the_environment|מפעלים|--
+601|miflas2017|ministry_of_the_environment|מרשם הפליטות לסביבה|--
+601|miflas2017|ministry_of_the_environment|סביבה|--
+601|miflas2017|ministry_of_the_environment|פליטות|--
+601|miflas2017|ministry_of_the_environment|פסולת|--
+601|miflas2017|ministry_of_the_environment|שפכים|--
+602|mile_post|ministry_of_transport|GIS|--
+602|mile_post|ministry_of_transport|MILEPOST|--
+602|mile_post|ministry_of_transport|כביש|--
+602|mile_post|ministry_of_transport|ממג|--
+602|mile_post|ministry_of_transport|ציון דרך|--
+603|mimshakim_2023|ministry_of_transport|2023|--
+603|mimshakim_2023|ministry_of_transport|GIS|--
+603|mimshakim_2023|ministry_of_transport|אגף תכנון|--
+603|mimshakim_2023|ministry_of_transport|מטרופולין תל אביב|--
+603|mimshakim_2023|ministry_of_transport|ממג|--
+603|mimshakim_2023|ministry_of_transport|ממשקים|--
+604|mimshakim_2030|ministry_of_transport|2030|--
+604|mimshakim_2030|ministry_of_transport|GIS|--
+604|mimshakim_2030|ministry_of_transport|אגף תכנון|--
+604|mimshakim_2030|ministry_of_transport|ממג|--
+604|mimshakim_2030|ministry_of_transport|ממשקים|--
+605|misgadim|interior_affairs|mosque|--
+605|misgadim|interior_affairs|מסגד|--
+605|misgadim|interior_affairs|מסגדים|--
+606|mishmoret|ministry_of_justice|משמורת|--
+606|mishmoret|ministry_of_justice|משרד המשפטים|--
+607|mishtatef|cma|אוצר וכלכלה|--
+607|mishtatef|cma|השקעות|--
+607|mishtatef|cma|נייר ערך בודד|--
+607|mishtatef|cma|ענפי מסחר|--
+607|mishtatef|cma|רשימות נכסים|--
+607|mishtatef|cma|רשימת נכס בודד|--
+607|mishtatef|cma|שווי הוגן|--
+607|mishtatef|cma|שווי שוק|--
+608|misradei_hakirot|ministry_of_justice|חקירות|--
+611|moadoniot|maaleedumim|גני ילדים|--
+611|moadoniot|maaleedumim|חינוך|--
+611|moadoniot|maaleedumim|מעדוניות|--
+613|modedim|israel_mapping_center|המרכז למיפוי ישראל|--
+613|modedim|israel_mapping_center|מדידות|--
+613|modedim|israel_mapping_center|מודדים|--
+614|mohalim-list|rabanot|בריתות|--
+614|mohalim-list|rabanot|מוהל|--
+614|mohalim-list|rabanot|מוהל מוסמך|--
+614|mohalim-list|rabanot|מוהלים|--
+614|mohalim-list|rabanot|מוהלים מוסמכים|--
+614|mohalim-list|rabanot|רבנות|--
+614|mohalim-list|rabanot|רשימת מוהלים|--
+615|moj-amutot|ministry_of_justice|משרד המשפטים|--
+616|mokdey_teunot-drachim_2018|lamas|תאונות דרכים|--
+616|mokdey_teunot-drachim_2018|lamas|תאונות דרכים עם נפגים|--
+616|mokdey_teunot-drachim_2018|lamas|תחבורה|--
+620|molsa-homeless-units|ministry_of_social_affairs|בריאו ורווחה|--
+620|molsa-homeless-units|ministry_of_social_affairs|דרי רחוב|--
+622|molsa-outerhomes-elderly|ministry_of_social_affairs|בריאות ורווחה|--
+622|molsa-outerhomes-elderly|ministry_of_social_affairs|בתי אבות|--
+622|molsa-outerhomes-elderly|ministry_of_social_affairs|משרד הרווחה|--
+624|molsa-outerhomes-elderly-vacation|ministry_of_social_affairs|אזרחים וותיקים|--
+624|molsa-outerhomes-elderly-vacation|ministry_of_social_affairs|בריאות ורווחה|--
+624|molsa-outerhomes-elderly-vacation|ministry_of_social_affairs|נופשונים|--
+629|molsa-social-departmentsd-list-ar|ministry_of_social_affairs|בריאות ורווחה|--
+629|molsa-social-departmentsd-list-ar|ministry_of_social_affairs|משרד הרווחה|--
+632|molsa-volunteering-coordinators|ministry_of_social_affairs|בריאות ורווחה|--
+632|molsa-volunteering-coordinators|ministry_of_social_affairs|התנדבות|--
+632|molsa-volunteering-coordinators|ministry_of_social_affairs|רשויות|--
+632|molsa-volunteering-coordinators|ministry_of_social_affairs|רשויות מקומיות|--
+633|monthly-statistics|social_security|אוכלוסיה|--
+633|monthly-statistics|social_security|אוצר וכלכלה|--
+633|monthly-statistics|social_security|הלשכה המרכזית לסטטיסטיקה|--
+634|mops-gov-il|ministry_of_internal_security|כבאות והצלה|--
+634|mops-gov-il|ministry_of_internal_security|מדד אלימות|--
+634|mops-gov-il|ministry_of_internal_security|מחקרים|--
+634|mops-gov-il|ministry_of_internal_security|משטרת ישראל|--
+634|mops-gov-il|ministry_of_internal_security|משמר הגבול|--
+634|mops-gov-il|ministry_of_internal_security|סקרים|--
+634|mops-gov-il|ministry_of_internal_security|עמדות הציבור|--
+634|mops-gov-il|ministry_of_internal_security|שביעות רצון|--
+634|mops-gov-il|ministry_of_internal_security|שירות בתי הסוהר|--
+635|moreh-dereh-eng|ministry_of_tourism|אוכלוסיה|--
+635|moreh-dereh-eng|ministry_of_tourism|מורי דרך|--
+635|moreh-dereh-eng|ministry_of_tourism|משרד התיירות|--
+635|moreh-dereh-eng|ministry_of_tourism|תיירות|--
+636|mosdot|ministry_of_education|משרד החינוך|--
+638|motorcycle|ministry_of_transport|כלי רכב|--
+638|motorcycle|ministry_of_transport|משרד התחבורה|--
+638|motorcycle|ministry_of_transport|רכב|--
+638|motorcycle|ministry_of_transport|תחבורה|--
+639|mrl|ministry_of_agriculture|בריאות|--
+639|mrl|ministry_of_agriculture|חומרי הדברה|--
+639|mrl|ministry_of_agriculture|חקלאות|--
+639|mrl|ministry_of_agriculture|מזון|--
+639|mrl|ministry_of_agriculture|סביבה|--
+643|municipal-corporations|interior_affairs|בעלי שליטה|--
+643|municipal-corporations|interior_affairs|תאגיד|--
+643|municipal-corporations|interior_affairs|תאגיד עירוני|--
+644|municipal_indices|pmo|דוחות מבוקרים|--
+644|municipal_indices|pmo|מדדים|--
+644|municipal_indices|pmo|מדדים מונציפלים|--
+644|municipal_indices|pmo|מוניצפאלי|--
+644|municipal_indices|pmo|משרד הפנים|--
+644|municipal_indices|pmo|נתוני הלמס|--
+644|municipal_indices|pmo|רשויות מקומיות|--
+645|musachim|ministry_of_transport|משרד התחבורה|--
+645|musachim|ministry_of_transport|רכב|--
+645|musachim|ministry_of_transport|תחבורה|--
+646|my-bills|knesset|בהכנה בוועדה|--
+646|my-bills|knesset|הכנסת|--
+646|my-bills|knesset|הנחה במליאה|--
+646|my-bills|knesset|הצעות חוק|--
+646|my-bills|knesset|חקיקה|--
+646|my-bills|knesset|כנסת|--
+646|my-bills|knesset|לדיון במליאה|--
+646|my-bills|knesset|קריאה ראשונה|--
+646|my-bills|knesset|קריאה שלישית|--
+646|my-bills|knesset|קריאה שנייה|--
+647|my-dataest|science-and-technology|משרד המדע|--
+648|my_dataset|religion-office|הדלקת נרות|--
+648|my_dataset|religion-office|חג|--
+648|my_dataset|religion-office|שבת|--
+649|my-dataset2|science-and-technology|משרד המדע|--
+650|my-dataset3|science-and-technology|משרד המדע|--
+651|my-dataset4|science-and-technology|משרד המדע|--
+652|my-dataset5|culture_and_sports|משרד התרבות והספורט|--
+654|n2r|ministry_of_transport|משיטים וימאים|--
+654|n2r|ministry_of_transport|משרד התחבורה|--
+654|n2r|ministry_of_transport|ספנות ונמלים|--
+654|n2r|ministry_of_transport|תחבורה|--
+655|nataz_completion|ministry_of_transport|gis|--
+655|nataz_completion|ministry_of_transport|השלמה|--
+655|nataz_completion|ministry_of_transport|חצב|--
+655|nataz_completion|ministry_of_transport|ממג|--
+655|nataz_completion|ministry_of_transport|נתיבי העדפה|--
+655|nataz_completion|ministry_of_transport|תחבורה ציבורית|--
+656|nataz_kayam|ministry_of_transport|GIS|--
+656|nataz_kayam|ministry_of_transport|אוטובוס|--
+656|nataz_kayam|ministry_of_transport|ממג|--
+656|nataz_kayam|ministry_of_transport|נתיבי העדפה|--
+656|nataz_kayam|ministry_of_transport|נתצ|--
+657|nataz_planned|ministry_of_transport|GIS|--
+657|nataz_planned|ministry_of_transport|אוטובוס|--
+657|nataz_planned|ministry_of_transport|ממג|--
+657|nataz_planned|ministry_of_transport|נתיבי העדפה|--
+657|nataz_planned|ministry_of_transport|נתצ|--
+658|nataz_strategic|ministry_of_transport|חצב|--
+658|nataz_strategic|ministry_of_transport|משרד התחבורה|--
+658|nataz_strategic|ministry_of_transport|נתיבי העדפה|--
+658|nataz_strategic|ministry_of_transport|תכנית אסטרטגית|--
+659|national-service-numbering-range|tikshoret|מספור שירותי טלפוניה|--
+659|national-service-numbering-range|tikshoret|משרד התקשורת|--
+660|nativ|nativ|חוק השבות|--
+660|nativ|nativ|לשכת הקשר|--
+660|nativ|nativ|מחלקת עלייה|--
+660|nativ|nativ|מרכז תרבות|--
+660|nativ|nativ|נתיב|--
+660|nativ|nativ|קונסולר|--
+661|nature-reservesmaaleadumim|maaleedumim|טבע|--
+661|nature-reservesmaaleadumim|maaleedumim|טיולים|--
+661|nature-reservesmaaleadumim|maaleedumim|שמורות טבע|--
+662|nechasimb|cma|אוצר וכלכלה|--
+662|nechasimb|cma|ביטוח|--
+662|nechasimb|cma|גופים מוסדיים|--
+662|nechasimb|cma|השקעות|--
+662|nechasimb|cma|נכס בודד|--
+662|nechasimb|cma|פירוט נכסים|--
+662|nechasimb|cma|רשות שוק ההון|--
+663|nechasimg|cma|אוצר וכלכלה|--
+663|nechasimg|cma|גופים מוסדיים|--
+663|nechasimg|cma|גמל|--
+663|nechasimg|cma|השקעות|--
+663|nechasimg|cma|נכס בודד|--
+663|nechasimg|cma|פירוט נכסים|--
+663|nechasimg|cma|רשות שוק ההון|--
+664|nechasimp|cma|אוצר וכלכלה|--
+664|nechasimp|cma|גופים מוסדיים|--
+664|nechasimp|cma|השקעות|--
+664|nechasimp|cma|נכס בודד|--
+664|nechasimp|cma|פירוט נכסים|--
+664|nechasimp|cma|פנסיה|--
+664|nechasimp|cma|רשות שוק ההון|--
+666|nitrogen_oxides|ministry_of_the_environment|זיהום אוויר|--
+666|nitrogen_oxides|ministry_of_the_environment|מחצבות|--
+666|nitrogen_oxides|ministry_of_the_environment|סביבה|--
+666|nitrogen_oxides|ministry_of_the_environment|פליטות|--
+666|nitrogen_oxides|ministry_of_the_environment|תעשיה|--
+667|nitur-yamit|ministry_of_the_environment|זיהום|--
+667|nitur-yamit|ministry_of_the_environment|חופים|--
+667|nitur-yamit|ministry_of_the_environment|ים|--
+667|nitur-yamit|ministry_of_the_environment|ניטור ימית|--
+667|nitur-yamit|ministry_of_the_environment|סביבה|--
+667|nitur-yamit|ministry_of_the_environment|שפכים|--
+669|nmvoc|ministry_of_the_environment|זיהום אוויר|--
+669|nmvoc|ministry_of_the_environment|מחצבות|--
+669|nmvoc|ministry_of_the_environment|סביבה|--
+669|nmvoc|ministry_of_the_environment|פליטות|--
+669|nmvoc|ministry_of_the_environment|תעשיה|--
+670|noise-duration|ministry_of_the_environment|דציבל|--
+670|noise-duration|ministry_of_the_environment|דציבלים|--
+670|noise-duration|ministry_of_the_environment|חוק למניעת מפגעים|--
+670|noise-duration|ministry_of_the_environment|מפגע רעש|--
+670|noise-duration|ministry_of_the_environment|מפלס רעש|--
+670|noise-duration|ministry_of_the_environment|רעש|--
+670|noise-duration|ministry_of_the_environment|רעש בלתי סביר|--
+670|noise-duration|ministry_of_the_environment|רעש בסביבת מגורים|--
+670|noise-duration|ministry_of_the_environment|רעש ממזגנים|--
+670|noise-duration|ministry_of_the_environment|רעש ממפעלים|--
+670|noise-duration|ministry_of_the_environment|רעש סביבתי|--
+670|noise-duration|ministry_of_the_environment|תקנות|--
+670|noise-duration|ministry_of_the_environment|תקנות התש''ן 1990|--
+671|noshmim-lervacha|ministry_of_social_affairs|בריאות ורווחה|--
+671|noshmim-lervacha|ministry_of_social_affairs|משרד הרווחה|--
+672|notary|ministry_of_justice|משרד המשפטים|--
+672|notary|ministry_of_justice|נוטריונים|--
+672|notary|ministry_of_justice|רשימת הנוטריונים|--
+674|nti_taba|ministry_of_transport|GIS|--
+674|nti_taba|ministry_of_transport|דרכים|--
+674|nti_taba|ministry_of_transport|ממג|--
+674|nti_taba|ministry_of_transport|נתיבי ישראל|--
+674|nti_taba|ministry_of_transport|תבע|--
+674|nti_taba|ministry_of_transport|תכנית בנין עיר|--
+675|nti_zhut_dereh|ministry_of_transport|GIS|--
+675|nti_zhut_dereh|ministry_of_transport|דרך|--
+675|nti_zhut_dereh|ministry_of_transport|זכות דרך|--
+675|nti_zhut_dereh|ministry_of_transport|ממג|--
+675|nti_zhut_dereh|ministry_of_transport|נתיבי ישראל|--
+678|ntz-mail|ministry_of_exterior|משרד החוץ|--
+678|ntz-mail|ministry_of_exterior|נציגויות|--
+679|ntz-short|ministry_of_exterior|משרד החוץ|--
+679|ntz-short|ministry_of_exterior|נציגויות|--
+680|nurseries_supervised_fruit_trees|ministry_of_agriculture|חקלאות|--
+680|nurseries_supervised_fruit_trees|ministry_of_agriculture|משתלות|--
+680|nurseries_supervised_fruit_trees|ministry_of_agriculture|עצי פרי|--
+680|nurseries_supervised_fruit_trees|ministry_of_agriculture|שתילים|--
+681|nutrition-database|ministry-health|מזון|--
+681|nutrition-database|ministry-health|מתכון|--
+681|nutrition-database|ministry-health|ערכים תזונתיים|--
+681|nutrition-database|ministry-health|צמרת|--
+681|nutrition-database|ministry-health|קלוריות|--
+681|nutrition-database|ministry-health|תזונה|--
+687|obbusta2013|ministry_of_transport|מטרופולין תל אביב|--
+687|obbusta2013|ministry_of_transport|סקר נוסעים|--
+687|obbusta2013|ministry_of_transport|תחבורה ציבורית|--
+688|obrailta_2013|ministry_of_transport|סקר נוסעים בתחנות|--
+688|obrailta_2013|ministry_of_transport|רכבת|--
+688|obrailta_2013|ministry_of_transport|תחבורה ציבורית|--
+690|odata|knesset|ODATA|--
+690|odata|knesset|odata|--
+690|odata|knesset|הכנסת|--
+690|odata|knesset|הצעות חוק|--
+690|odata|knesset|ועדות הכנסת|--
+690|odata|knesset|חוקים|--
+690|odata|knesset|כנסת|--
+690|odata|knesset|מידע על חקיקה|--
+690|odata|knesset|מידע פרלמנטרי|--
+690|odata|knesset|מליאת הכנסת|--
+690|odata|knesset|סיעות וחברי הכנסת|--
+690|odata|knesset|שאילתות|--
+691|ofneidan|ministry_of_transport|GIS|--
+691|ofneidan|ministry_of_transport|אופני דן|--
+691|ofneidan|ministry_of_transport|אופנידן|--
+691|ofneidan|ministry_of_transport|אופניים|--
+691|ofneidan|ministry_of_transport|ממג|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|אוכלוסיה|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|לפי גיל|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|עולה חדש|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|עולים חדשים|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|עליה|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|עלייה|--
+693|olim-1989-2015-age|ministry_of_immigrant_absorption|קליטת עלייה|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|אוכלוסיה|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|ארצות מוצא עולים|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|עולה|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|עולה חדש|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|עולים|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|עולים חדשים|--
+694|olim-1989-2015-continent|ministry_of_immigrant_absorption|קליטת עלייה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|אוכלוסיה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|מחוזות משרד העלייה והקליטה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|עולה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|עולה חדש|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|עולים חדשים|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|עליה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|עלייה|--
+695|olim-1989-2015-district|ministry_of_immigrant_absorption|קליטת עלייה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|אוכלוסיה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|גברים|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|מגדר|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|נשים|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|נשים וגברים|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עולה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עולה חדש|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עולים|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עולים חדשים|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עליה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|עלייה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|קליטת עליה|--
+696|olim-1989-2015-gender|ministry_of_immigrant_absorption|קליטת עלייה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|אוכלוסיה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|ארצות מוצא עולים חדשים|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עולה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עולה חדש|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עולים|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עולים חדשים|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עליה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|עלייה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|קליטת עליה|--
+697|olim-1989-2015-main|ministry_of_immigrant_absorption|קליטת עלייה|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|אוכלוסיה|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|מקצועות|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|מקצועות של עולים חדשים|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|משלח יד|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|עולה חדש|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|עולים חדשים|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|עליה|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|עלייה|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|קליטת עליה|--
+698|olim-1989-2015-profession|ministry_of_immigrant_absorption|קליטת עלייה|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|אוכלוסיה|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|ישובים בישראל|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|עולה|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|עולה חדש|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|עולים|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|עולים חדשים|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|עלייה|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|קליטה|--
+699|olim-1989-2015-town-county|ministry_of_immigrant_absorption|קליטת עליה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|אוכלוסיה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|עולה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|עולה חדש|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|עולים חדשים|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|עליה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|עלייה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|קליטת עליה|--
+700|olim-1989-2015-year-month|ministry_of_immigrant_absorption|קליטת עלייה|--
+701|olim_2009_2018_age|ministry_of_immigrant_absorption|עלייה קליטה אוכלוסייה גילאים|--
+702|olim_2018_cities|ministry_of_immigrant_absorption|אוכלוסייה|--
+702|olim_2018_cities|ministry_of_immigrant_absorption|עלייה|--
+702|olim_2018_cities|ministry_of_immigrant_absorption|קליטה|--
+703|olim_by_countries_2018|ministry_of_immigrant_absorption|אוכלוסייה|--
+703|olim_by_countries_2018|ministry_of_immigrant_absorption|עלייה|--
+703|olim_by_countries_2018|ministry_of_immigrant_absorption|קליטה|--
+704|open-area-sens|ministry_of_the_environment|בעלי חיים|--
+704|open-area-sens|ministry_of_the_environment|הגנת הסביבה|--
+704|open-area-sens|ministry_of_the_environment|מורשת|--
+704|open-area-sens|ministry_of_the_environment|נוף|--
+704|open-area-sens|ministry_of_the_environment|סביבה|--
+704|open-area-sens|ministry_of_the_environment|צמחיה|--
+704|open-area-sens|ministry_of_the_environment|רגישות|--
+704|open-area-sens|ministry_of_the_environment|שטחים פתוחים|--
+705|open-call|ministry_of_the_environment|סביבה|--
+705|open-call|ministry_of_the_environment|סיוע כספי|--
+705|open-call|ministry_of_the_environment|תמיכה|--
+706|opercraft_tq|ministry_of_transport|משטים|--
+706|opercraft_tq|ministry_of_transport|משרד התחבורה|--
+706|opercraft_tq|ministry_of_transport|ספנות|--
+706|opercraft_tq|ministry_of_transport|תחבורה|--
+708|outerhomes_homeless|ministry_of_social_affairs|בריאות ורווחה|--
+708|outerhomes_homeless|ministry_of_social_affairs|דרי רחוב|--
+708|outerhomes_homeless|ministry_of_social_affairs|הומלסים|--
+708|outerhomes_homeless|ministry_of_social_affairs|חסרי בית|--
+708|outerhomes_homeless|ministry_of_social_affairs|מרכזי שירות|--
+708|outerhomes_homeless|ministry_of_social_affairs|קהילה|--
+709|outerhomes-homeless-ar|ministry_of_social_affairs|בריאות ורווחה|--
+709|outerhomes-homeless-ar|ministry_of_social_affairs|דרי רחוב|--
+710|ownership-of-historic-sites-in-the-city|petah-tikva-municipality|אוכלוסיה|--
+710|ownership-of-historic-sites-in-the-city|petah-tikva-municipality|אתרים היסטוריים|--
+711|parkinglots|israel_mapping_center|המרכז למיפוי ישראל|--
+711|parkinglots|israel_mapping_center|תחבורה|--
+712|park_n_ride|ministry_of_transport|GIS|--
+712|park_n_ride|ministry_of_transport|חנה וסע|--
+712|park_n_ride|ministry_of_transport|חניון|--
+712|park_n_ride|ministry_of_transport|ממג|--
+712|park_n_ride|ministry_of_transport|נתיבי העדפה|--
+713|pathogenicity|volcaniagri|זרעים|--
+713|pathogenicity|volcaniagri|חקלאות|--
+713|pathogenicity|volcaniagri|מנהל המחקר החקלאי|--
+713|pathogenicity|volcaniagri|פתוגנים|--
+714|payment|interior_affairs|תשלום לרשויות|--
+714|payment|interior_affairs|תשלומי משרד הפנים|--
+714|payment|interior_affairs|תשלומים|--
+715|payments-to-welfare-frameworks|ministry_of_social_affairs|בריאות ורווחה|--
+715|payments-to-welfare-frameworks|ministry_of_social_affairs|מסגרות רווחה|--
+717|penetration|water_authority|borehole|--
+717|penetration|water_authority|penetration|--
+717|penetration|water_authority|water|--
+717|penetration|water_authority|החדרה|--
+717|penetration|water_authority|מים|--
+717|penetration|water_authority|קידוח|--
+717|penetration|water_authority|רשות המים|--
+718|pensia-net|cma|אוצר וכלכלה|--
+718|pensia-net|cma|גופים מוסדיים|--
+718|pensia-net|cma|דיווח חודשי|--
+718|pensia-net|cma|דמי ניהול|--
+718|pensia-net|cma|יתרת נכסים|--
+718|pensia-net|cma|מדד|--
+718|pensia-net|cma|פנסיה|--
+718|pensia-net|cma|רשות שוק ההון|--
+718|pensia-net|cma|תשואה|--
+719|permitemissionforzovar|ministry_of_the_environment|אוויר|--
+720|permitholders|tikshoret|בעלי היתרים|--
+720|permitholders|tikshoret|משרד התקשורת|--
+720|permitholders|tikshoret|שירותי דואר|--
+722|personal_import_vehicles|ministry_of_transport|כלי רכב|--
+722|personal_import_vehicles|ministry_of_transport|משרד התחבורה|--
+722|personal_import_vehicles|ministry_of_transport|רכב|--
+722|personal_import_vehicles|ministry_of_transport|תחבורה|--
+723|personnel-welfare-authorities|ministry_of_social_affairs|בריאות ורווחה|--
+723|personnel-welfare-authorities|ministry_of_social_affairs|כח אדם רווחה|--
+723|personnel-welfare-authorities|ministry_of_social_affairs|רשויות הרווחה|--
+723|personnel-welfare-authorities|ministry_of_social_affairs|תקנים ברשויות הרווחה|--
+724|pharmacy|maaleedumim|אדומים|--
+724|pharmacy|maaleedumim|בתי מרקחת|--
+724|pharmacy|maaleedumim|מעלה|--
+724|pharmacy|maaleedumim|מעלה אדומים|--
+724|pharmacy|maaleedumim|עירייה|--
+724|pharmacy|maaleedumim|תרופות|--
+725|picture-gallery-eng|ministry_of_tourism|גלריית תמונות|--
+725|picture-gallery-eng|ministry_of_tourism|משרד התיירות|--
+725|picture-gallery-eng|ministry_of_tourism|תיירות|--
+726|pinkas|ministry_of_justice|משרד המשפטים|--
+726|pinkas|ministry_of_justice|פנקס מאגרי מידע|--
+727|pinkashakablanim|ministry_of_housing|בעלי מקצוע|--
+727|pinkashakablanim|ministry_of_housing|משרד הבינוי והשיכון|--
+727|pinkashakablanim|ministry_of_housing|פנקס הקבלנים|--
+727|pinkashakablanim|ministry_of_housing|תכנון|--
+727|pinkashakablanim|ministry_of_housing|תכנון ובניה|--
+728|planresearchers|iplan|התנגדויות|--
+728|planresearchers|iplan|חוקרים|--
+728|planresearchers|iplan|מינהל התכנון|--
+728|planresearchers|iplan|תכנון|--
+728|planresearchers|iplan|תכניות|--
+728|planresearchers|iplan|תכנית מתאר|--
+729|plants-garden|volcaniagri|גני נוי|--
+729|plants-garden|volcaniagri|חקלאות|--
+729|plants-garden|volcaniagri|צמחים|--
+730|pm-10|ministry_of_the_environment|זיהום אוויר|--
+730|pm-10|ministry_of_the_environment|מחצבות|--
+730|pm-10|ministry_of_the_environment|סביבה|--
+730|pm-10|ministry_of_the_environment|פליטות|--
+730|pm-10|ministry_of_the_environment|תעשיה|--
+731|pm2-5|ministry_of_the_environment|זיהום אוויר|--
+731|pm2-5|ministry_of_the_environment|מחצבות|--
+731|pm2-5|ministry_of_the_environment|סביבה|--
+731|pm2-5|ministry_of_the_environment|פליטות|--
+731|pm2-5|ministry_of_the_environment|תעשיה|--
+732|police_boundaries|israel-police|גבול|--
+732|police_boundaries|israel-police|מחוז|--
+732|police_boundaries|israel-police|מרחב|--
+732|police_boundaries|israel-police|משטרה|--
+732|police_boundaries|israel-police|משטרת ישראל|--
+732|police_boundaries|israel-police|תחנה|--
+732|police_boundaries|israel-police|תחנות|--
+733|police_receptions|israel-police|מיקום|--
+733|police_receptions|israel-police|מיקומי|--
+733|police_receptions|israel-police|משטרה|--
+733|police_receptions|israel-police|משטרת ישראל|--
+733|police_receptions|israel-police|קהל|--
+734|pollute-diesel-vehicles|ministry_of_the_environment|זיהום אויר|--
+734|pollute-diesel-vehicles|ministry_of_the_environment|כלי רכב|--
+734|pollute-diesel-vehicles|ministry_of_the_environment|סביבה|--
+735|population-and-recipients-of-benefits-under-settlement-2010|social_security|2010|--
+735|population-and-recipients-of-benefits-under-settlement-2010|social_security|אוכלוסיה|--
+735|population-and-recipients-of-benefits-under-settlement-2010|social_security|אוצר וכלכלה|--
+735|population-and-recipients-of-benefits-under-settlement-2010|social_security|גמלאות|--
+736|population_and_recipients_of_benefits_under_settlement_2011|social_security|2011|--
+736|population_and_recipients_of_benefits_under_settlement_2011|social_security|אוכלוסיה|--
+736|population_and_recipients_of_benefits_under_settlement_2011|social_security|אוצר וכלכלה|--
+736|population_and_recipients_of_benefits_under_settlement_2011|social_security|גמלאות|--
+737|population-and-recipients-of-benefits-under-settlement-2012|social_security|אוכלוסיה|--
+737|population-and-recipients-of-benefits-under-settlement-2012|social_security|אוכלוסייה|--
+737|population-and-recipients-of-benefits-under-settlement-2012|social_security|אוצר וכלכלה|--
+738|populations|ies|אבטלה|--
+738|populations|ies|אוכלוסיה|--
+738|populations|ies|אקדמאים|--
+738|populations|ies|הבטחת הכנסה|--
+738|populations|ies|מפוטרים|--
+738|populations|ies|תעסוקה|--
+739|pr2018|ministry_of_justice|הכונס הרשמי|--
+739|pr2018|ministry_of_justice|משרד המשפטים|--
+739|pr2018|ministry_of_justice|פשיטת רגל|--
+739|pr2018|ministry_of_justice|צווי כינוס|--
+740|prep|ministry-health|בריאות|--
+740|prep|ministry-health|בריאות הציבור|--
+741|press|ministry_of_tourism|הודעות|--
+741|press|ministry_of_tourism|הודעות לעיתונות|--
+741|press|ministry_of_tourism|משרד התיירות|--
+741|press|ministry_of_tourism|תיירות|--
+742|price_controlled_consumer_products|moital|חקלאות|--
+742|price_controlled_consumer_products|moital|כלכלה|--
+742|price_controlled_consumer_products|moital|פיקוח על מחירים|--
+743|principal-investigator-posts|ministry_of_transport|טיסות אזרחיות|--
+743|principal-investigator-posts|ministry_of_transport|משרד התחבורה|--
+743|principal-investigator-posts|ministry_of_transport|תחבורה|--
+743|principal-investigator-posts|ministry_of_transport|תעופה אזרחית|--
+744|private-and-commercial-vehicles|ministry_of_transport|כלי רכב|--
+744|private-and-commercial-vehicles|ministry_of_transport|משרד התחבורה|--
+744|private-and-commercial-vehicles|ministry_of_transport|רכב|--
+744|private-and-commercial-vehicles|ministry_of_transport|תחבורה|--
+745|private-covid-test|ministry-health|בדיקות קורונה|--
+745|private-covid-test|ministry-health|בריאות|--
+746|producercode|moital|כלכלה|--
+746|producercode|moital|תעשייה|--
+747|production|water_authority|borehole|--
+747|production|water_authority|production|--
+747|production|water_authority|water|--
+747|production|water_authority|מים|--
+747|production|water_authority|מכון מים|--
+747|production|water_authority|נתוני הפקה|--
+747|production|water_authority|קידוח|--
+747|production|water_authority|רשות המים|--
+748|professionallibrary|ministry_of_tourism|משרד התיירות|--
+748|professionallibrary|ministry_of_tourism|תיירות|--
+749|protectedhouseslist|ministry_of_social_affairs|אזרחים וותיקים|--
+749|protectedhouseslist|ministry_of_social_affairs|בריאות ורווחה|--
+749|protectedhouseslist|ministry_of_social_affairs|דיור גיל הזהב|--
+749|protectedhouseslist|ministry_of_social_affairs|דיור מוגן|--
+750|prvbuildingquirement|firefightingcommission|בניה|--
+750|prvbuildingquirement|firefightingcommission|בניה מתוכננת|--
+750|prvbuildingquirement|firefightingcommission|כבאות והצלה|--
+750|prvbuildingquirement|firefightingcommission|תכנון ובניה|--
+751|psychiatric-hospitals-emergency-health-unit|ministry-health|בריאות הנפש|--
+751|psychiatric-hospitals-emergency-health-unit|ministry-health|שעת חירום|--
+752|publicbuildings|maaleedumim|מבני ציבור|--
+752|publicbuildings|maaleedumim|מבני קהילה|--
+752|publicbuildings|maaleedumim|מגשים|--
+752|publicbuildings|maaleedumim|מרכזים עירוניים|--
+752|publicbuildings|maaleedumim|ציבור|--
+753|public-inquiry-officials-in-communications-companies|tikshoret|משרד התקשורת|--
+753|public-inquiry-officials-in-communications-companies|tikshoret|פניות הציבור|--
+754|pumpingfacility|energy_and_water|אנרגיה ומים|--
+754|pumpingfacility|energy_and_water|התייעלות באנרגיה|--
+754|pumpingfacility|energy_and_water|שימור אנרגיה|--
+757|qual_per_hydro_station|water_authority|water|--
+757|qual_per_hydro_station|water_authority|דגימות|--
+757|qual_per_hydro_station|water_authority|הידרומטריה|--
+757|qual_per_hydro_station|water_authority|יונים ראשיים|--
+757|qual_per_hydro_station|water_authority|מים|--
+757|qual_per_hydro_station|water_authority|רשות המים|--
+757|qual_per_hydro_station|water_authority|שטפונות|--
+757|qual_per_hydro_station|water_authority|תחנה הידרומטרית|--
+758|questions|knesset|חברי כנסת|--
+758|questions|knesset|יושב ראש הכנסת|--
+758|questions|knesset|כנסת|--
+758|questions|knesset|שאילתות|--
+758|questions|knesset|שרים|--
+760|radon|ministry_of_the_environment|סביבה|--
+760|radon|ministry_of_the_environment|קרינה|--
+760|radon|ministry_of_the_environment|ראדון|--
+761|radon-lab-practitioners|ministry_of_the_environment|אנשי מקצוע|--
+761|radon-lab-practitioners|ministry_of_the_environment|מעבדות|--
+761|radon-lab-practitioners|ministry_of_the_environment|סביבה|--
+761|radon-lab-practitioners|ministry_of_the_environment|קרינה|--
+762|radon-practitioners|ministry_of_the_environment|איכות אוויר|--
+762|radon-practitioners|ministry_of_the_environment|אנשי מקצוע|--
+762|radon-practitioners|ministry_of_the_environment|סביבה|--
+762|radon-practitioners|ministry_of_the_environment|ראדון|--
+763|rail_flow_2040|ministry_of_transport|2040|--
+763|rail_flow_2040|ministry_of_transport|GIS|--
+763|rail_flow_2040|ministry_of_transport|חצב|--
+763|rail_flow_2040|ministry_of_transport|ממג|--
+763|rail_flow_2040|ministry_of_transport|נוסעים|--
+763|rail_flow_2040|ministry_of_transport|רכבת|--
+763|rail_flow_2040|ministry_of_transport|רכבת כבדה|--
+764|rail_freq_2018|ministry_of_transport|2018|--
+764|rail_freq_2018|ministry_of_transport|GIS|--
+764|rail_freq_2018|ministry_of_transport|חצב|--
+764|rail_freq_2018|ministry_of_transport|ממג|--
+764|rail_freq_2018|ministry_of_transport|רכבת|--
+764|rail_freq_2018|ministry_of_transport|רכבת כבדה|--
+764|rail_freq_2018|ministry_of_transport|תדירות|--
+765|rail_freq_2019|ministry_of_transport|2019|--
+765|rail_freq_2019|ministry_of_transport|GIS|--
+765|rail_freq_2019|ministry_of_transport|חצב|--
+765|rail_freq_2019|ministry_of_transport|ממג|--
+765|rail_freq_2019|ministry_of_transport|רכבת כבדה|--
+765|rail_freq_2019|ministry_of_transport|תדירות|--
+765|rail_freq_2019|ministry_of_transport|תדירות שעתית|--
+765|rail_freq_2019|ministry_of_transport|תחבורה|--
+766|rail_freq_2020|ministry_of_transport|2020|--
+766|rail_freq_2020|ministry_of_transport|gis|--
+766|rail_freq_2020|ministry_of_transport|חצב|--
+766|rail_freq_2020|ministry_of_transport|ממג|--
+766|rail_freq_2020|ministry_of_transport|נסיעות|--
+766|rail_freq_2020|ministry_of_transport|רכבת|--
+766|rail_freq_2020|ministry_of_transport|רכבת כבדה|--
+766|rail_freq_2020|ministry_of_transport|תדירות|--
+766|rail_freq_2020|ministry_of_transport|תדירות שעתית|--
+767|rail_freq_2023|ministry_of_transport|2023|--
+767|rail_freq_2023|ministry_of_transport|GIS|--
+767|rail_freq_2023|ministry_of_transport|חצב|--
+767|rail_freq_2023|ministry_of_transport|ממג|--
+767|rail_freq_2023|ministry_of_transport|רכבת|--
+767|rail_freq_2023|ministry_of_transport|רכבת כבדה|--
+767|rail_freq_2023|ministry_of_transport|תדירות|--
+768|rail_freq_2040|ministry_of_transport|2040|--
+768|rail_freq_2040|ministry_of_transport|GIS|--
+768|rail_freq_2040|ministry_of_transport|חצב|--
+768|rail_freq_2040|ministry_of_transport|ממג|--
+768|rail_freq_2040|ministry_of_transport|רכבת|--
+768|rail_freq_2040|ministry_of_transport|רכבת כבדה|--
+768|rail_freq_2040|ministry_of_transport|תדירות|--
+769|rail_stat_onoff_month|ministry_of_transport|GIS|--
+769|rail_stat_onoff_month|ministry_of_transport|חצב|--
+769|rail_stat_onoff_month|ministry_of_transport|יורדים|--
+769|rail_stat_onoff_month|ministry_of_transport|ממג|--
+769|rail_stat_onoff_month|ministry_of_transport|נוסעים|--
+769|rail_stat_onoff_month|ministry_of_transport|עולים|--
+769|rail_stat_onoff_month|ministry_of_transport|רכבת|--
+769|rail_stat_onoff_month|ministry_of_transport|רכבת כבדה|--
+770|rail_strategic|ministry_of_transport|GIS|--
+770|rail_strategic|ministry_of_transport|חצב|--
+770|rail_strategic|ministry_of_transport|ממג|--
+770|rail_strategic|ministry_of_transport|מסילות ברזל|--
+770|rail_strategic|ministry_of_transport|רכבת|--
+770|rail_strategic|ministry_of_transport|רכבת כבדה|--
+770|rail_strategic|ministry_of_transport|תכנית אסטרטגית|--
+771|rail_strat_station|ministry_of_transport|2040|--
+771|rail_strat_station|ministry_of_transport|GIS|--
+771|rail_strat_station|ministry_of_transport|חצב|--
+771|rail_strat_station|ministry_of_transport|ממג|--
+771|rail_strat_station|ministry_of_transport|רכבת|--
+771|rail_strat_station|ministry_of_transport|רכבת כבדה|--
+771|rail_strat_station|ministry_of_transport|תחנות|--
+771|rail_strat_station|ministry_of_transport|תכנית אסטרטגית|--
+772|rashuty|ministry_of_agriculture|חקלאות|--
+772|rashuty|ministry_of_agriculture|רופאים וטרינריים|--
+774|recall|ministry_of_transport|משרד התחבורה|--
+774|recall|ministry_of_transport|רכב|--
+774|recall|ministry_of_transport|תחבורה|--
+775|rechev_le_pail_with_degem|ministry_of_transport|כלי רכב|--
+775|rechev_le_pail_with_degem|ministry_of_transport|משרד התחבורה|--
+775|rechev_le_pail_with_degem|ministry_of_transport|רכב|--
+775|rechev_le_pail_with_degem|ministry_of_transport|תחבורה|--
+776|rechev_le_pail_without-degem|ministry_of_transport|כלי רכב|--
+776|rechev_le_pail_without-degem|ministry_of_transport|משרד התחבורה|--
+776|rechev_le_pail_without-degem|ministry_of_transport|רכב|--
+776|rechev_le_pail_without-degem|ministry_of_transport|תחבורה|--
+777|rechev-tag-nachim|ministry_of_transport|כלי רכב|--
+777|rechev-tag-nachim|ministry_of_transport|משרד התחבורה|--
+777|rechev-tag-nachim|ministry_of_transport|רכב|--
+777|rechev-tag-nachim|ministry_of_transport|תחבורה|--
+778|recruitment|netzivot|גיוס עובדים|--
+778|recruitment|netzivot|הון אנושי|--
+778|recruitment|netzivot|משאבי אנוש|--
+779|recyclingfacilitiesmaaleadumim|maaleedumim|איכות הסביבה|--
+779|recyclingfacilitiesmaaleadumim|maaleedumim|בטריות|--
+779|recyclingfacilitiesmaaleadumim|maaleedumim|בקבוקי פלסטיק|--
+779|recyclingfacilitiesmaaleadumim|maaleedumim|זכוכית|--
+779|recyclingfacilitiesmaaleadumim|maaleedumim|מיחזור|--
+780|reg-green-countries-he|ministry-health|יעדים אדומים בקורונה|--
+780|reg-green-countries-he|ministry-health|יעדים ירוקים בקורונה|--
+780|reg-green-countries-he|ministry-health|תעופה בזמן קורונה|--
+781|registered_veterinary_vaccines|ministry_of_agriculture|בעלי חיים|--
+781|registered_veterinary_vaccines|ministry_of_agriculture|וטרינרים|--
+781|registered_veterinary_vaccines|ministry_of_agriculture|חיסונים|--
+782|report-assignment-streets-regions|petah-tikva-municipality|אוכלוסיה|--
+782|report-assignment-streets-regions|petah-tikva-municipality|אזורים|--
+782|report-assignment-streets-regions|petah-tikva-municipality|רחובות|--
+783|researches|ministry_of_the_environment|מחקר|--
+783|researches|ministry_of_the_environment|סביבה|--
+784|researchinstitute|israel_mapping_center|המרכז למיפוי ישראל|--
+784|researchinstitute|israel_mapping_center|חינוך ותרבות|--
+785|reservoirs|water_authority|reservoirs|--
+785|reservoirs|water_authority|water|--
+785|reservoirs|water_authority|מאגר|--
+785|reservoirs|water_authority|מים|--
+785|reservoirs|water_authority|רשות המים|--
+786|reshev_bitul_sofi|ministry_of_transport|כלי רכב|--
+786|reshev_bitul_sofi|ministry_of_transport|משרד התחבורה|--
+786|reshev_bitul_sofi|ministry_of_transport|רכב|--
+786|reshev_bitul_sofi|ministry_of_transport|תחבורכ|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|אוכלוסיה|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|אוכלוסין|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|ישובים|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|מרשם|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|סטטיסטיקה|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|תושבים|--
+787|residents_in_israel_by_communities_and_age_groups|population_authority|תושבים לפי גיל|--
+788|returning-residents-2006-2015|ministry_of_immigrant_absorption|אוכלוסיה|--
+788|returning-residents-2006-2015|ministry_of_immigrant_absorption|עלייה|--
+788|returning-residents-2006-2015|ministry_of_immigrant_absorption|קליטת עלייה|--
+788|returning-residents-2006-2015|ministry_of_immigrant_absorption|תושב חוזר|--
+788|returning-residents-2006-2015|ministry_of_immigrant_absorption|תושבים חוזרים|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|איכות הסביבה|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|בריאות|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|גזם חקלאי|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|חקלאות|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|סביבה|--
+789|rishayon_srifat_gazam|ministry_of_agriculture|שריפת גזם|--
+790|river-permits|ministry_of_the_environment|הגנת הסביבה|--
+790|river-permits|ministry_of_the_environment|מים|--
+795|roadauthority|ministry_of_transport|GIS|--
+795|roadauthority|ministry_of_transport|חצב|--
+795|roadauthority|ministry_of_transport|כבישים|--
+795|roadauthority|ministry_of_transport|ממג|--
+795|roadauthority|ministry_of_transport|רשות תמרור|--
+796|roads|ministry_of_the_environment|זיהום אוויר|--
+796|roads|ministry_of_the_environment|כבישים|--
+796|roads|ministry_of_the_environment|כלי רכב|--
+796|roads|ministry_of_the_environment|סביבה|--
+796|roads|ministry_of_the_environment|פליטות|--
+797|roundabout|ministry_of_transport|GIS|--
+797|roundabout|ministry_of_transport|חצב|--
+797|roundabout|ministry_of_transport|משרד התחבורה|--
+800|runoff_recharge_prioritization_areas|water_authority|water|--
+800|runoff_recharge_prioritization_areas|water_authority|החדרה|--
+800|runoff_recharge_prioritization_areas|water_authority|רשות המים|--
+802|safetyorderslist|labor|זרוע העבודה|--
+802|safetyorderslist|labor|צווי בטיחות|--
+804|satisfaction-hosp-general2014|ministry-health|בריאות|--
+804|satisfaction-hosp-general2014|ministry-health|בריאות ורווחה|--
+804|satisfaction-hosp-general2014|ministry-health|בתי חולים|--
+804|satisfaction-hosp-general2014|ministry-health|חוויית המטופל|--
+804|satisfaction-hosp-general2014|ministry-health|משרד הבריאות|--
+804|satisfaction-hosp-general2014|ministry-health|סקרים|--
+805|satisfaction-hosp-general2016|ministry-health|בריאות|--
+805|satisfaction-hosp-general2016|ministry-health|בריאות ורווחה|--
+805|satisfaction-hosp-general2016|ministry-health|בתי חולים|--
+805|satisfaction-hosp-general2016|ministry-health|משרד הבריאות|--
+805|satisfaction-hosp-general2016|ministry-health|סקרים|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|בריאות|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|בריאות ורווחה|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|בתי חולים פסיכיאטריים|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|חוויית המטופל|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|משרד הבריאות|--
+806|satisfaction-hosp-psychiatry-2015|ministry-health|סקרים|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|בריאות|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|בריאות ורווחה|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|בתי חולים פסיכיאטריים|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|חוויית המטופל|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|משרד הבריאות|--
+807|satisfaction-hosp-psychiatry-2017|ministry-health|סקרים|--
+808|satisfaction-malrad-2015|ministry-health|בריאות|--
+808|satisfaction-malrad-2015|ministry-health|בריאות ורווחה|--
+808|satisfaction-malrad-2015|ministry-health|חדרי מיון|--
+808|satisfaction-malrad-2015|ministry-health|חווית המטופל|--
+808|satisfaction-malrad-2015|ministry-health|מחלקות לרפואה דחופה|--
+808|satisfaction-malrad-2015|ministry-health|משרד הבריאות|--
+808|satisfaction-malrad-2015|ministry-health|סקרים|--
+809|savingsplaninterest|mof|חסכון לכל ילד|--
+809|savingsplaninterest|mof|משרד האוצר|--
+809|savingsplaninterest|mof|ריבית|--
+810|school|israel_mapping_center|המרכז למיפוי ישראל|--
+810|school|israel_mapping_center|חינוך ותרבות|--
+811|schools|petah-tikva-municipality|אוכלוסיה|--
+811|schools|petah-tikva-municipality|בתי ספר|--
+812|schoolsmaaleadumim|maaleedumim|בתי ספר|--
+812|schoolsmaaleadumim|maaleedumim|חינוך|--
+812|schoolsmaaleadumim|maaleedumim|לימודים|--
+812|schoolsmaaleadumim|maaleedumim|מעלה אדומים|--
+812|schoolsmaaleadumim|maaleedumim|תיכון|--
+815|segula|socialequality|בתי|--
+815|segula|socialequality|בתי חולים|--
+815|segula|socialequality|המשרד|--
+815|segula|socialequality|המשרד לשוויון חברתי|--
+815|segula|socialequality|הנגשה|--
+815|segula|socialequality|וותיקים|--
+815|segula|socialequality|ותיקים|--
+815|segula|socialequality|זכויות|--
+815|segula|socialequality|חברתי|--
+815|segula|socialequality|חולים|--
+815|segula|socialequality|יחידות|--
+815|segula|socialequality|יחידות סגולה|--
+815|segula|socialequality|לשוויון|--
+815|segula|socialequality|מאגרים|--
+815|segula|socialequality|מתנדבים|--
+815|segula|socialequality|סגולה|--
+816|sekerhashpaotcorona|ministry_of_justice|השפעות קורונה|--
+816|sekerhashpaotcorona|ministry_of_justice|משרד המשפטים|--
+816|sekerhashpaotcorona|ministry_of_justice|נגיף הקורונה|--
+816|sekerhashpaotcorona|ministry_of_justice|סקר שכירות קורונה|--
+816|sekerhashpaotcorona|ministry_of_justice|קורונה|--
+817|senior_card|socialequality|62|--
+817|senior_card|socialequality|67|--
+817|senior_card|socialequality|אזרח|--
+817|senior_card|socialequality|גברים|--
+817|senior_card|socialequality|המשרד|--
+817|senior_card|socialequality|המשרד לשוויון חברתי|--
+817|senior_card|socialequality|הנפקת תעודה|--
+817|senior_card|socialequality|ותיק|--
+817|senior_card|socialequality|חברתי|--
+817|senior_card|socialequality|כרטיס|--
+817|senior_card|socialequality|לשוויון חברתי|--
+817|senior_card|socialequality|נשים|--
+817|senior_card|socialequality|שוויון|--
+817|senior_card|socialequality|תעודת|--
+817|senior_card|socialequality|תעודת אזרח ותיק|--
+819|serviceindex|cma|ביטוח|--
+819|serviceindex|cma|זמני מענה|--
+819|serviceindex|cma|מדד שירות|--
+819|serviceindex|cma|נתונים|--
+819|serviceindex|cma|רשות שוק ההון|--
+819|serviceindex|cma|שביעות רצון|--
+821|settlement-2019|lamas|הלשכה המרכזית לסטטיסטיקה|--
+821|settlement-2019|lamas|יישובים|--
+821|settlement-2019|lamas|ערים|--
+822|sewage_donor|water_authority|water|--
+822|sewage_donor|water_authority|ביוב|--
+822|sewage_donor|water_authority|טיפול בשפכים|--
+822|sewage_donor|water_authority|מים|--
+822|sewage_donor|water_authority|רשות המים|--
+823|sewage_owners|water_authority|water|--
+823|sewage_owners|water_authority|טיפול בשפכים|--
+823|sewage_owners|water_authority|מטש|--
+823|sewage_owners|water_authority|מים|--
+823|sewage_owners|water_authority|רשות המים|--
+824|sfirot|ministry_of_transport|GIS|--
+824|sfirot|ministry_of_transport|דרכים|--
+824|sfirot|ministry_of_transport|ממג|--
+824|sfirot|ministry_of_transport|ספירות תנועה|--
+825|sfirot_tnua_2019|lamas|מימון של משרד התחבורה|--
+825|sfirot_tnua_2019|lamas|ספירות תנועה|--
+826|shamaiim|ministry_of_justice|שמאים מכריעים|--
+827|shamaim|ministry_of_justice|משרד המשפטים|--
+827|shamaim|ministry_of_justice|שמאי מקרקעין|--
+828|shamaim_rechev|ministry_of_transport|כלי רכב|--
+828|shamaim_rechev|ministry_of_transport|משרד התחבורה|--
+828|shamaim_rechev|ministry_of_transport|רכב|--
+828|shamaim_rechev|ministry_of_transport|תחבורה|--
+829|shape|israel_mapping_center|דיור|--
+830|sharaiim_kadim|ministry_of_justice|בתי הדין השרעיים|--
+830|sharaiim_kadim|ministry_of_justice|משרד המשפטים|--
+831|sharaim|ministry_of_justice|בתי הדין השרעיים|--
+831|sharaim|ministry_of_justice|חוזי נישואין|--
+831|sharaim|ministry_of_justice|משרד המשפטים|--
+831|sharaim|ministry_of_justice|תיקים|--
+832|sheetkshape|israel_mapping_center|דיור|--
+832|sheetkshape|israel_mapping_center|המרכז למיפוי ישראל|--
+833|sheltersmaaleadumim|maaleedumim|ביטחון|--
+833|sheltersmaaleadumim|maaleedumim|חירום|--
+833|sheltersmaaleadumim|maaleedumim|מקלטים|--
+836|shikumshchunot|ministry_of_housing|מרקם ותיק|--
+836|shikumshchunot|ministry_of_housing|משרד הבינוי והשיכון|--
+836|shikumshchunot|ministry_of_housing|שיקום|--
+836|shikumshchunot|ministry_of_housing|שיקום שכונות חברתי|--
+836|shikumshchunot|ministry_of_housing|שיקום שכונות פיזי|--
+836|shikumshchunot|ministry_of_housing|שכונות|--
+837|shinui_mivne|ministry_of_transport|כלי רכב|--
+837|shinui_mivne|ministry_of_transport|משרד התחבורה|--
+837|shinui_mivne|ministry_of_transport|רכב|--
+839|shkifut-2015|ministry_of_education|חינוך|--
+840|shkifut-budget-boarding-2016|ministry_of_education|חינוך|--
+840|shkifut-budget-boarding-2016|ministry_of_education|מוסדות חינוך|--
+840|shkifut-budget-boarding-2016|ministry_of_education|תקציב|--
+841|shkifut-budget-cluster-2016|ministry_of_education|אשכול|--
+841|shkifut-budget-cluster-2016|ministry_of_education|חינוך|--
+841|shkifut-budget-cluster-2016|ministry_of_education|תקציב|--
+842|shkifut-budget-cluster-kindergarten-2016|ministry_of_education|גני ילדים|--
+842|shkifut-budget-cluster-kindergarten-2016|ministry_of_education|חינוך|--
+842|shkifut-budget-cluster-kindergarten-2016|ministry_of_education|תקציב|--
+843|shkifut-budget-highschool-2016|ministry_of_education|חינוך|--
+843|shkifut-budget-highschool-2016|ministry_of_education|מוסדות_חינוך|--
+843|shkifut-budget-highschool-2016|ministry_of_education|תקציב|--
+844|shkifut-budget-kindergarten-2016|ministry_of_education|חינוך|--
+844|shkifut-budget-kindergarten-2016|ministry_of_education|רשויות_מקומיות|--
+844|shkifut-budget-kindergarten-2016|ministry_of_education|תקציב|--
+845|shkifut-budget-legal-2016|ministry_of_education|חינוך|--
+845|shkifut-budget-legal-2016|ministry_of_education|מעמד_משפטי|--
+845|shkifut-budget-legal-2016|ministry_of_education|תקציב|--
+846|shkifut-budget-local-2016|ministry_of_education|חינוך|--
+846|shkifut-budget-local-2016|ministry_of_education|רשויות מקומיות|--
+846|shkifut-budget-local-2016|ministry_of_education|תקציב|--
+847|shkifut-budget-middleschool-2016|ministry_of_education|חינוך|--
+847|shkifut-budget-middleschool-2016|ministry_of_education|מוסדות_חינוך|--
+847|shkifut-budget-middleschool-2016|ministry_of_education|תקציב|--
+848|shkifut-budget-school-2016|ministry_of_education|חינוך|--
+848|shkifut-budget-school-2016|ministry_of_education|מוסדות חינוך|--
+848|shkifut-budget-school-2016|ministry_of_education|תקציב|--
+850|shkifut-budget-supervision-2016|ministry_of_education|חינוך|--
+850|shkifut-budget-supervision-2016|ministry_of_education|סוג פיקוח|--
+850|shkifut-budget-supervision-2016|ministry_of_education|תקציב|--
+851|shopping-cart|moital|כלכלה|--
+852|simaneymisahr|ministry_of_justice|מסחר|--
+853|simcha-2017|socialequality|2017|--
+853|simcha-2017|socialequality|המשרד|--
+853|simcha-2017|socialequality|המשרד לשוויון חברתי|--
+853|simcha-2017|socialequality|חברתי|--
+853|simcha-2017|socialequality|לשוויון|--
+853|simcha-2017|socialequality|מיזם|--
+853|simcha-2017|socialequality|מיזם שמחה|--
+853|simcha-2017|socialequality|מיזם שמחה 2017|--
+853|simcha-2017|socialequality|שמחה|--
+854|siua_kaspi_2017|ministry_of_immigrant_absorption|סיוע כספי|--
+854|siua_kaspi_2017|ministry_of_immigrant_absorption|עולים|--
+854|siua_kaspi_2017|ministry_of_immigrant_absorption|קליטת עלייה|--
+855|siyua|ministry_of_justice|משרד המשפטים|--
+856|socharim|ministry_of_transport|כלי רכב|--
+856|socharim|ministry_of_transport|משרד התחבורה|--
+856|socharim|ministry_of_transport|רכב|--
+856|socharim|ministry_of_transport|תחבורה|--
+857|social-departments|ministry_of_social_affairs|בריאות ורווחה|--
+857|social-departments|ministry_of_social_affairs|משרד העבודה|--
+857|social-departments|ministry_of_social_affairs|שירותיים חברתיים|--
+858|social-workers-registration|ministry_of_social_affairs|בריאות ורווחה|--
+858|social-workers-registration|ministry_of_social_affairs|עובדים סוציאליים|--
+858|social-workers-registration|ministry_of_social_affairs|פנקס|--
+858|social-workers-registration|ministry_of_social_affairs|רישום|--
+861|special-education-kindergartensmaaleadumim|maaleedumim|גני ילדים|--
+861|special-education-kindergartensmaaleadumim|maaleedumim|גני שילוב|--
+861|special-education-kindergartensmaaleadumim|maaleedumim|גני תקשורת|--
+861|special-education-kindergartensmaaleadumim|maaleedumim|חינוך|--
+861|special-education-kindergartensmaaleadumim|maaleedumim|חינוך מיוחד|--
+862|special_populations|water_authority|water|--
+862|special_populations|water_authority|מים|--
+862|special_populations|water_authority|רשות המים|--
+863|species|volcaniagri|זני זרעים|--
+863|species|volcaniagri|זרעים|--
+863|species|volcaniagri|חקלאות|--
+864|spring_quality|water_authority|quality|--
+864|spring_quality|water_authority|spring|--
+864|spring_quality|water_authority|water|--
+864|spring_quality|water_authority|יונים ראשיים|--
+864|spring_quality|water_authority|מים|--
+864|spring_quality|water_authority|מעיין|--
+864|spring_quality|water_authority|רשות המים|--
+865|springs|water_authority|spring|--
+865|springs|water_authority|water|--
+865|springs|water_authority|מים|--
+865|springs|water_authority|מעיין|--
+865|springs|water_authority|רשות המים|--
+866|staj|ministry-health|בריאות ורווחה|--
+866|staj|ministry-health|הגרלה|--
+866|staj|ministry-health|העדפה|--
+866|staj|ministry-health|סטאז|--
+867|stat2017|eca|הוצאה לפועל|--
+867|stat2017|eca|מרכז לגביית קנסות|--
+868|stat2018|eca|הוצאה לפועל|--
+868|stat2018|eca|מרכז לגביית קנסות|--
+870|statistical-area-2008|lamas|אוכלוסיה|--
+870|statistical-area-2008|lamas|אזורים סטטיסטיים|--
+870|statistical-area-2008|lamas|מפקד|--
+870|statistical-area-2008|lamas|מפקד 2008|--
+870|statistical-area-2008|lamas|שכבה|--
+871|statisticsassigningperformance|ies|אוכלוסיה|--
+871|statisticsassigningperformance|ies|איזורים|--
+871|statisticsassigningperformance|ies|גיל|--
+871|statisticsassigningperformance|ies|דת|--
+871|statisticsassigningperformance|ies|השכלה|--
+871|statisticsassigningperformance|ies|השמות|--
+871|statisticsassigningperformance|ies|מגבלות|--
+871|statisticsassigningperformance|ies|עיסוק|--
+872|statisticsjobsperformance|ies|אוכלוסיה|--
+872|statisticsjobsperformance|ies|אוצר וכלכלה|--
+872|statisticsjobsperformance|ies|איזורים|--
+872|statisticsjobsperformance|ies|הזמנות|--
+872|statisticsjobsperformance|ies|משרות|--
+872|statisticsjobsperformance|ies|עיסוקים|--
+874|statreport2016-eca|eca|הוצאה לפועל|--
+874|statreport2016-eca|eca|מרכז לגביית קנסות|--
+875|stats_rish|population_authority|היתר עבודה|--
+875|stats_rish|population_authority|הנפקת רישיונות לזרים|--
+875|stats_rish|population_authority|רישיון לזרים|--
+875|stats_rish|population_authority|רישיונות|--
+876|strat_border|ministry_of_transport|GIS|--
+876|strat_border|ministry_of_transport|חצב|--
+876|strat_border|ministry_of_transport|ממג|--
+876|strat_border|ministry_of_transport|תחבורה|--
+876|strat_border|ministry_of_transport|תכניות אסטרטגיות|--
+877|stream-monitoring|ministry_of_the_environment|הגנת הסביבה|--
+877|stream-monitoring|ministry_of_the_environment|המשרד להגנת הסביבה|--
+877|stream-monitoring|ministry_of_the_environment|נחלים|--
+878|streams|water_authority|streams|--
+878|streams|water_authority|water|--
+878|streams|water_authority|מים|--
+878|streams|water_authority|נחל|--
+878|streams|water_authority|רשות המים|--
+879|street-namesmaaleadumim|maaleedumim|עירייה|--
+879|street-namesmaaleadumim|maaleedumim|רחובות|--
+879|street-namesmaaleadumim|maaleedumim|שמות רחובות|--
+880|studyapplications|ministry_of_justice|לימודים|--
+880|studyapplications|ministry_of_justice|משרד המשפטים|--
+881|subgushallshape|israel_mapping_center|דיור|--
+882|sulfur-oxides|ministry_of_the_environment|זיהום אוויר|--
+882|sulfur-oxides|ministry_of_the_environment|מחצבות|--
+882|sulfur-oxides|ministry_of_the_environment|סביבה|--
+882|sulfur-oxides|ministry_of_the_environment|פליטות|--
+882|sulfur-oxides|ministry_of_the_environment|תעשיה|--
+883|supervisionfiles|ministry_of_justice|משרד המשפטים|--
+883|supervisionfiles|ministry_of_justice|צווי נגישות|--
+884|support|ministry_of_the_environment|סביבה|--
+884|support|ministry_of_the_environment|סיוע כספי|--
+884|support|ministry_of_the_environment|תמיכה|--
+885|surveyers|the_israel_lands_administration|דיור|--
+886|svivaniturmifal|ministry_of_the_environment|משרד להגנת הסביבה|--
+888|synagogues|petah-tikva-municipality|אוכלוסיה|--
+888|synagogues|petah-tikva-municipality|בתי כנסת|--
+888|synagogues|petah-tikva-municipality|עיריית פתח תקוה|--
+889|tabbar|interior_affairs|רשויות מקומיות|--
+889|tabbar|interior_affairs|שלטון מקומי|--
+889|tabbar|interior_affairs|תבר|--
+889|tabbar|interior_affairs|תקציב|--
+889|tabbar|interior_affairs|תקציב בלתי רגיל|--
+890|tables|eca|הוצאה לפועל|--
+891|tabu_asset|ministry_of_justice|טאבו|--
+891|tabu_asset|ministry_of_justice|משרד המשפטים|--
+892|talmudiccollege|israel_mapping_center|המרכז למיפוי ישראל|--
+892|talmudiccollege|israel_mapping_center|חינוך ותרבות|--
+893|tashlumim_2018|ministry_of_immigrant_absorption|אוכלוסייה|--
+893|tashlumim_2018|ministry_of_immigrant_absorption|סיוע כספי|--
+893|tashlumim_2018|ministry_of_immigrant_absorption|עלייה|--
+893|tashlumim_2018|ministry_of_immigrant_absorption|קליטה|--
+894|tashlumim_hozrim_2018|ministry_of_immigrant_absorption|אוכלוסייה|--
+894|tashlumim_hozrim_2018|ministry_of_immigrant_absorption|סיוע כספי|--
+894|tashlumim_hozrim_2018|ministry_of_immigrant_absorption|עלייה|--
+894|tashlumim_hozrim_2018|ministry_of_immigrant_absorption|קליטה|--
+894|tashlumim_hozrim_2018|ministry_of_immigrant_absorption|תושבים חוזרים|--
+895|tatal|iplan|ותל|--
+895|tatal|iplan|לאומית|--
+895|tatal|iplan|מינהל התכנון|--
+895|tatal|iplan|תכנון|--
+895|tatal|iplan|תכנית|--
+895|tatal|iplan|תכנית תשתיות לאומית|--
+895|tatal|iplan|תשתיות|--
+895|tatal|iplan|תתל|--
+896|tavlat-simlei-averot|ministry_of_transport|משטרת ישראל|--
+896|tavlat-simlei-averot|ministry_of_transport|משרד התחבורה|--
+896|tavlat-simlei-averot|ministry_of_transport|שיטת הניקוד|--
+897|taz_jer_pop_type|ministry_of_transport|ירושלים|--
+897|taz_jer_pop_type|ministry_of_transport|סוג אוכלוסיה|--
+898|taz_mot_rate_2040|ministry_of_transport|2040|--
+898|taz_mot_rate_2040|ministry_of_transport|GIS|--
+898|taz_mot_rate_2040|ministry_of_transport|אזורי תנועה|--
+898|taz_mot_rate_2040|ministry_of_transport|ממג|--
+898|taz_mot_rate_2040|ministry_of_transport|רמת מינוע|--
+899|taz_north_popdens_2016|ministry_of_transport|2016|--
+899|taz_north_popdens_2016|ministry_of_transport|GIS|--
+899|taz_north_popdens_2016|ministry_of_transport|ממג|--
+899|taz_north_popdens_2016|ministry_of_transport|צפון|--
+899|taz_north_popdens_2016|ministry_of_transport|צפיפות אוכלוסיה|--
+900|taz_ta_popdens_2017|ministry_of_transport|2017|--
+900|taz_ta_popdens_2017|ministry_of_transport|GIS|--
+900|taz_ta_popdens_2017|ministry_of_transport|מטרופולין תל אביב|--
+900|taz_ta_popdens_2017|ministry_of_transport|ממג|--
+900|taz_ta_popdens_2017|ministry_of_transport|צפיפות אוכלוסיה|--
+901|tenders|governmentprocurementadministration|חשב כללי|--
+901|tenders|governmentprocurementadministration|מינהל הרכש|--
+901|tenders|governmentprocurementadministration|מכרז|--
+901|tenders|governmentprocurementadministration|מכרזים|--
+901|tenders|governmentprocurementadministration|מרכבה|--
+901|tenders|governmentprocurementadministration|רכש|--
+901|tenders|governmentprocurementadministration|תקציב|--
+902|teunot_2017|lamas|הלשכה המרכזית לסטטיסטיקה|--
+902|teunot_2017|lamas|תאונות דרכים|--
+902|teunot_2017|lamas|תחבורה|--
+903|teunot2019|lamas|נתוני הלמס|--
+903|teunot2019|lamas|תאונות דרכים|--
+903|teunot2019|lamas|תחבורה|--
+904|tichnun-pituah|ministry_of_housing|פיתוח|--
+904|tichnun-pituah|ministry_of_housing|שיווק ובניה|--
+905|tikufim-2021|ministry_of_transport|משרד התחבורה|--
+905|tikufim-2021|ministry_of_transport|תחבורה|--
+905|tikufim-2021|ministry_of_transport|תחבורה ציבורית|--
+906|tikufim_station_2022|ministry_of_transport|משרד התחבורה|--
+906|tikufim_station_2022|ministry_of_transport|תחבורה ציבורית|--
+907|tipathlav|maaleedumim|בדיקות|--
+907|tipathlav|maaleedumim|בריאות|--
+907|tipathlav|maaleedumim|הגיל הרך|--
+907|tipathlav|maaleedumim|התפתחות|--
+907|tipathlav|maaleedumim|ילדים|--
+907|tipathlav|maaleedumim|רפואה|--
+909|tlzgizanut|ministry_of_justice|גזענות|--
+909|tlzgizanut|ministry_of_justice|היחידה למאבק בגזענות|--
+909|tlzgizanut|ministry_of_justice|משרד המשפטים|--
+910|tma|iplan|מגורים|--
+910|tma|iplan|מינהל התכנון|--
+910|tma|iplan|שטחים פתוחים|--
+910|tma|iplan|תכנון|--
+910|tma|iplan|תכניות מתאר ארציות|--
+910|tma|iplan|תכנית|--
+910|tma|iplan|תכנית מתאר|--
+910|tma|iplan|תכנית מתאר ארצית|--
+910|tma|iplan|תמא|--
+910|tma|iplan|תשתיות|--
+911|tma_23|ministry_of_transport|23|--
+911|tma_23|ministry_of_transport|GIS|--
+911|tma_23|ministry_of_transport|ממג|--
+911|tma_23|ministry_of_transport|מסילות ברזל|--
+911|tma_23|ministry_of_transport|תמא|--
+912|tma_23a4_dipo|ministry_of_transport|GIS|--
+912|tma_23a4_dipo|ministry_of_transport|דיפו|--
+912|tma_23a4_dipo|ministry_of_transport|חצב|--
+912|tma_23a4_dipo|ministry_of_transport|מטרופולין תל אביב|--
+912|tma_23a4_dipo|ministry_of_transport|ממג|--
+912|tma_23a4_dipo|ministry_of_transport|מתען|--
+912|tma_23a4_dipo|ministry_of_transport|תמא 23 א 4|--
+913|tma_23a4_lines|ministry_of_transport|GIS|--
+913|tma_23a4_lines|ministry_of_transport|חצב|--
+913|tma_23a4_lines|ministry_of_transport|מטרופולין תל אביב|--
+913|tma_23a4_lines|ministry_of_transport|ממג|--
+913|tma_23a4_lines|ministry_of_transport|מתען|--
+913|tma_23a4_lines|ministry_of_transport|קווים|--
+913|tma_23a4_lines|ministry_of_transport|תמא 23 א 4|--
+914|tma_3|ministry_of_transport|GIS|--
+914|tma_3|ministry_of_transport|דרכים|--
+914|tma_3|ministry_of_transport|ממג|--
+914|tma_3|ministry_of_transport|קומפילציית דרכים|--
+914|tma_3|ministry_of_transport|תמא|--
+915|tma_3_plans|ministry_of_transport|GIS|--
+915|tma_3_plans|ministry_of_transport|דרכים|--
+915|tma_3_plans|ministry_of_transport|ממג|--
+915|tma_3_plans|ministry_of_transport|תכניות מפורטות לדרכים|--
+915|tma_3_plans|ministry_of_transport|תמא|--
+916|tma_3_points|ministry_of_transport|GIS|--
+916|tma_3_points|ministry_of_transport|חצב|--
+916|tma_3_points|ministry_of_transport|מחלפים|--
+916|tma_3_points|ministry_of_transport|ממג|--
+916|tma_3_points|ministry_of_transport|תחבורה|--
+916|tma_3_points|ministry_of_transport|תמא|--
+916|tma_3_points|ministry_of_transport|תמא 3|--
+917|tma_42|ministry_of_transport|GIS|--
+917|tma_42|ministry_of_transport|חצב|--
+917|tma_42|ministry_of_transport|ממג|--
+917|tma_42|ministry_of_transport|תחבורה|--
+917|tma_42|ministry_of_transport|תמא 42|--
+918|tmm|iplan|ייעודי קרקע|--
+918|tmm|iplan|מגורים|--
+918|tmm|iplan|מחוז|--
+918|tmm|iplan|מינהל התכנון|--
+918|tmm|iplan|שטחים פתוחים|--
+918|tmm|iplan|תכנון|--
+918|tmm|iplan|תכניות מתאר מחוזיות|--
+918|tmm|iplan|תכנית|--
+918|tmm|iplan|תכנית מתאר|--
+918|tmm|iplan|תכנית מתאר מחוזית|--
+918|tmm|iplan|תממ|--
+920|tochniyot|ministry_of_education|חינוך|--
+921|tour-operator|ministry_of_tourism|מארגנים|--
+921|tour-operator|ministry_of_tourism|משרד התיירות|--
+921|tour-operator|ministry_of_tourism|תיירות|--
+922|tovin|ministry_of_justice|מנהל הטובין|--
+922|tovin|ministry_of_justice|משרד המשפטים|--
+922|tovin|ministry_of_justice|סימני מסחר|--
+923|tqar|ministry_of_transport|מבחן נהיגה עיוני|--
+923|tqar|ministry_of_transport|משרד התחבורה|--
+923|tqar|ministry_of_transport|שאלות תאוריה|--
+924|tqen|ministry_of_transport|מבחן נהיגה עיוני|--
+924|tqen|ministry_of_transport|משרד התחבורה|--
+924|tqen|ministry_of_transport|שאלות תאוריה|--
+925|tqes|ministry_of_transport|מבחן נהיגה עיוני|--
+925|tqes|ministry_of_transport|משרד התחבורה|--
+925|tqes|ministry_of_transport|שאלות תאוריה|--
+926|tqfr|ministry_of_transport|מבחן נהיגה עיוני|--
+926|tqfr|ministry_of_transport|משרד התחבורה|--
+926|tqfr|ministry_of_transport|שאלות תאוריה|--
+927|tqhe|ministry_of_transport|מבחן נהיגה עיוני|--
+927|tqhe|ministry_of_transport|משרד התחבורה|--
+927|tqhe|ministry_of_transport|עיוני|--
+927|tqhe|ministry_of_transport|שאלות תאוריה|--
+927|tqhe|ministry_of_transport|תיאוריה|--
+928|tq_he_a3|ministry_of_transport|מבחן נהיגה עיוני|--
+928|tq_he_a3|ministry_of_transport|משרד התחבורה|--
+928|tq_he_a3|ministry_of_transport|שאלות תאוריה|--
+929|tqru|ministry_of_transport|מבחן נהיגה עיוני|--
+929|tqru|ministry_of_transport|משרד התחבורה|--
+929|tqru|ministry_of_transport|שאלות תאוריה|--
+931|traffic_authority|ministry_of_transport|בטיחות בדרכים|--
+931|traffic_authority|ministry_of_transport|זכות דרך|--
+931|traffic_authority|ministry_of_transport|חצב|--
+931|traffic_authority|ministry_of_transport|משרד התחבורה|--
+931|traffic_authority|ministry_of_transport|רשות תמרור מקומית|--
+932|traffic-counts|lamas|הלשכה המרכזית לסטטיסטיקה|--
+932|traffic-counts|lamas|ספירות תנועה|--
+932|traffic-counts|lamas|תחבורה|--
+933|traffic_light_junction|ministry_of_transport|gis|--
+933|traffic_light_junction|ministry_of_transport|חצב|--
+933|traffic_light_junction|ministry_of_transport|ממג|--
+933|traffic_light_junction|ministry_of_transport|מרומזרים|--
+933|traffic_light_junction|ministry_of_transport|צמתים|--
+933|traffic_light_junction|ministry_of_transport|רמזורים|--
+934|trainerarchitecture|labor|ארכיטקטורה|--
+935|trainercivilengineering|labor|הנדסה אזרחית|--
+935|trainercivilengineering|labor|מאמנים|--
+936|training-courses|ministry_of_tourism|מורי דרך|--
+936|training-courses|ministry_of_tourism|משרד התיירות|--
+936|training-courses|ministry_of_tourism|תיירות|--
+937|train_safety|ministry_of_transport|בטיחות|--
+938|train_station|ministry_of_transport|משרד התחבורה|--
+938|train_station|ministry_of_transport|רכבת|--
+938|train_station|ministry_of_transport|תחבורה ציבורית|--
+939|train_trip|ministry_of_transport|משרד התחבורה|--
+939|train_trip|ministry_of_transport|רכבת|--
+939|train_trip|ministry_of_transport|תחבורה ציבורית|--
+940|transfer_bank|cma|רשות שוק ההון|--
+941|travelwarnings|gov-il|אזהרות מסע|--
+941|travelwarnings|gov-il|מטה לביטחון לאומי|--
+941|travelwarnings|gov-il|מסע|--
+941|travelwarnings|gov-il|משרד הבריאות|--
+941|travelwarnings|gov-il|משרד החוץ|--
+942|treated_waste_cons|water_authority|water|--
+942|treated_waste_cons|water_authority|טיפול בשפכים|--
+942|treated_waste_cons|water_authority|מטש|--
+942|treated_waste_cons|water_authority|מים|--
+942|treated_waste_cons|water_authority|קולחין|--
+942|treated_waste_cons|water_authority|רשות המים|--
+943|tripscelular_1819|ministry_of_transport|מידע סלולרי|--
+943|tripscelular_1819|ministry_of_transport|משרד התחבורה|--
+943|tripscelular_1819|ministry_of_transport|סקר נסיעות|--
+943|tripscelular_1819|ministry_of_transport|תכנון תחבורה|--
+944|truck_survey_2017|ministry_of_transport|ארצי|--
+944|truck_survey_2017|ministry_of_transport|מצב קיים|--
+944|truck_survey_2017|ministry_of_transport|משאיות|--
+944|truck_survey_2017|ministry_of_transport|משרד התחבורה|--
+944|truck_survey_2017|ministry_of_transport|תנועה מסחרית|--
+945|ttl_transport|ministry_of_transport|GIS|--
+945|ttl_transport|ministry_of_transport|ממג|--
+945|ttl_transport|ministry_of_transport|תחבורה|--
+945|ttl_transport|ministry_of_transport|תכנית תשתית לאומית|--
+945|ttl_transport|ministry_of_transport|תתל|--
+946|tunnels|ministry_of_transport|GIS|--
+946|tunnels|ministry_of_transport|חצב|--
+946|tunnels|ministry_of_transport|כבישים|--
+946|tunnels|ministry_of_transport|ממג|--
+946|tunnels|ministry_of_transport|מנהרות|--
+946|tunnels|ministry_of_transport|רכבת|--
+946|tunnels|ministry_of_transport|רכבת כבדה|--
+949|undergroundcarparksmaaleadumim|maaleedumim|אזורי תעשייה|--
+949|undergroundcarparksmaaleadumim|maaleedumim|חניה|--
+949|undergroundcarparksmaaleadumim|maaleedumim|חניון|--
+949|undergroundcarparksmaaleadumim|maaleedumim|נגישות|--
+949|undergroundcarparksmaaleadumim|maaleedumim|רכב|--
+949|undergroundcarparksmaaleadumim|maaleedumim|תחבורה|--
+950|universities|israel_mapping_center|המרכז למיפוי ישראל|--
+950|universities|israel_mapping_center|חינוך ותרבות|--
+951|vaadatezvonot|ministry_of_justice|וועדת העזבונות|--
+951|vaadatezvonot|ministry_of_justice|משרד המשפטים|--
+952|vaccines-abroad-price-list|ministry-health|בריאות|--
+952|vaccines-abroad-price-list|ministry-health|בריאות ורווחה|--
+952|vaccines-abroad-price-list|ministry-health|חיסונים|--
+952|vaccines-abroad-price-list|ministry-health|מחירונים|--
+952|vaccines-abroad-price-list|ministry-health|משרד הבריאות|--
+954|valkachshap|iplan|אכרזה|--
+954|valkachshap|iplan|אכרזות|--
+954|valkachshap|iplan|הכרזה|--
+954|valkachshap|iplan|הכרזות|--
+954|valkachshap|iplan|ולקח|--
+954|valkachshap|iplan|ולקחשפ|--
+954|valkachshap|iplan|חקלאות|--
+954|valkachshap|iplan|מוכרז|--
+954|valkachshap|iplan|מינהל התכנון|--
+954|valkachshap|iplan|קרקע חקלאית|--
+954|valkachshap|iplan|שטח פתוח|--
+954|valkachshap|iplan|שטחים פתוחים|--
+954|valkachshap|iplan|תכנון|--
+955|vatikim|socialequality|וותיקים|--
+955|vatikim|socialequality|ותיקים|--
+955|vatikim|socialequality|פעילויות|--
+955|vatikim|socialequality|קול|--
+955|vatikim|socialequality|קול קורא|--
+955|vatikim|socialequality|קול קורא - וותיקים|--
+955|vatikim|socialequality|קול קורא - ותיקים|--
+955|vatikim|socialequality|קול קורא וותיקים|--
+955|vatikim|socialequality|קול קורא ותיקים|--
+955|vatikim|socialequality|קורא|--
+955|vatikim|socialequality|רשויות|--
+955|vatikim|socialequality|שינויים בתקציב|--
+956|vatmal|iplan|service|--
+956|vatmal|iplan|אכרזה|--
+956|vatmal|iplan|אפליקציה|--
+956|vatmal|iplan|הכרזה|--
+956|vatmal|iplan|ותמל|--
+956|vatmal|iplan|מוכרזים|--
+956|vatmal|iplan|מינהל התכנון|--
+956|vatmal|iplan|מתחם|--
+956|vatmal|iplan|מתחמים מועדפים לדיור|--
+956|vatmal|iplan|סרביס|--
+956|vatmal|iplan|תכנון|--
+957|vat-refund-stores|ministry_of_tourism|מעמ|--
+957|vat-refund-stores|ministry_of_tourism|משרד התיירות|--
+957|vat-refund-stores|ministry_of_tourism|עסקים|--
+957|vat-refund-stores|ministry_of_tourism|תיירות|--
+958|vehicle_counts|ministry_of_transport|משרד התחבורה|--
+958|vehicle_counts|ministry_of_transport|נפחי תנועה|--
+958|vehicle_counts|ministry_of_transport|סווג כלי רכב|--
+958|vehicle_counts|ministry_of_transport|ספירות תנועה|--
+959|vehicles_filters_reduce_emissions|ministry_of_transport|כלי רכב|--
+959|vehicles_filters_reduce_emissions|ministry_of_transport|משרד התחבורה|--
+959|vehicles_filters_reduce_emissions|ministry_of_transport|רכב|--
+959|vehicles_filters_reduce_emissions|ministry_of_transport|תחבורה|--
+961|veterinary_chemical_preparations|ministry_of_agriculture|בעלי חיים|--
+961|veterinary_chemical_preparations|ministry_of_agriculture|וטרינרים|--
+961|veterinary_chemical_preparations|ministry_of_agriculture|חומרי הדברה|--
+962|vod|ministry_of_tourism|משרד התיירות|--
+962|vod|ministry_of_tourism|תיירות|--
+963|vor|ministry_of_transport|GIS|--
+963|vor|ministry_of_transport|VOR|--
+963|vor|ministry_of_transport|חצב|--
+963|vor|ministry_of_transport|ממג|--
+963|vor|ministry_of_transport|מתקני עזר לניווט|--
+963|vor|ministry_of_transport|תעופה אזרחית|--
+964|vote|knesset|הכנסת|--
+964|vote|knesset|הצבעות|--
+964|vote|knesset|חברי כנסת|--
+964|vote|knesset|מליאה|--
+964|vote|knesset|משפט|--
+965|votes-knesset|central-election-committee|ועדת הבחירות|--
+966|votingboxes|isa|אוצר וכלכלה|--
+966|votingboxes|isa|בורסה|--
+966|votingboxes|isa|ההצבעה האלקטרונית|--
+966|votingboxes|isa|רשות ניירות ערך|--
+966|votingboxes|isa|רשימת אסיפות ציבוריות|--
+967|voting-polls|population_authority|אוכלוסיה|--
+967|voting-polls|population_authority|בחירות|--
+967|voting-polls|population_authority|קלפי|--
+967|voting-polls|population_authority|קלפיות|--
+968|wages-and-labor-income-by-locality|social_security|אוכלוסיה|--
+968|wages-and-labor-income-by-locality|social_security|אוצר וכלכלה|--
+968|wages-and-labor-income-by-locality|social_security|הכנסות|--
+968|wages-and-labor-income-by-locality|social_security|יישוב|--
+968|wages-and-labor-income-by-locality|social_security|שכר|--
+969|wages-and-labor-income-by-locality2013|social_security|אוכלוסיה|--
+969|wages-and-labor-income-by-locality2013|social_security|אוצר וכלכלה|--
+969|wages-and-labor-income-by-locality2013|social_security|הכנסות|--
+969|wages-and-labor-income-by-locality2013|social_security|יישוב|--
+969|wages-and-labor-income-by-locality2013|social_security|שכר|--
+970|waste-information-system|ministry_of_the_environment|JSON|--
+970|waste-information-system|ministry_of_the_environment|אתר הטמנה|--
+970|waste-information-system|ministry_of_the_environment|דיווח|--
+970|waste-information-system|ministry_of_the_environment|הגנת הסביבה|--
+970|waste-information-system|ministry_of_the_environment|הטמנה|--
+970|waste-information-system|ministry_of_the_environment|ממפ|--
+970|waste-information-system|ministry_of_the_environment|מערכת מידע פסולת|--
+970|waste-information-system|ministry_of_the_environment|סביבה|--
+970|waste-information-system|ministry_of_the_environment|פסולת|--
+970|waste-information-system|ministry_of_the_environment|שידור|--
+970|waste-information-system|ministry_of_the_environment|שקילה|--
+970|waste-information-system|ministry_of_the_environment|שקילות|--
+970|waste-information-system|ministry_of_the_environment|שקילת|--
+970|waste-information-system|ministry_of_the_environment|תחנת מעבר|--
+971|water-and-food-fabs-lists|ministry-health|איכות מזון|--
+971|water-and-food-fabs-lists|ministry-health|מעבדות|--
+971|water-and-food-fabs-lists|ministry-health|מעבדות מזון|--
+971|water-and-food-fabs-lists|ministry-health|מעבדות מים|--
+972|water-efficient-plants|ministry_of_agriculture|אנרגיה ומים|--
+972|water-efficient-plants|ministry_of_agriculture|גינון|--
+972|water-efficient-plants|ministry_of_agriculture|גני נוי|--
+972|water-efficient-plants|ministry_of_agriculture|השקייה|--
+972|water-efficient-plants|ministry_of_agriculture|חיסכון במים|--
+972|water-efficient-plants|ministry_of_agriculture|חקלאות|--
+972|water-efficient-plants|ministry_of_agriculture|סביבה|--
+972|water-efficient-plants|ministry_of_agriculture|צמחים|--
+973|water_factory|water_authority|water|--
+973|water_factory|water_authority|מים|--
+973|water_factory|water_authority|מכון מים|--
+973|water_factory|water_authority|רשות המים|--
+974|wide-approval|ministry_of_the_environment|טיפול בפסולת|--
+974|wide-approval|ministry_of_the_environment|מפעלים|--
+974|wide-approval|ministry_of_the_environment|סביבה|--
+974|wide-approval|ministry_of_the_environment|פסולת|--
+974|wide-approval|ministry_of_the_environment|תעשיה|--
+975|workplan|ministry_of_transport|2019|--
+975|workplan|ministry_of_transport|GIS|--
+975|workplan|ministry_of_transport|חומש|--
+975|workplan|ministry_of_transport|חצב|--
+975|workplan|ministry_of_transport|ממג|--
+975|workplan|ministry_of_transport|פרויקטים|--
+975|workplan|ministry_of_transport|תכנית עבודה|--
+975|workplan|ministry_of_transport|תשתיות|--
+976|world-environmental-days|ministry_of_the_environment|אוכלוסייה|--
+976|world-environmental-days|ministry_of_the_environment|אוקיינוסים|--
+976|world-environmental-days|ministry_of_the_environment|אנרגייה|--
+976|world-environmental-days|ministry_of_the_environment|אקלים|--
+976|world-environmental-days|ministry_of_the_environment|אתרי פסולת|--
+976|world-environmental-days|ministry_of_the_environment|האו''ם|--
+976|world-environmental-days|ministry_of_the_environment|חיות בר|--
+976|world-environmental-days|ministry_of_the_environment|טיפול בפסולת|--
+976|world-environmental-days|ministry_of_the_environment|ייעודי קרקע|--
+976|world-environmental-days|ministry_of_the_environment|כדור הארץ|--
+976|world-environmental-days|ministry_of_the_environment|מגוון ביולוגי|--
+976|world-environmental-days|ministry_of_the_environment|מים|--
+976|world-environmental-days|ministry_of_the_environment|מערכת מידע פסולת|--
+976|world-environmental-days|ministry_of_the_environment|סביבה|--
+976|world-environmental-days|ministry_of_the_environment|פיתוח בר קיימה|--
+976|world-environmental-days|ministry_of_the_environment|פסולת|--
+976|world-environmental-days|ministry_of_the_environment|ציפורים|--
+976|world-environmental-days|ministry_of_the_environment|תזונה|--
+977|wplan_muni|ministry_of_transport|gis|--
+977|wplan_muni|ministry_of_transport|חצב|--
+977|wplan_muni|ministry_of_transport|ממג|--
+977|wplan_muni|ministry_of_transport|פרויקטים|--
+977|wplan_muni|ministry_of_transport|רשויות מקומיות|--
+977|wplan_muni|ministry_of_transport|שותפים לדרך|--
+977|wplan_muni|ministry_of_transport|תחבורה|--
+978|www-dat-gov-il|religion-office|דת|--
+978|www-dat-gov-il|religion-office|הדלקת נרות|--
+978|www-dat-gov-il|religion-office|שבת|--
+979|xplan|iplan|XPLAN|--
+979|xplan|iplan|service|--
+979|xplan|iplan|אפליקציה|--
+979|xplan|iplan|ייעודי קרקע|--
+979|xplan|iplan|מבאת|--
+979|xplan|iplan|מינהל התכנון|--
+979|xplan|iplan|מקוונות|--
+979|xplan|iplan|סטטוס|--
+979|xplan|iplan|סרביס|--
+979|xplan|iplan|קווים כחולים|--
+979|xplan|iplan|תכנון|--
+979|xplan|iplan|תכניות מקוונות|--
+979|xplan|iplan|תכנית|--
+980|xplan_services|iplan|service|--
+980|xplan_services|iplan|אפליקציות|--
+980|xplan_services|iplan|מינהל התכנון|--
+980|xplan_services|iplan|סרביס|--
+980|xplan_services|iplan|תכנון|--
+981|yehidot|ministry_of_the_environment|סביבה|--
+982|yerusha|ministry_of_justice|משרד המשפטים|--
+983|yeshuv_by_station|israel-police|יישובים|--
+983|yeshuv_by_station|israel-police|משטרה|--
+983|yeshuv_by_station|israel-police|משטרת ישראל|--
+983|yeshuv_by_station|israel-police|תחנות|--
+988|zakaut-hatkana|ministry_of_transport|משרד התחבורה|--
+988|zakaut-hatkana|ministry_of_transport|רכב|--
+988|zakaut-hatkana|ministry_of_transport|תחבורה|--
+991|ziptst|ministry_of_housing|gis|--
+991|ziptst|ministry_of_housing|בינוי|--
+991|ziptst|ministry_of_housing|בית דיור|--
+991|ziptst|ministry_of_housing|גיל זהב|--
+991|ziptst|ministry_of_housing|הוסטל|--
+991|ziptst|ministry_of_housing|זיפ|--
+991|ziptst|ministry_of_housing|שיכון|--
