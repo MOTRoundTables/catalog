@@ -1,11 +1,12 @@
 # ReadDataGov_4.py  - 9/9/22
 # This script creates a catolog with all the datasets in datagov.
-# The result includes 4 files:
-# 1. package_list.txt: list of the datasets 
-# 2. resources.txt: list of  the files in each data set
-# 3. resource_list.txt:
+# The result serves as input to prepare catalog updates.
+# The result includes 4 text files (delimited with "|"):
+# 1. package_list.txt: a list of data set codes 
+# 2. resource_list.txt: list of the datasets with info. like name, decription, publisher, etc.
+# 3. resources.txt: list of  the files in each data set
 # 4. tags.txt: datasets keywords
-# The files are saved in a sub-directory defined by variable "ver"
+# The files are saved in a sub-directory defined by variable "ver".
 
 # directory version:
 ver = "220909" # "220816",  "220523", "211008", "210715"
@@ -55,7 +56,7 @@ f1 = open(dr+'resources.txt', 'w', encoding="utf-8")
 f1.write("n|rsc|name|format|dateCr|dateMo|id|size\n")
 
 f2 = open(dr+'tags.txt', 'w', encoding="utf-8")
-f2.write("n|rsc|name|tag|tagId\n")
+f2.write("n|rsc|org|tag|tagId\n")
 
 i = 0
 while i <= n-1:   # n
