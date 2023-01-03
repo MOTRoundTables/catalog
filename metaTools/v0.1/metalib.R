@@ -95,7 +95,7 @@ metaxls2json <- function(dr, fl) {
 
   # read excel file
   print(paste("reading", fl1))
-  data <- read_excel(fl1)
+  data <- read_excel(fl1,col_names = FALSE)
   num_rows <- nrow(data)
   rng = paste("A1:G", as.integer(num_rows), sep="")
   columns = c("keyword", "name", "type", "description", "comment", "value", "label")
@@ -143,24 +143,27 @@ metaxls2json <- function(dr, fl) {
 # -------------------------------------
 
 readflds = function (data, strt, stp) {
-  #browser()
+  # browser()
   stp = toupper(stp)
   
   fields = list()
   field = NA
   vals = NA
   val = list()
-  for (i in strt:nrow(data)) {  
-    if ( !is.na(data$keyword[i]) & (toupper(data$keyword[i])==stp) ) {
+  for (i in strt:(nrow(data)+1)) {  
+    if ( (!is.na(data$keyword[i]) & (toupper(data$keyword[i])==stp))| i == (nrow(data)+1)) {
+      if (is.list(vals)) {
+        field$vals = vals
+      }
       fields <- append(fields, list(field))                 # add last field to result
       break
     }
-
+    
     if (!is.na(data$name[i])) { #  "name", "type", "description", "comment", "value", "label")
       # save field
       if (is.list(field)) {
         if (is.list(vals)) {
-            field$vals = vals
+          field$vals = vals
         }
         fields <- append(fields, list(field))
       }
@@ -181,9 +184,9 @@ readflds = function (data, strt, stp) {
     }
     else {
       vals[[ data$value[i] ]] <- data$label[i]
-    }  
+    } 
   }  
-    
+  
   return(list(last = i, meta = fields))
 }
 
