@@ -35,13 +35,13 @@ meta = tellmeta(dr, fl)
 f1 = openmetafile(meta, 1)
 
 metafields = getmetafilefields(meta, 1)
-filefields = as.list(colnames(f1))
+filefields = colnames(f1)
 
 library(base)
 differences <- setdiff(filefields, metafields)
 
 A = getmetafilefields(meta, 1)
-B = as.list(colnames(f1))
+B = colnames(f1)
 
 A %in% B
 
