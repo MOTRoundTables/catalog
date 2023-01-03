@@ -25,7 +25,7 @@ getmetafilefields <- function(meta, filenum) {
   file = file[[1]]
   fields = file$"File fields"
   # nfields = length(fields)
-  fieldnames <- map(fields, function(x) x[["name"]])
+  fieldnames <- map_chr(fields, function(x) x[["name"]])
   return(fieldnames)
 }
 
