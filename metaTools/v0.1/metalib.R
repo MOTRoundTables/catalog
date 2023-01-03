@@ -1,24 +1,50 @@
+# metadata tools function library - ver. 0.1
 library(readxl)
 library(jsonlite)
 library(tidyverse) # library(purrr)
 #library(stringr)
+library(skimr)  # https://cran.r-project.org/web/packages/skimr/
 
 # ---------------------------------------
+# check file functions
 
-chkmeta <- function(meta, filenum, test, f1) {
-  # if f1 null then open the file
-  # f1 = openmetafile(meta, 1)
+checkmetafilefields <- function(meta) {
+  #browser()
+  print("", quote=FALSE)
+  print("", quote=FALSE)
+  print("check individual files", quote=FALSE)
+  file_required_keys = c(  "File name", "File format", "File description", "File fields")
   
-  file = meta 
+  nfiles = length(meta$"Files list")
+  for (i in 1:nfiles) { 
+    print("", quote=FALSE)
+    print(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), quote=FALSE)
+    keys = names(meta$Files[[i]])
+    missing1 = setdiff(file_required_keys,keys)
+    if (length(missing1)>0) {
+      print(paste("Missing required keywords in file header:", missing1), quote=FALSE)
+    }    
+    print(paste("Description:", meta$Files[[i]]$"File description"))
     
+    f1 = openmetafile(meta, i)  # opens selected data file
+    metafields = getmetafilefields(meta, i)
+    filefields = colnames(f1)
+    differences <- setdiff(filefields, metafields)
+    if (length(differences)>0) {
+      print(paste("discrepacies if meta and file field names:", differences))
+    }
+    x = shortsummary(f1)
+    print(x)
+  }
 }
 
-checkmetafilefields <- function(meta, filenum, f1) {
-  metafields = getmetafilefields(meta, filenum)
-  filefields = colnames(f1)
-
+shortsummary <- function(f1) {
+  #head(f1)
+  #summary(f1) 
+  x = skim(f1) %>%
+    summary()
+  return(x)
 }
-  
 
 getmetafilefields <- function(meta, filenum) {
   file = meta$Files[filenum]
@@ -28,9 +54,6 @@ getmetafilefields <- function(meta, filenum) {
   fieldnames <- map_chr(fields, function(x) x[["name"]])
   return(fieldnames)
 }
-
-
-# ---------------------------------------
 
 openmetafile <- function(meta, filenum) {
   fl = meta$"Files list"[filenum]
@@ -45,20 +68,62 @@ openmetafile <- function(meta, filenum) {
   }
   return(readfile)
 }
-  
+
 # ---------------------------------------
+# check header  functions
+
+chkmetaheaderkeys <- function(meta) {
+  
+  hdr_required = c("Publisher", "Contact", "Title", "Description", "Keywords",
+                   "Created", "Last updated", "Temporal coverage", 
+                   "Spatial coverage", "Dataset file", "Metadata creation date")
+  
+  files_required = c("Files list", "Files")
+
+  keys = names(meta)
+  missing1 = setdiff(hdr_required,keys)
+  
+  if (length(missing1)>0) {
+    print(paste("Missing required keywords in header:", missing1))
+  }
+
+  missing2 = setdiff(files_required,keys)
+  if ((length(meta$"Files list")>0)&(length(missing2)>0)) {
+    print(paste("There are several files but missing in header:", missing2))
+  }
+
+}
+
+# ---------------------------------------
+# read & display metadata 
 
 getjsonmeta <- function(dr, fl) { 
+  
+  fl1 = paste(dr,fl,".json",sep="")
+  if (!file.exists(fl1)) {
+    print("json meta not found - will attempt to create one")
+    metaxls2json(dr, fl) # Create a json file from the excel meta
+  }  
+
   fl1 = paste(dr,fl,".json",sep="")
   meta = read_json(fl1, simplifyVector = FALSE)
   meta$dir = dr
   
-  print( paste("This is:", meta$Title ) )
+  print( paste("This is:", meta$Title ), quote=FALSE )
   nfiles = length(meta$"Files list")
-  print( paste("it includes", nfiles, "Files") )
-
+  print( paste("it includes", nfiles, "data files:") )
+  for (i in 1:nfiles) { 
+    print(paste(i, ": ", meta$"Files list"[i], sep="" ), quote=FALSE)
+  }
   return(meta)
 }
+
+listmetadatafiles <- function(meta) {
+  fls = meta$"Files list"
+  for (fl in fls) {
+    print( fl )
+  }
+}  
 
 tellmeta <- function(meta) {
   #browser()
@@ -85,6 +150,7 @@ tellmeta <- function(meta) {
 }
 
 # ---------------------------------------
+# convert metadata from xlsx to json
 
 metaxls2json <- function(dr, fl) { 
   fl1 = paste(dr,fl,".xlsx",sep="")
@@ -111,7 +177,7 @@ metaxls2json <- function(dr, fl) {
 
   # build files 
   nfiles = length(hdr$"Files list")
-  print( paste("There are", nfiles, "Files") )
+  #print( paste("This metadata includes", nfiles, "Files") )
 
   files = list()
   for (f in 1:nfiles) {  
@@ -135,8 +201,9 @@ metaxls2json <- function(dr, fl) {
   
   fl1 = paste(dr,fl,".json",sep="")
   print(paste("writing", fl1))
-  writeLines(json_string, fl1)
-
+  writeLines(json_string, fl1, useBytes = TRUE)  # usebytes writes in UTF8
+  print("finished converting meta from excel to json")
+  
   #browser()
 }
 
@@ -276,6 +343,17 @@ setcont <- function(row) {
     x = 1 
   } else { 
     x = 0 
+  }
+}
+
+# ---------------------------------------
+
+check2file <- function(dr, option) {
+  if (option) {
+    con <- file(paste(dr,"checkmeta.txt",sep=""))
+    sink(con, append=FALSE, type = c("output", "message"))
+  } else {
+    sink(type = c("output", "message")) 
   }
 }
 
