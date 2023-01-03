@@ -11,12 +11,25 @@ source("metalib.R")
 # dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/busvalid/"
 # fl = "Metadata-Bus_Tickets_Validation_Survey_2021"
 
+#dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/razon/"
+#fl = "Metadata-National_Satisfaction_Public_Transport"
+
+#dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/pubopinion/"
+#fl = "Metadata-Public_opinion_on_public_transportation_Survey_2021"
+      
 # dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/obstru/"
-# fl = "Metadata-Obstruction in public transportation survey_2021"
+# fl = "Metadata-Barriers in public transportation survey_2021"
+
+#dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/info/"
+#fl = "Metadata-Information_on_public_transportation_Survey_2021"
+
+dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/arab/"
+fl = "Metadata-Trucks_Parking_Arab_Settlements_2020"
+
 
 # -------------------------------------------------------
 
-check2file(dr, TRUE) # creates "checkmeta.txt" in dr. FALSE to console
+check2file(dr, fl, TRUE) # creates "checkmeta.txt" in dr. FALSE to console
 
 meta = getjsonmeta(dr, fl) # read meta json (if not there create it from xlsx)
 
@@ -30,8 +43,12 @@ checkmetafilefields(meta) # check file field names
 
 # -------------------------------------------------------
 
-sink() 
-sink(type="message")
+# open selected file
+f1 = openmetafile(meta, 1)  # opens selected data file
+
+# -------------------------------------------------------
+
+sink(type = c("output", "message")) 
 print("done ...")
 
 # -------------------------------------------------------

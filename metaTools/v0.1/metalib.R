@@ -348,9 +348,9 @@ setcont <- function(row) {
 
 # ---------------------------------------
 
-check2file <- function(dr, option) {
+check2file <- function(dr, fl, option) {
   if (option) {
-    con <- file(paste(dr,"checkmeta.txt",sep=""))
+    con <- file(paste(dr,"check_", fl, ".txt",sep=""))
     sink(con, append=FALSE, type = c("output", "message"))
   } else {
     sink(type = c("output", "message")) 
