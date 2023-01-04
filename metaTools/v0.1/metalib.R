@@ -28,12 +28,12 @@ checkmetafilefields <- function(meta) {
     
     f1 = openmetafile(meta, i)  # opens selected data file
     metafields = getmetafilefields(meta, i)
-    filefields = colnames(f1)
+    filefields = f1$headline
     differences <- setdiff(filefields, metafields)
     if (length(differences)>0) {
       print(paste("discrepacies if meta and file field names:", differences))
     }
-    x = shortsummary(f1)
+    x = shortsummary(f1$readfile)
     print(x)
   }
 }
@@ -62,12 +62,15 @@ openmetafile <- function(meta, filenum) {
   
   if (file.exists(fl1)) {
     readfile <- read.csv(fl1)
+    headline <- read_lines(fl1,n_max = 1) %>% str_split(",") %>% unlist()
   } else {
     print("File not found")
     readfile = NULL
+    headline = NULL
   }
-  return(readfile)
+  return(list(readfile=readfile,headline=headline))
 }
+
 
 # ---------------------------------------
 # check header  functions

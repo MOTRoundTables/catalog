@@ -1,5 +1,5 @@
 # catalog tools - ver. 0.1
-source("metalib.R")
+source("metaTools/v0.1/metalib.R")
 
 # Please specify:
 # dr is the directory where the zip was opened
@@ -23,13 +23,13 @@ source("metalib.R")
 #dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/info/"
 #fl = "Metadata-Information_on_public_transportation_Survey_2021"
 
-dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/arab/"
-fl = "Metadata-Trucks_Parking_Arab_Settlements_2020"
+dr = "C:/Users/idshk/Downloads/OneDrive_2023-01-03/version 0.2/"
+fl = "tourist_meta_0.2"
 
 
 # -------------------------------------------------------
 
-check2file(dr, fl, TRUE) # creates "checkmeta.txt" in dr. FALSE to console
+check2file(dr, fl, FALSE) # creates "checkmeta.txt" in dr. FALSE to console
 
 meta = getjsonmeta(dr, fl) # read meta json (if not there create it from xlsx)
 
@@ -39,7 +39,7 @@ chkmetaheaderkeys(meta) # check required keys in header are present
 
 checkmetafilefields(meta) # check file field names
 
-#checkmetafilevalues(meta) # for field with values check that values are valid
+# checkmetafilevalues(meta) # for field with values check that values are valid
 
 # -------------------------------------------------------
 
