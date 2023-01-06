@@ -10,31 +10,29 @@ library(skimr)  # https://cran.r-project.org/web/packages/skimr/
 
 checkmetafilefields <- function(meta) {
   #browser()
-  print("", quote=FALSE)
-  print("", quote=FALSE)
-  print("check individual files", quote=FALSE)
+  
+  addrep("check individual files", 2, 1)
   file_required_keys = c(  "File name", "File format", "File description", "File fields")
   
   nfiles = length(meta$"Files list")
   for (i in 1:nfiles) { 
-    print("", quote=FALSE)
-    print(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), quote=FALSE)
+    addrep(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), 1, 1)
     keys = names(meta$Files[[i]])
     missing1 = setdiff(file_required_keys,keys)
     if (length(missing1)>0) {
-      print(paste("Missing required keywords in file header:", missing1), quote=FALSE)
+      addrep(paste("Error: Missing required keywords in file header:", missing1))
     }    
-    print(paste("Description:", meta$Files[[i]]$"File description"))
+    addrep(paste("Description:", meta$Files[[i]]$"File description"))
     
     f1 = openmetafile(meta, i)  # opens selected data file
     metafields = getmetafilefields(meta, i)
-    filefields = f1$headline
+    filefields = x = colnames(f1) # f1$headline
     differences <- setdiff(filefields, metafields)
     if (length(differences)>0) {
-      print(paste("discrepacies if meta and file field names:", differences))
+      addrep(paste("Error: discrepacies if meta and file field names:", differences))
     }
-    x = shortsummary(f1$readfile)
-    print(x)
+    addrep(shortsummary(f1))
+    #print(x)
   }
 }
 
@@ -42,8 +40,11 @@ shortsummary <- function(f1) {
   #head(f1)
   #summary(f1) 
   x = skim(f1) %>%
-    summary()
-  return(x)
+    summary() 
+  a <- capture.output(print(x, quote=FALSE))
+  b = c("")
+  for (i in 1:length(a)) {b = c(b, a[i] )}
+  return(b)
 }
 
 getmetafilefields <- function(meta, filenum) {
@@ -61,14 +62,16 @@ openmetafile <- function(meta, filenum) {
   fl1 = paste(meta$dir, fl, sep="")
   
   if (file.exists(fl1)) {
-    readfile <- read.csv(fl1)
-    headline <- read_lines(fl1,n_max = 1) %>% str_split(",") %>% unlist()
+    readfile <- read_csv(fl1)
   } else {
     print("File not found")
-    readfile = NULL
-    headline = NULL
   }
-  return(list(readfile=readfile,headline=headline))
+  return(readfile)
+  #return(list(readfile=readfile, headline=headline))
+}
+
+getmetacsvheadline <- function(meta, filenum) {  # gets 1st line of a csv
+  headline <- read_lines(fl1,n_max = 1) %>% str_split(",") %>% unlist()
 }
 
 
@@ -87,12 +90,12 @@ chkmetaheaderkeys <- function(meta) {
   missing1 = setdiff(hdr_required,keys)
   
   if (length(missing1)>0) {
-    print(paste("Missing required keywords in header:", missing1))
+    addrep(paste("Error: Missing required keywords in header:", missing1), 1)
   }
 
   missing2 = setdiff(files_required,keys)
   if ((length(meta$"Files list")>0)&(length(missing2)>0)) {
-    print(paste("There are several files but missing in header:", missing2))
+    addrep(paste("Error: There are several files but missing in header:", missing2), 1)
   }
 
 }
@@ -112,11 +115,11 @@ getjsonmeta <- function(dr, fl) {
   meta = read_json(fl1, simplifyVector = FALSE)
   meta$dir = dr
   
-  print( paste("This is:", meta$Title ), quote=FALSE )
+  addrep( paste("This is:", meta$Title ), 1 )
   nfiles = length(meta$"Files list")
-  print( paste("it includes", nfiles, "data files:") )
+  addrep( paste("it includes", nfiles, "data files:") )
   for (i in 1:nfiles) { 
-    print(paste(i, ": ", meta$"Files list"[i], sep="" ), quote=FALSE)
+    addrep(paste(i, ": ", meta$"Files list"[i], sep="" ))
   }
   return(meta)
 }
@@ -130,7 +133,8 @@ listmetadatafiles <- function(meta) {
 
 tellmeta <- function(meta) {
   #browser()
-  lines = c(        paste("    Publisher:", meta$Publisher))
+  lines = c("", "Metafile Header:")
+  lines = c( lines, paste("    Publisher:", meta$Publisher))
   lines = c( lines, paste("      Contact:", meta$Contact))
   lines = c( lines, paste("Contact Email:", meta$"Contact Email"))
   lines = c( lines, paste("       Author:", meta$Author))
@@ -149,7 +153,7 @@ tellmeta <- function(meta) {
   } else {
     lines = c( lines, paste("       Description:", meta$Description))
   }
-  writeLines(lines)
+  addrep(lines)   #writeLines(lines)
 }
 
 # ---------------------------------------
@@ -163,6 +167,7 @@ metaxls2json <- function(dr, fl) {
   }  
 
   # read excel file
+  addrep(paste("reading", fl1))
   print(paste("reading", fl1))
   data <- read_excel(fl1,col_names = FALSE)
   num_rows <- nrow(data)
@@ -205,7 +210,7 @@ metaxls2json <- function(dr, fl) {
   fl1 = paste(dr,fl,".json",sep="")
   print(paste("writing", fl1))
   writeLines(json_string, fl1, useBytes = TRUE)  # usebytes writes in UTF8
-  print("finished converting meta from excel to json")
+  addrep("finished converting meta from excel to json")
   
   #browser()
 }
@@ -310,11 +315,11 @@ getformatteddate <- function(dt) {
       date <- format(date, format = "%d/%m/%Y")
     } else {
       date = dt  # leave it as it was
-      message(paste("warning: suspicious date:", dt))
+      addrep(paste("warning: suspicious date:", dt))
     }
   } else {
     date = dt  # leave it as it was
-    message(paste("warning: suspicious date:", dt))
+    addrep(paste("warning: suspicious date:", dt))
   }  
   return(date)
 }
@@ -350,13 +355,49 @@ setcont <- function(row) {
 }
 
 # ---------------------------------------
+# reports subsystem
 
+rep <- NULL # a list of report lines
+
+startrepfile <- function() {
+  rep <<- c('meta tools report', format(Sys.time(), "%a %b %d")) # "%a %b %d %X %Y"
+}
+
+addrep <- function(s, lines_before=0, lines_after=0) {  # instead of print
+  if (lines_before>0)  {
+    for (i in 1:lines_before) { s = c("", s) }
+  }
+  if (lines_after>0)  {
+      for (i in 1:lines_after) { s = c(s, "") }
+  }
+  rep <<- c(rep, s)
+}
+
+printrepfile <- function(dr=NULL, fl=NULL, clear=TRUE) {
+  rep <<- c(rep, "", "Finished")
+  if ( is.null(dr) & is.null(fl) ) {
+    writeLines(rep) # to console
+  } else {
+    fileConn <- file(paste(dr, "check_", fl, ".txt", sep=""))
+    writeLines(rep, fileConn)
+    close(fileConn)    
+  }
+  if (clear) {rep <<- NULL}
+}
+
+# file.show("outfile.txt")
+
+# old function - not in use
+# check2file(dr, fl, TRUE) # creates "checkmeta.txt" in dr. FALSE to console
+# sink(type = c("output", "message")) 
 check2file <- function(dr, fl, option) {
   if (option) {
     con <- file(paste(dr,"check_", fl, ".txt",sep=""))
-    sink(con, append=FALSE, type = c("output", "message"))
+    sink(con, append=FALSE, type = "output")
+    #sink(con, append=FALSE, type = c("output", "message"))
   } else {
-    sink(type = c("output", "message")) 
+    sink(type = "output") 
+    #sink(type = c("output", "message")) 
   }
 }
 
