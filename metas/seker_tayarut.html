@@ -1,0 +1,58 @@
+<html dir="rtl" lang="he">
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      .renderjson a { text-decoration: none; }
+      .renderjson .disclosure { color: crimson;
+                                font-size: 150%; }
+      .renderjson .syntax { color: grey; }
+      .renderjson .string { color: darkred; }
+      .renderjson .number { color: darkcyan; }
+      .renderjson .boolean { color: blueviolet; }
+      .renderjson .key    { color: darkblue; }
+      .renderjson .keyword { color: blue; }
+      .renderjson .object.syntax { color: lightseagreen; }
+      .renderjson .array.syntax  { color: orange; }
+    </style>
+    <title></title>
+  </head>
+  <body>
+    <h1 id="ttl1"></h1>
+    <div id="dest"></div>
+
+    <script type="text/javascript" src="./renderjson/renderjson.js"></script>
+
+    <script type="text/javascript" src="https://raw.githubusercontent.com/MOTRoundTables/catalog/main/metas/tayarut.js"></script>
+    <script>
+	
+	var file = "https://raw.githubusercontent.com/MOTRoundTables/catalog/main/metas/tourists_survey_2016-17_meta.json";
+
+	let xhr = new XMLHttpRequest();
+		xhr.open("GET", file, true);
+		xhr.responseType = "json";
+		xhr.send();
+		xhr.onload = function() {
+		  if (xhr.status === 200) {
+			let data = xhr.response;
+			
+			document.getElementById("ttl1").innerHTML = data.Title;
+			
+			document.getElementById("dest").appendChild(
+			  renderjson//.set_show_by_default(true)
+						.set_show_to_level(2)
+						//.set_sort_objects(true)
+						//.set_icons('+', '-')
+						.set_max_string_length(100)
+				(data));
+			
+			// console.log(jsonData);
+		  } else {
+			console.log("Error: " + xhr.status);
+		  }
+		};
+
+	
+	
+    </script>
+  </body>
+</html>
