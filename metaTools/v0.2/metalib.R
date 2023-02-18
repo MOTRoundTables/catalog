@@ -1,40 +1,55 @@
 # metadata tools function library - ver. 0.2
 library(readxl)
 library(jsonlite)
+library(tools)  # https://www.rdocumentation.org/packages/tools/versions/3.6.2
 library(tidyverse) # library(purrr)
 #library(stringr)
 library(skimr)  # https://cran.r-project.org/web/packages/skimr/
+library(sf)
 
 # ---------------------------------------
 # check file functions
 
-checkmetafilefields <- function(meta) {
+checkmetafilesfields <- function(meta) {
   #browser()
-  
   addrep("check individual files", 2, 1)
-  file_required_keys = c(  "File name", "File format", "File description", "File fields")
-  
   nfiles = length(meta$"Files list")
-  for (i in 1:nfiles) { 
-    addrep(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), 1, 1)
-    keys = names(meta$Files[[i]])
-    missing1 = setdiff(file_required_keys,keys)
-    if (length(missing1)>0) {
-      addrep(paste("Error: Missing required keywords in file header:", missing1))
-    }    
-    addrep(paste("Description:", meta$Files[[i]]$"File description"))
-    
-    f1 = openmetafile(meta, i)  # opens selected data file
-    metafields = getmetafilefields(meta, i)
-    filefields = x = colnames(f1) # f1$headline
-    differences <- setdiff(filefields, metafields)
-    if (length(differences)>0) {
-      addrep(paste("Error: discrepacies if meta and file field names:", differences))
-    }
-    addrep(shortsummary(f1))
-    #print(x)
+  for (i in 1:nfiles) {
+    checkmetafilefields(meta, i) 
   }
 }
+
+checkmetafilefields <- function(meta, i) {  # check fields for specific file
+  #browser()
+  
+  file_required_keys = c(  "File name", "File format", "File description", "File fields")
+  
+  addrep(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), 1, 1)
+  keys = names(meta$Files[[i]])
+  missing1 = setdiff(file_required_keys,keys)
+  if (length(missing1)>0) {
+    addrep(paste("Error: Missing required keywords in file header:", missing1))
+  }    
+  addrep(paste("Description:", meta$Files[[i]]$"File description"))
+
+  f1 = openmetafile(meta, i)  # opens selected data file
+    
+  metafields = getmetafilefields(meta, i)
+  filefields = getfilefields(meta, i, f1)  # actual file fields
+  
+  differences <- setdiff(filefields, metafields)
+  if (length(differences)>0) {
+    addrep(paste("Error: discrepacies if meta and file field names:", differences))
+  }
+  addrep(shortsummary(f1))
+  
+  filetype = getmetafiletype(meta, i)
+  if (filetype=="shp") { # short summary of the shp file
+    addrep(capture.output(print(f1, n = 0)), 1)
+  }
+  #print(filefields)
+}
+
 
 shortsummary <- function(f1) {
   #head(f1)
@@ -44,9 +59,13 @@ shortsummary <- function(f1) {
   a <- capture.output(print(x, quote=FALSE))
   b = c("")
   for (i in 1:length(a)) {b = c(b, a[i] )}
+  
+  my_str <- capture.output(print(f1, n = 0))
+  
   return(b)
 }
 
+# lisf of field information from META file
 getmetafilefields <- function(meta, filenum) {
   file = meta$Files[filenum]
   file = file[[1]]
@@ -56,13 +75,26 @@ getmetafilefields <- function(meta, filenum) {
   return(fieldnames)
 }
 
+getmetafiletype <- function(meta, filenum) {  # gets 1st line of a csv
+  fl = meta$"Files list"[filenum]
+  filtetype = file_ext(fl)  # unlist(strsplit(fl[[1]], split = '\\.'))
+  return(filtetype)
+}
+
 openmetafile <- function(meta, filenum) {
   fl = meta$"Files list"[filenum]
   print( paste("opening:", fl ) )
+  filtetype = getmetafiletype(meta, filenum)
+  
   fl1 = paste(meta$dir, fl, sep="")
   
   if (file.exists(fl1)) {
-    readfile <- read_csv(fl1)
+    if (filtetype=="csv") {
+      readfile <- read_csv(fl1)
+    } else if (filtetype=="shp") {
+      require(sf)
+      readfile <- st_read(fl1) # readfile <- as.data.frame(readfile) # - no need for this
+    }
   } else {
     print("File not found")
   }
@@ -72,6 +104,22 @@ openmetafile <- function(meta, filenum) {
 
 getmetacsvheadline <- function(meta, filenum) {  # gets 1st line of a csv
   headline <- read_lines(fl1,n_max = 1) %>% str_split(",") %>% unlist()
+}
+
+# returns the actual fields from file
+# if file is open specify in f1, otherwise it opens the file
+getfilefields <- function(meta, filenum, f1) {
+  if(missing(f1)) {
+    f1 = openmetafile(meta, filenum)  # opens selected data file
+  }  
+  
+  filetype = getmetafiletype(meta, filenum)
+
+  filefields = colnames(f1) # f1$headline
+  
+  if (filetype=="shp") {
+    filefields = filefields[-length(filefields)]  # remove 'geometry'
+  }
 }
 
 
