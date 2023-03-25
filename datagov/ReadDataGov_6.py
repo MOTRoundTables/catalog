@@ -84,7 +84,20 @@ while i <= n-1:   # n
             rsctitle = rsc["title"] 
             rsctype = rsc["type"]
             rscdate = rsc["metadata_modified"]
-            rscgeo = rsc["is_geographic"] if "is_geographic" in rsc else "No"
+
+            #rscgeo = rsc["is_geographic"] if "is_geographic" in rsc else "No"  ' old version
+            rscgeo = ""
+            if "extras" in rsc:
+                n_extras = len(rsc["extras"])
+                k = 0
+                while (k <= n_extras-1) and (rscgeo == ""):
+                    geokey = rsc["extras"][k]["key"]
+                    if geokey == "is_geographic":
+                        rscgeo = rsc["extras"][k]["value"]
+                    k += 1
+            if rscgeo == "":
+                rscgeo = "No"    
+
             rscfreq = rsc["Frequency"] if "Frequency" in rsc else "NA"
             num_resources = rsc["num_resources"]
             num_tags = rsc["num_tags"]
@@ -138,8 +151,8 @@ f2.close()
 log.write("not found " + str(notfound) + " datasets" + "\n")
 log.write("end: " + now.strftime("%Y-%m-%d %H:%M:%S"))
 log.close()
-print("not found " + str(notfound) + " datasets" + "\n")
-print("done ...")
+print("\n" + "done ...")
+print("not found " + str(notfound) + " datasets")
 print ("data.gov directory - saved in sub-directory: " + ver)
 
 # == end ==============================================
