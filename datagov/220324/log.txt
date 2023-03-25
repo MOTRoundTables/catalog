@@ -1,1055 +1,1055 @@
-start: 2023-03-25 09:39:12
+start: 2023-03-25 12:59:23
 n - Package - success  - n1 - n2
-0 - 02 - True - 5 - 5
-1 - 03 - True - 11 - 10
-2 - 04 - True - 6 - 6
-3 - 05 - True - 5 - 5
-4 - 06 - True - 5 - 5
-5 - 062019 - True - 1 - 1
-6 - 14 - True - 6 - 6
-7 - 17 - True - 85 - 10
-8 - 18 - True - 16 - 10
-9 - 19 - True - 10 - 10
-10 - 1minrain - True - 133 - 10
-11 - 20 - True - 10 - 10
-12 - 2002-31-10-2016 - True - 85 - 10
-13 - 2004-1997 - True - 8 - 8
-14 - 2005 - True - 12 - 10
-15 - 2005-2008 - True - 15 - 10
-16 - 2005-2011 - True - 24 - 10
-17 - 2006 - True - 12 - 10
-18 - 2007 - True - 10 - 10
-19 - 2008 - True - 8 - 8
-20 - 2009 - True - 15 - 10
-21 - 2009-2011 - True - 26 - 10
-22 - 2009-2018 - True - 66 - 10
-23 - 2010 - True - 17 - 10
-24 - 2010-2019 - True - 66 - 10
-25 - 2011 - True - 18 - 10
-26 - 2012-2005 - True - 38 - 10
-27 - 2013 - True - 20 - 10
-28 - 2014 - True - 22 - 10
-29 - 2015-2013 - True - 131 - 10
-30 - 2017 - True - 49 - 10
-31 - 2017-2018 - True - 91 - 10
-32 - 2018 - True - 56 - 10
-33 - 2018-2017 - True - 91 - 10
-34 - 2019infrastructure - True - 55 - 10
-35 - 2020 - True - 58 - 10
-36 - 2021 - True - 36 - 10
-37 - 2030 - True - 3 - 3
-38 - 206 - True - 1 - 1
-39 - 209 - True - 1 - 1
-40 - 21 - True - 7 - 7
-41 - 257 - True - 1 - 1
-42 - 258 - True - 1 - 1
-43 - 276 - True - 1 - 1
-44 - 278 - True - 1 - 1
-45 - 280 - True - 1 - 1
-46 - 285 - True - 1 - 1
-47 - 287 - True - 1 - 1
-48 - 288 - True - 1 - 1
-49 - 289 - True - 2 - 2
-50 - 29 - True - 2 - 2
-51 - 290 - True - 1 - 1
-52 - 291 - True - 1 - 1
-53 - 292 - True - 1 - 1
-54 - 293 - True - 1 - 1
-55 - 294 - True - 1 - 1
-56 - 30 - True - 18 - 10
-57 - 30-2021 - True - 50 - 10
-58 - 30-6-2022 - True - 63 - 10
-59 - 30-9-2021 - True - 52 - 10
-60 - 30-9-2022 - True - 55 - 10
-61 - 31-2021 - True - 46 - 10
-62 - 31-2022 - True - 46 - 10
-63 - 321 - True - 1 - 1
-64 - 334 - True - 1 - 1
-65 - 335 - True - 1 - 1
-66 - 343 - True - 1 - 1
-67 - 345 - True - 1 - 1
-68 - 348 - True - 1 - 1
-69 - 350 - True - 1 - 1
-70 - 351 - True - 1 - 1
-71 - 352 - True - 1 - 1
-72 - 353 - True - 1 - 1
-73 - 354new - True - 4 - 4
-74 - 355new - True - 4 - 4
-75 - 356 - True - 1 - 1
-76 - 357 - True - 1 - 1
-77 - 358 - True - 1 - 1
-78 - 360 - True - 1 - 1
-79 - 361 - True - 1 - 1
-80 - 362 - True - 1 - 1
-81 - 363 - True - 1 - 1
-82 - 364 - True - 1 - 1
-83 - 365 - True - 1 - 1
-84 - 366 - True - 1 - 1
-85 - 367 - True - 1 - 1
-86 - 371 - True - 1 - 1
-87 - 374 - True - 1 - 1
-88 - 375 - True - 1 - 1
-89 - 377 - True - 1 - 1
-90 - 379 - True - 1 - 1
-91 - 381 - True - 1 - 1
-92 - 408 - True - 1 - 1
-93 - 425 - True - 1 - 1
-94 - 46 - True - 2 - 2
-95 - 48 - True - 1 - 1
-96 - 481 - True - 1 - 1
-97 - 486 - True - 1 - 1
-98 - 49 - True - 1 - 1
-99 - 50 - True - 2 - 2
-100 - 500 - True - 6 - 6
-101 - 502 - True - 2 - 2
-102 - 502-2 - True - 135 - 10
-103 - 503 - True - 1 - 1
-104 - 504 - True - 1 - 1
-105 - 506-1 - True - 134 - 10
-106 - 506-2 - True - 135 - 10
-107 - 507 - True - 1 - 1
-108 - 508 - True - 1 - 1
-109 - 51 - True - 1 - 1
-110 - 510 - True - 2 - 2
-111 - 517 - True - 1 - 1
-112 - 518 - True - 1 - 1
-113 - 519 - True - 2 - 2
-114 - 52 - True - 2 - 2
-115 - 520 - True - 1 - 1
-116 - 521 - True - 1 - 1
-117 - 53 - True - 1 - 1
-118 - 531 - True - 1 - 1
-119 - 532 - True - 1 - 1
-120 - 534 - True - 1 - 1
-121 - 535 - True - 1 - 1
-122 - 536 - True - 1 - 1
-123 - 537 - True - 2 - 2
-124 - 538 - True - 2 - 2
-125 - 538-1 - True - 134 - 10
-126 - 539 - True - 1 - 1
-127 - 54 - True - 4 - 4
-128 - 541 - True - 1 - 1
-129 - 542 - True - 1 - 1
-130 - 543 - True - 1 - 1
-131 - 544 - True - 1 - 1
-132 - 545 - True - 1 - 1
-133 - 547 - True - 1 - 1
-134 - 548 - True - 1 - 1
-135 - 549 - True - 1 - 1
-136 - 551 - True - 1 - 1
-137 - 552 - True - 1 - 1
-138 - 557 - True - 1 - 1
-139 - 558 - True - 1 - 1
-140 - 559 - True - 1 - 1
-141 - 56 - True - 1 - 1
-142 - 564 - True - 1 - 1
-143 - 566 - True - 1 - 1
-144 - 568 - True - 1 - 1
-145 - 591 - True - 1 - 1
-146 - 609 - True - 1 - 1
-147 - 61 - True - 3 - 3
-148 - 62 - True - 4 - 4
-149 - 642 - True - 1 - 1
-150 - 643 - True - 1 - 1
-151 - 650 - True - 2 - 2
-152 - 651 - True - 2 - 2
-153 - 652 - True - 1 - 1
-154 - 653 - True - 1 - 1
-155 - 659 - True - 1 - 1
-156 - 671 - True - 1 - 1
-157 - 673 - True - 1 - 1
-158 - 6b1c032a-fdc1-4f92-bee1-14d6bf6af910 - True - 1 - 1
-159 - 711 - True - 1 - 1
-160 - 808 - True - 1 - 1
-161 - 813 - True - 1 - 1
-162 - 814 - True - 1 - 1
-163 - 826 - True - 1 - 1
-164 - 827 - True - 1 - 1
-165 - 828 - True - 1 - 1
-166 - 829 - True - 1 - 1
-167 - 830 - True - 1 - 1
-168 - 831 - True - 1 - 1
-169 - 832 - True - 1 - 1
-170 - 833 - True - 1 - 1
-171 - 860 - True - 1 - 1
-172 - 861 - True - 1 - 1
-173 - 862 - True - 1 - 1
-174 - 863 - True - 1 - 1
-175 - 864 - True - 1 - 1
-176 - 865 - True - 1 - 1
-177 - 926 - True - 1 - 1
-178 - 928 - True - 1 - 1
-179 - 930 - True - 1 - 1
-180 - 931 - True - 1 - 1
-181 - 932 - True - 1 - 1
-182 - 933 - True - 1 - 1
-183 - 934 - True - 1 - 1
-184 - 935 - True - 1 - 1
-185 - 943 - True - 1 - 1
-186 - 944 - True - 1 - 1
-187 - 945 - True - 1 - 1
-188 - 946 - True - 1 - 1
-189 - 947 - True - 1 - 1
-190 - 953 - True - 1 - 1
-191 - 958 - True - 1 - 1
-192 - 961 - True - 1 - 1
-193 - 969 - True - 1 - 1
-194 - 982 - True - 1 - 1
-195 - 983 - True - 1 - 1
-196 - 991 - True - 1 - 1
-197 - a2016 - True - 76 - 10
-198 - academic - True - 1 - 1
-199 - accessibilityorders - True - 1 - 1
-200 - accidents2018 - True - 58 - 10
-201 - accidents_municipal - True - 10 - 10
-202 - accid_taz - True - 8 - 8
-203 - acquifer - True - 1 - 1
-204 - addresses-br7 - True - 66 - 10
-205 - afq - True - 1 - 1
-206 - aidtools - True - 1 - 1
-207 - aircraft_data_il - True - 261 - 10
-208 - airport - True - 5 - 5
-209 - air-stations - True - 11 - 10
-210 - airstrip - True - 1 - 1
-211 - alhakav - True - 1 - 1
-212 - aluyot-pituach - True - 1 - 1
-213 - ambrosia - True - 1 - 1
-214 - amount_monthly_closures_vehicles - True - 54 - 10
-215 - antennaactive - True - 1 - 1
-216 - antenna_hakama - True - 1 - 1
-217 - ap - True - 1 - 1
-218 - applying-to-social-services-departments - True - 100 - 10
-219 - approved-items-by-personal-import - True - 19 - 10
-220 - aquifer_level_history - True - 7 - 7
-221 - aquifer-sensitivity - True - 3 - 3
-222 - ararim - True - 1 - 1
-223 - arb - True - 1 - 1
-224 - archivesfreedomofinformationforzover - True - 1 - 1
-225 - archivespermissiontostreamforzover - True - 1 - 1
-226 - archivespermitflowingtoseaforzover-csv - True - 155 - 10
-227 - archives-yco - True - 1 - 1
-228 - ard - True - 1 - 1
-229 - arl - True - 1 - 1
-230 - arrivaltostationdayandhours - True - 1 - 1
-231 - arrivaltostationhours - True - 1 - 1
-232 - asbest - True - 4 - 4
-233 - asbest-permit-03-2016 - True - 81 - 10
-234 - asbestsamplinganalysis - True - 1 - 1
-235 - asbest-waste-sites - True - 9 - 9
-236 - asd - True - 1 - 1
-237 - asq - True - 1 - 1
-238 - assb122019 - True - 12 - 10
-239 - assb32018 - True - 11 - 10
-240 - assb32019 - True - 11 - 10
-241 - assb32020 - True - 11 - 10
-242 - assb62017 - True - 11 - 10
-243 - assb62018 - True - 11 - 10
-244 - assb62020 - True - 11 - 10
-245 - assb92017 - True - 11 - 10
-246 - assb92018 - True - 11 - 10
-247 - assb92019 - True - 11 - 10
-248 - assb92020 - True - 11 - 10
-249 - atarim-leumim - True - 1 - 1
-250 - atirot - True - 1 - 1
-251 - atl - True - 1 - 1
-252 - audit-cities - True - 8 - 8
-253 - autism-schools - True - 7 - 7
-254 - automated-devices - True - 1 - 1
-255 - average-salary - True - 2 - 2
-256 - avian-influenza-events - True - 1 - 1
-257 - ayalontrafficcounts - True - 1 - 1
-258 - azakamaaleadumim - True - 1 - 1
-259 - bakashot_cpc - True - 4 - 4
-260 - bakashot_ipc - True - 4 - 4
-261 - bakashot_patents - True - 7 - 7
-262 - banks - True - 33 - 10
-263 - basic_domes - True - 1 - 1
-264 - basin - True - 1 - 1
-265 - batei-esek - True - 1 - 1
-266 - beach - True - 1 - 1
-267 - beer-sheva-municipality-budget-7 - True - 89 - 10
-268 - beneficiary_recipients - True - 4 - 4
-269 - bgv - True - 1 - 1
-270 - bichildrengrowth2016 - True - 66 - 10
-271 - bicycle_jer_2019 - True - 57 - 10
-272 - bicycles-parking-br7 - True - 66 - 10
-273 - bicycle_track-br7 - True - 65 - 10
-274 - bike_mahirlair - True - 5 - 5
-275 - bike_net_center - True - 122 - 10
-276 - bike_net_tlv - True - 5 - 5
-277 - bilateral-communications-agreements - True - 3 - 3
-278 - bod - True - 1 - 1
-279 - bor - True - 3 - 3
-280 - bor_depth - True - 3 - 3
-281 - borehole_level - True - 14 - 10
-282 - borehole_quality_history - True - 18 - 10
-283 - borehole_refpoint - True - 10 - 10
-284 - boreholes - True - 10 - 10
-285 - borehole_wq_params - True - 10 - 10
-286 - bor_perfor - True - 3 - 3
-287 - bqt - True - 1 - 1
-288 - br7-zoning - True - 65 - 10
-289 - branches - True - 1 - 1
-290 - britzugiyut - True - 1 - 1
-291 - brt_line - True - 6 - 6
-292 - bsh - True - 1 - 1
-293 - bsm - True - 1 - 1
-294 - bsv - True - 1 - 1
-295 - budget2020 - True - 73 - 10
-296 - budget-changes-2014 - True - 37 - 10
-297 - budget-changes-2015 - True - 132 - 10
-298 - budget-changes-2016 - True - 70 - 10
-299 - buildings-br7 - True - 65 - 10
-300 - buildingsites - True - 1 - 1
-301 - buildings-preservation-br7 - True - 65 - 10
-302 - bureaus-of-health - True - 486 - 10
-303 - bus_fleet - True - 8 - 8
-304 - businesscenters-br7 - True - 64 - 10
-305 - business-licensing-br7 - True - 73 - 10
-306 - businessreq - True - 1 - 1
-307 - bus_rishui_bitzua_2021 - True - 41 - 10
-308 - bus_speed - True - 8 - 8
-309 - bus_stops - True - 9 - 9
-310 - busterminal - True - 1 - 1
-311 - bus_terminal_fcl - True - 8 - 8
-312 - bus_terminal_strat - True - 11 - 10
-313 - calculatorforentrepreneur - True - 1 - 1
-314 - callkorekitotvatikim - True - 1 - 1
-315 - callkoreyoung - True - 1 - 1
-316 - cameras-br7 - True - 65 - 10
-317 - cannabis_certified_physicians - True - 3 - 3
-318 - cannabis_licensed_workers - True - 14 - 10
-319 - cannabis_pharmacies - True - 5 - 5
-320 - carbon-monoxide - True - 1 - 1
-321 - car-insurance - True - 2 - 2
-322 - cell_subbasin - True - 1 - 1
-323 - cemeteries - True - 1 - 1
-324 - central-database-of-cbs - True - 449 - 10
-325 - certificate-list-of-line-equipment - True - 451 - 10
-326 - cf-output - True - 2 - 2
-327 - chiller - True - 1 - 1
-328 - chiyuvim - True - 1 - 1
-329 - chovotpirsum_iriot - True - 6 - 6
-330 - chovotpirsum_moatzotezoriyot_kavyark - True - 6 - 6
-331 - chovotpirsum_moatzotezoryot - True - 6 - 6
-332 - chovotpirsum_moatzotmekomyot - True - 6 - 6
-333 - chovotpirsum_moatzotmekomyotkavyarok - True - 6 - 6
-334 - chovotpirsum_vaadamekomitletichnunuvnia - True - 6 - 6
-335 - citiesandsettelments - True - 1 - 1
-336 - city_lishka - True - 9 - 9
-337 - city-plans-br7 - True - 76 - 10
-338 - cleanasbestos - True - 1 - 1
-339 - cleanliness - True - 1 - 1
-340 - closed-construction-sites - True - 4 - 4
-341 - coast-sensitivity - True - 4 - 4
-342 - community-centers-br7 - True - 182 - 10
-343 - companiespersonscleansing20200 - True - 1 - 1
-344 - cong_tax_rings - True - 2 - 2
-345 - construction_equipment - True - 6 - 6
-346 - contaminated_land_tlv - True - 9 - 9
-347 - contaminatedterrains - True - 1 - 1
-348 - continuing_education - True - 26 - 10
-349 - cooperative - True - 2 - 2
-350 - coordinates - True - 2 - 2
-351 - cord-blood-banks - True - 33 - 10
-352 - corpo-list - True - 16 - 10
-353 - corpus - True - 1 - 1
-354 - councils - True - 3 - 3
-355 - countries - True - 3 - 3
-356 - court_specialists - True - 9 - 9
-357 - covid-19 - True - 11 - 10
-358 - cpalist - True - 1 - 1
-359 - cpc - True - 2 - 2
-360 - crime_records_data - True - 28 - 10
-361 - cvfr - True - 1 - 1
-362 - cybermarketplace - True - 1 - 1
-363 - dargat_ziuhum_cley_tzama - True - 1 - 1
-364 - database-of-plant-pests-in-israel - True - 610 - 10
-365 - datasetlist - True - 1 - 1
-366 - dat-gov-il - True - 252 - 10
-367 - daycares-br7 - True - 64 - 10
-368 - decision260 - True - 1 - 1
-369 - defi - True - 1 - 1
-370 - degem-rechev-wltp - True - 6 - 6
-371 - demand_survey_2019-br7 - True - 120 - 10
-372 - demographics-br7 - True - 64 - 10
-373 - depo_lrt_metro - True - 6 - 6
-374 - desalination - True - 1 - 1
-375 - designs - True - 1 - 1
-376 - digumi_arubut - True - 1 - 1
-377 - disabilities-centers - True - 119 - 10
-378 - distance - True - 1 - 1
-379 - diurtziburi - True - 1 - 1
-380 - dmn - True - 1 - 1
-381 - dog-gardens-br7 - True - 65 - 10
-382 - domestic_pesticides - True - 1 - 1
-383 - driving_license_ranks - True - 12 - 10
-384 - driving_shcool - True - 3 - 3
-385 - drugs-rehab - True - 1 - 1
-386 - druzim - True - 2 - 2
-387 - druzim_kadim - True - 3 - 3
-388 - dynamic_wl_cl - True - 4 - 4
-389 - ecological-mapping-for-mosquito-controle - True - 122 - 10
-390 - e-data-gov-il - True - 262 - 10
-391 - e-data-gov-il-dataset-yeshuvmoatzadata - True - 267 - 10
-392 - education-br7 - True - 88 - 10
-393 - egd - True - 1 - 1
-394 - elderly-social-clubs-br7 - True - 116 - 10
-395 - elt - True - 1 - 1
-396 - emergency_phones - True - 7 - 7
-397 - emergencywatertanks - True - 1 - 1
-398 - employeetravel - True - 1 - 1
-399 - employment - True - 1 - 1
-400 - e-new-data-gov-il - True - 264 - 10
-401 - environmental_impact_index - True - 4 - 4
-402 - est - True - 1 - 1
-403 - ethiopianrab - True - 1 - 1
-404 - eventsdistrict - True - 1 - 1
-405 - excellenceframework-2016 - True - 66 - 10
-406 - excellenceframework-district-2016 - True - 68 - 10
-407 - excellenceframework-loacal-2016 - True - 66 - 10
-408 - excellenceframework-school-2016 - True - 70 - 10
-409 - excellenceframework-service-2016 - True - 93 - 10
-410 - exemptions - True - 1 - 1
-411 - eyv - True - 1 - 1
-412 - ezv - True - 1 - 1
-413 - ezvonot2018 - True - 56 - 10
-414 - factory - True - 2 - 2
-415 - fast_lane_gate - True - 2 - 2
-416 - fast_lanes - True - 2 - 2
-417 - fcs-gmp - True - 3 - 3
-418 - fcs-importers - True - 10 - 10
-419 - fcs-manufacturer - True - 3 - 3
-420 - fees - True - 1 - 1
-421 - fieldschools - True - 1 - 1
-422 - financial-sanctions - True - 1 - 1
-423 - fireant - True - 1 - 1
-424 - firefightingfees - True - 1 - 1
-425 - fire_hydrants-br7 - True - 65 - 10
-426 - firs-name - True - 3 - 3
-427 - flydata - True - 1 - 1
-428 - foreignntz - True - 1 - 1
-429 - freedom-of-info - True - 448 - 10
-430 - frn - True - 1 - 1
-431 - fuelstationbynumber - True - 1 - 1
-432 - garbage-bins-br7 - True - 64 - 10
-433 - garbagecontainers - True - 1 - 1
-434 - gas-stations-br7 - True - 73 - 10
-435 - gdr - True - 1 - 1
-436 - gemelnet - True - 1 - 1
-437 - geology_models - True - 3 - 3
-438 - gis - True - 88 - 10
-439 - gis-_ - True - 88 - 10
-440 - gis_shiput-br7 - True - 141 - 10
-441 - gis_urban_renewal - True - 90 - 10
-442 - gizanut - True - 1 - 1
-443 - govdecisions2016 - True - 66 - 10
-444 - government_advertising - True - 1 - 1
-445 - greenbuildings - True - 1 - 1
-446 - greenkd - True - 1 - 1
-447 - greenschools - True - 1 - 1
-448 - gsa - True - 1 - 1
-449 - hafradat-psolet - True - 1 - 1
-450 - hag - True - 1 - 1
-451 - hagbalat_recall - True - 2 - 2
-452 - hakirot - True - 2 - 2
-453 - halicim_bateydin - True - 1 - 1
-454 - hasmachottoveim - True - 1 - 1
-455 - hativot-nof - True - 1 - 1
-456 - hatkana_nekudat_igun - True - 2 - 2
-457 - hdr - True - 2 - 2
-458 - health-br7 - True - 105 - 10
-459 - heavy-truck - True - 2 - 2
-460 - hef - True - 1 - 1
-461 - hekdeshot - True - 1 - 1
-462 - helipad - True - 1 - 1
-463 - highwayparkinglots - True - 1 - 1
-464 - hitkadmuthabnia - True - 1 - 1
-465 - hiv - True - 2 - 2
-466 - hkr - True - 1 - 1
-467 - hlz - True - 1 - 1
-468 - hmo-companies - True - 5 - 5
-469 - hmo_companies2014 - True - 26 - 10
-470 - hmomaaleadumim - True - 1 - 1
-471 - hmr - True - 1 - 1
-472 - hofesh - True - 2 - 2
-473 - hofesh_hameida - True - 2 - 2
-474 - hof-naki - True - 2 - 2
-475 - hokrim - True - 1 - 1
-476 - holidaysinisrael - True - 1 - 1
-477 - honoraryconsuls - True - 1 - 1
-478 - hospitals_psyc - True - 4 - 4
-479 - hostels - True - 1 - 1
-480 - hotels_ranking - True - 2 - 2
-481 - housingcontractfiles - True - 1 - 1
-482 - Housingpropertyportfolios - True - 1 - 1
-483 - housing-social-workers - True - 67 - 10
-484 - housingunits-planning-inventory - True - 8 - 8
-485 - hoze_zhut - True - 2 - 2
-486 - hrd - True - 1 - 1
-487 - hsg - True - 1 - 1
-488 - hsv - True - 1 - 1
-489 - http-dat-gov-il-forms-data-shabat-5777-xls - True - 265 - 10
-490 - http-dat-gov-il-forms-data-shabat-5778-xls - True - 265 - 10
-491 - https-data-gov-il-organization-ministry-of-immigrant-absorption - True - 579 - 10
-492 - https-goo-gl-u7v4qv - True - 141 - 10
-493 - https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws - True - 265 - 10
-494 - https-shirathayam-m-datit-org-il-pirsumnisuin - True - 257 - 10
-495 - https-www-cbs-gov-il-he-mediarelease-doclib-2019-057-24_19_057t1-xlsx - True - 496 - 10
-496 - https-www-data-gov-il-dataset-682 - True - 268 - 10
-497 - https-www-data-gov-il-dataset-683 - True - 268 - 10
-498 - https-www-gov-il-he-departments-general-traffic-enforcement-cameras - True - 268 - 10
-499 - https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2 - True - 386 - 10
-500 - https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls - True - 270 - 10
-501 - https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls - True - 279 - 10
-502 - https-www-haifa-muni-il-informationcity-pages-databasespublic-aspx - True - 265 - 10
-503 - hvr - True - 1 - 1
-504 - hydro_station - True - 11 - 10
-505 - hzf - True - 1 - 1
-506 - hzr - True - 1 - 1
-507 - ica-changes - True - 6 - 6
-508 - ica_companies - True - 7 - 7
-509 - ica_partnerships - True - 3 - 3
-510 - idea - True - 1 - 1
-511 - idg-platform - True - 1 - 1
-512 - import_quotas - True - 8 - 8
-513 - ims_stat - True - 9 - 9
-514 - industrial - True - 2 - 2
-515 - industrialareas - True - 1 - 1
-516 - industrial-zones-info - True - 10 - 10
-517 - infrastructures2017 - True - 50 - 10
-518 - installed-filters - True - 2 - 2
-519 - insurance - True - 2 - 2
-520 - interchange_areas - True - 6 - 6
-521 - intershiplabs - True - 1 - 1
-522 - ipc - True - 2 - 2
-523 - iplan-itur-tochnit - True - 12 - 10
-524 - israel-dialing-plan - True - 168 - 10
-525 - israel_fire_rescue_stations - True - 175 - 10
-526 - israel-numbering-plan - True - 169 - 10
-527 - israel_rain_areas_for_planning - True - 178 - 10
-528 - israel-streets-synom - True - 168 - 10
-529 - isreal_fire_rescue_gis - True - 90 - 10
-530 - items-appproved-by-personal-import - True - 17 - 10
-531 - items-that-not-approved-by-personal-import - True - 215 - 10
-532 - itzumim - True - 1 - 1
-533 - ivf - True - 2 - 2
-534 - ivflist - True - 1 - 1
-535 - jobmarketpulse - True - 1 - 1
-536 - jobs-br7 - True - 65 - 10
-537 - jobseekersdata - True - 1 - 1
-538 - jordan_hury_water_quality - True - 52 - 10
-539 - judgments - True - 1 - 1
-540 - justice-miflagot - True - 77 - 10
-541 - justice-patent-attorneys - True - 77 - 10
-542 - kadaster - True - 1 - 1
-543 - kamut_sgirot_hodshi_rechev_blikoddegem - True - 6 - 6
-544 - kavi-hof - True - 2 - 2
-545 - kav_ratzif_surveys - True - 9 - 9
-546 - kindergarten - True - 3 - 3
-547 - kindergartensmaaleadumim - True - 2 - 2
-548 - kinneret_cl - True - 3 - 3
-549 - kinuyeymakor - True - 1 - 1
-550 - kiosk - True - 1 - 1
-551 - kishuriyut_prj - True - 2 - 2
-552 - kitot - True - 2 - 2
-553 - klitamaaleadumim - True - 1 - 1
-554 - kriahaziva - True - 1 - 1
-555 - ksb - True - 1 - 1
-556 - labcorpus - True - 1 - 1
-557 - labs-list - True - 20 - 10
-558 - legislation - True - 2 - 2
-559 - level_discharge - True - 6 - 6
-560 - levelseparation - True - 1 - 1
-561 - lic_consumers - True - 2 - 2
-562 - licences_per_missions_facilities - True - 2 - 2
-563 - license_import_chemicals - True - 17 - 10
-564 - licensing_bus_system - True - 17 - 10
-565 - light-traffics-br7 - True - 68 - 10
-566 - lishkahebrew - True - 1 - 1
-567 - lishkot-tayarut - True - 2 - 2
-568 - lishkot-tayarut-eng - True - 6 - 6
-569 - list_of_rabbis_for_kidushin - True - 452 - 10
-570 - lists-permit-holders-for-the-provision-of-large-scale-post - True - 459 - 10
-571 - local-authorities - True - 62 - 10
-572 - localauthorities2017 - True - 50 - 10
-573 - localauthorities2018 - True - 57 - 10
-574 - local_council - True - 7 - 7
-575 - local-council-1 - True - 139 - 10
-576 - lod - True - 1 - 1
-577 - longtermforecast_rain - True - 3 - 3
-578 - lrt_line - True - 8 - 8
-579 - lrt_stat - True - 11 - 10
-580 - lrt_strat_plan - True - 14 - 10
-581 - maale - True - 2 - 2
-582 - maaleadumimpublicbuildings - True - 1 - 1
-583 - mactzavot - True - 1 - 1
-584 - madbirim - True - 1 - 1
-585 - maflasmultiannual - True - 1 - 1
-586 - maflasmultiannualforzover - True - 1 - 1
-587 - mahirlair_city - True - 10 - 10
-588 - mahirlair_intercity - True - 3 - 3
-589 - mahozot - True - 1 - 1
-590 - mamtziim_patents - True - 5 - 5
-591 - mandatory-standards - True - 1 - 1
-592 - manpowerconstructors - True - 1 - 1
-593 - manpowercrane - True - 1 - 1
-594 - marks - True - 1 - 1
-595 - mashkonot - True - 1 - 1
-596 - mashlima2023 - True - 17 - 10
-597 - mataan_ashkelon - True - 2 - 2
-598 - mataan_hdr_ntn - True - 4 - 4
-599 - matash - True - 1 - 1
-600 - maxdischarge_yearlyvolume - True - 1 - 1
-601 - max_min_longtermforecast - True - 2 - 2
-602 - mazon - True - 1 - 1
-603 - mdn-status - True - 2 - 2
-604 - measlescoverage - True - 1 - 1
-605 - mechir-lamishtaken - True - 1 - 1
-606 - medical-tourism-agent-list - True - 30 - 10
-607 - mef - True - 1 - 1
-608 - mehir_yevuan - True - 1 - 1
-609 - membership-in-liquidation - True - 18 - 10
-610 - mentalhealthclinics - True - 1 - 1
-611 - mental-health-institutions-emergency-health-unit - True - 50 - 10
-612 - meonotyommaaleadumim - True - 1 - 1
-613 - merchav_tichnun - True - 2 - 2
-614 - merhavironi - True - 1 - 1
-615 - metachnenim - True - 1 - 1
-616 - metadata - True - 6 - 6
-617 - metavhim - True - 1 - 1
-618 - metrofan - True - 1 - 1
-619 - metro_line - True - 7 - 7
-620 - metronit - True - 1 - 1
-621 - metro_stat - True - 10 - 10
-622 - mevakshimpatents - True - 1 - 1
-623 - mfaamanot - True - 1 - 1
-624 - mfa_un - True - 3 - 3
-625 - mgl - True - 1 - 1
-626 - mhamad-hahisha - True - 1 - 1
-627 - miflas2012 - True - 31 - 10
-628 - miflas2013 - True - 25 - 10
-629 - miflas2014 - True - 27 - 10
-630 - miflas2015 - True - 122 - 10
-631 - miflas2016 - True - 71 - 10
-632 - miflas2017 - True - 54 - 10
-633 - mile_post - True - 4 - 4
-634 - mimshakim_2023 - True - 18 - 10
-635 - mimshakim_2030 - True - 4 - 4
-636 - misgadim - True - 1 - 1
-637 - mishmoret - True - 1 - 1
-638 - mishtatef - True - 1 - 1
-639 - misradei_hakirot - True - 2 - 2
-640 - mizrakot_maim-br7 - True - 64 - 10
-641 - mkt - True - 1 - 1
-642 - mng - True - 1 - 1
-643 - moadoniot - True - 1 - 1
-644 - moag-district - True - 4 - 4
-645 - modedim - True - 1 - 1
-646 - mohalim-list - True - 16 - 10
-647 - moj-amutot - True - 1 - 1
-648 - mokdey_teunot-drachim_2018 - True - 58 - 10
-649 - molsa-addictions-treatment-frames - True - 19 - 10
-650 - molsa-addictions-treatment-frames-ar - True - 21 - 10
-651 - molsa-court-assiatance-units - True - 33 - 10
-652 - molsa-homeless-units - True - 27 - 10
-653 - molsa-homeless-units-ar - True - 28 - 10
-654 - molsa-outerhomes-elderly - True - 19 - 10
-655 - molsa-outerhomes-elderly-ar - True - 20 - 10
-656 - molsa-outerhomes-elderly-vacation - True - 19 - 10
-657 - molsa-outerhomes-elderly-vacation-ar - True - 20 - 10
-658 - molsa-populations-divorce-expert-ar - True - 33 - 10
-659 - molsa-protected-houses-list-ar - True - 45 - 10
-660 - molsa-social-and-welfare-magazin-publications - True - 136 - 10
-661 - molsa-social-departmentsd-list-ar - True - 68 - 10
-662 - molsa-social-sorkers-abroainstitutes - True - 53 - 10
-663 - molsa-units-adult-probation-service - True - 50 - 10
-664 - molsa-volunteering-coordinators - True - 17 - 10
-665 - monthly-statistics - True - 50 - 10
-666 - mops-gov-il - True - 252 - 10
-667 - moreh-dereh-eng - True - 6 - 6
-668 - mosdot - True - 1 - 1
-669 - most-537 - True - 18 - 10
-670 - motorcycle - True - 1 - 1
-671 - mrl - True - 1 - 1
-672 - msh - True - 1 - 1
-673 - msr - True - 1 - 1
-674 - mtl - True - 2 - 2
-675 - municipal-corporations - True - 9 - 9
-676 - municipal_indices - True - 8 - 8
-677 - musachim - True - 1 - 1
-678 - my-bills - True - 7 - 7
-679 - my-dataest - True - 7 - 7
-680 - my_dataset - True - 10 - 10
-681 - my-dataset2 - True - 143 - 10
-682 - my-dataset3 - True - 148 - 10
-683 - my-dataset4 - True - 42 - 10
-684 - my-dataset5 - True - 31 - 10
-685 - mzr - True - 1 - 1
-686 - n2r - True - 137 - 10
-687 - nataz_completion - True - 6 - 6
-688 - nataz_kayam - True - 4 - 4
-689 - nataz_planned - True - 11 - 10
-690 - nataz_strategic - True - 5 - 5
-691 - nationalcanopytrees - True - 1 - 1
-692 - nativ - True - 1 - 1
-693 - nature-reservesmaaleadumim - True - 2 - 2
-694 - nechasimb - True - 1 - 1
-695 - nechasimg - True - 1 - 1
-696 - nechasimp - True - 1 - 1
-697 - nhr - True - 1 - 1
-698 - nitrogen_oxides - True - 2 - 2
-699 - nitur-yamit - True - 1 - 1
-700 - nkr - True - 1 - 1
-701 - nmvoc - True - 1 - 1
-702 - noise-duration - True - 1 - 1
-703 - noshmim-lervacha - True - 1 - 1
-704 - notary - True - 1 - 1
-705 - nrm - True - 1 - 1
-706 - nti_taba - True - 2 - 2
-707 - nti_zhut_dereh - True - 4 - 4
-708 - ntn - True - 2 - 2
-709 - ntv - True - 1 - 1
-710 - ntz-mail - True - 3 - 3
-711 - ntz-short - True - 2 - 2
-712 - nursing-institutions-emergency-health-unit - True - 50 - 10
-713 - nutrition-database - True - 4 - 4
-714 - nvz - True - 1 - 1
-715 - nyz - True - 1 - 1
-716 - nzl - True - 1 - 1
-717 - nzn - True - 1 - 1
-718 - nzr - True - 1 - 1
-719 - obbusta2013 - True - 20 - 10
-720 - obrailta_2013 - True - 20 - 10
-721 - odata - True - 1 - 1
-722 - ofneidan - True - 1 - 1
-723 - ofreedom-of-information-report - True - 446 - 10
-724 - olim-1989-2015-age - True - 126 - 10
-725 - olim-1989-2015-continent - True - 124 - 10
-726 - olim-1989-2015-district - True - 126 - 10
-727 - olim-1989-2015-gender - True - 124 - 10
-728 - olim-1989-2015-main - True - 127 - 10
-729 - olim-1989-2015-profession - True - 124 - 10
-730 - olim-1989-2015-town-county - True - 124 - 10
-731 - olim-1989-2015-year-month - True - 260 - 10
-732 - olim_2009_2018_age - True - 76 - 10
-733 - olim_2018_cities - True - 70 - 10
-734 - olim_by_countries_2018 - True - 76 - 10
-735 - open-area-sens - True - 9 - 9
-736 - open-call - True - 4 - 4
-737 - opercraft_tq - True - 2 - 2
-738 - orn - True - 1 - 1
-739 - outerhomes_homeless - True - 8 - 8
-740 - outerhomes-homeless-ar - True - 13 - 10
-741 - ownership-of-historic-sites-in-the-city - True - 458 - 10
-742 - parkinglots - True - 1 - 1
-743 - park_n_ride - True - 5 - 5
-744 - pathogenicity - True - 1 - 1
-745 - payment - True - 2 - 2
-746 - payments-to-welfare-frameworks - True - 8 - 8
-747 - pdo - True - 1 - 1
-748 - penetration - True - 1 - 1
-749 - pensia-net - True - 3 - 3
-750 - permitemissionforzovar - True - 1 - 1
-751 - permitholders - True - 1 - 1
-752 - permit-license - True - 13 - 10
-753 - permit-pharm - True - 6 - 6
-754 - personal_import_vehicles - True - 14 - 10
-755 - personnel-welfare-authorities - True - 61 - 10
-756 - pharmacy - True - 3 - 3
-757 - pharmacy-duty-br7 - True - 66 - 10
-758 - picture-gallery-eng - True - 5 - 5
-759 - pinkas - True - 1 - 1
-760 - pinkashakablanim - True - 1 - 1
-761 - planresearchers - True - 1 - 1
-762 - plants-garden - True - 4 - 4
-763 - playground-datagov-br7 - True - 66 - 10
-764 - pm-10 - True - 14 - 10
-765 - pm2-5 - True - 142 - 10
-766 - police_boundaries - True - 5 - 5
-767 - police_receptions - True - 5 - 5
-768 - pollute-diesel-vehicles - True - 7 - 7
-769 - population-and-recipients-of-benefits-under-settlement-2010 - True - 540 - 10
-770 - population_and_recipients_of_benefits_under_settlement_2011 - True - 542 - 10
-771 - population-and-recipients-of-benefits-under-settlement-2012 - True - 541 - 10
-772 - populations - True - 16 - 10
-773 - pr2018 - True - 58 - 10
-774 - prep - True - 1 - 1
-775 - press - True - 1 - 1
-776 - price_controlled_consumer_products - True - 5 - 5
-777 - principal-investigator-posts - True - 4 - 4
-778 - private-and-commercial-vehicles - True - 88 - 10
-779 - private-chambers - True - 4 - 4
-780 - private-covid-test - True - 6 - 6
-781 - producercode - True - 1 - 1
-782 - production - True - 2 - 2
-783 - professionallibrary - True - 1 - 1
-784 - protectedhouseslist - True - 1 - 1
-785 - prvbuildingquirement - True - 1 - 1
-786 - psychiatric-hospitals-emergency-health-unit - True - 50 - 10
-787 - publicbuildings - True - 1 - 1
-788 - public-inquiry-officials-in-communications-companies - True - 35 - 10
-789 - pumpingfacility - True - 1 - 1
-790 - qgt - True - 1 - 1
-791 - qly - True - 1 - 1
-792 - qual_per_hydro_station - True - 12 - 10
-793 - questions - True - 3 - 3
-794 - rabies-occurrence - True - 1 - 1
-795 - radon - True - 3 - 3
-796 - radon-lab-practitioners - True - 7 - 7
-797 - radon-practitioners - True - 3 - 3
-798 - rail_flow_2040 - True - 13 - 10
-799 - rail_freq_2018 - True - 64 - 10
-800 - rail_freq_2019 - True - 62 - 10
-801 - rail_freq_2020 - True - 65 - 10
-802 - rail_freq_2023 - True - 25 - 10
-803 - rail_freq_2040 - True - 12 - 10
-804 - rail_stat_onoff_month - True - 63 - 10
-805 - rail_strategic - True - 10 - 10
-806 - rail_strat_station - True - 22 - 10
-807 - rashuty - True - 1 - 1
-808 - raw-material-deposits - True - 2 - 2
-809 - recall - True - 2 - 2
-810 - rechev_le_pail_with_degem - True - 8 - 8
-811 - rechev_le_pail_without-degem - True - 7 - 7
-812 - rechev-tag-nachim - True - 6 - 6
-813 - recruitment - True - 1 - 1
-814 - recyclingfacilitiesmaaleadumim - True - 1 - 1
-815 - reg-green-countries-he - True - 38 - 10
-816 - registered_veterinary_vaccines - True - 6 - 6
-817 - report-assignment-streets-regions - True - 9 - 9
-818 - researches - True - 2 - 2
-819 - researchinstitute - True - 1 - 1
-820 - reservoirs - True - 3 - 3
-821 - reshev_bitul_sofi - True - 1 - 1
-822 - residents_in_israel_by_communities_and_age_groups - True - 267 - 10
-823 - returning-residents-2006-2015 - True - 126 - 10
-824 - ridership - True - 1 - 1
-825 - rishayon_srifat_gazam - True - 1 - 1
-826 - river-permits - True - 7 - 7
-827 - rivers - True - 2 - 2
-828 - rmg - True - 1 - 1
-829 - rml - True - 1 - 1
-830 - rng - True - 1 - 1
-831 - roadauthority - True - 1 - 1
-832 - roads - True - 2 - 2
-833 - roads-br7 - True - 65 - 10
-834 - roundabout - True - 1 - 1
-835 - rpn - True - 1 - 1
-836 - rsh - True - 1 - 1
-837 - runoff_recharge_prioritization_areas - True - 6 - 6
-838 - rvm - True - 1 - 1
-839 - safetyorderslist - True - 1 - 1
-840 - saharbneiadam - True - 1 - 1
-841 - satisfaction-hosp-general2014 - True - 31 - 10
-842 - satisfaction-hosp-general2016 - True - 74 - 10
-843 - satisfaction-hosp-psychiatry-2015 - True - 120 - 10
-844 - satisfaction-hosp-psychiatry-2017 - True - 53 - 10
-845 - satisfaction-malrad-2015 - True - 120 - 10
-846 - savingsplaninterest - True - 1 - 1
-847 - school - True - 7 - 7
-848 - schools - True - 7 - 7
-849 - schoolsmaaleadumim - True - 1 - 1
-850 - sdb - True - 1 - 1
-851 - sdm - True - 1 - 1
-852 - segula - True - 1 - 1
-853 - sekerhashpaotcorona - True - 1 - 1
-854 - senior_card - True - 1 - 1
-855 - serologiclabs - True - 1 - 1
-856 - servicecontractors - True - 1 - 1
-857 - serviceindex - True - 1 - 1
-858 - service-space - True - 29 - 10
-859 - setl-mid-point - True - 3 - 3
-860 - settlement-2019 - True - 57 - 10
-861 - sewage_donor - True - 2 - 2
-862 - sewage_owners - True - 2 - 2
-863 - sfirot - True - 2 - 2
-864 - sfirot_tnua_2019 - True - 54 - 10
-865 - shamaiim - True - 1 - 1
-866 - shamaim - True - 2 - 2
-867 - shamaim_rechev - True - 7 - 7
-868 - shape - True - 4 - 4
-869 - sharaiim_kadim - True - 2 - 2
-870 - sharaim - True - 1 - 1
-871 - sheetkshape - True - 1 - 1
-872 - shelters-br7 - True - 64 - 10
-873 - sheltersmaaleadumim - True - 1 - 1
-874 - sherut-mivhan-lanoar - True - 1 - 1
-875 - shf - True - 1 - 1
-876 - shikumshchunot - True - 1 - 1
-877 - shinui_mivne - True - 1 - 1
-878 - shk - True - 1 - 1
-879 - shkifut-2015 - True - 128 - 10
-880 - shkifut-budget-boarding-2016 - True - 71 - 10
-881 - shkifut-budget-cluster-2016 - True - 71 - 10
-882 - shkifut-budget-cluster-kindergarten-2016 - True - 72 - 10
-883 - shkifut-budget-highschool-2016 - True - 70 - 10
-884 - shkifut-budget-kindergarten-2016 - True - 71 - 10
-885 - shkifut-budget-legal-2016 - True - 72 - 10
-886 - shkifut-budget-local-2016 - True - 73 - 10
-887 - shkifut-budget-middleschool-2016 - True - 70 - 10
-888 - shkifut-budget-school-2016 - True - 74 - 10
-889 - shkifut-budget-sector-2016 - True - 70 - 10
-890 - shkifut-budget-supervision-2016 - True - 70 - 10
-891 - shopping-cart - True - 1 - 1
-892 - simaneymisahr - True - 1 - 1
-893 - simcha-2017 - True - 49 - 10
-894 - sirens-br7 - True - 64 - 10
-895 - siua_kaspi_2017 - True - 49 - 10
-896 - siyua - True - 1 - 1
-897 - socharim - True - 1 - 1
-898 - social-departments - True - 76 - 10
-899 - social-workers-registration - True - 56 - 10
-900 - society-and-welfare-journal - True - 83 - 10
-901 - soil_groups - True - 3 - 3
-902 - special-education-kindergartensmaaleadumim - True - 27 - 10
-903 - special_populations - True - 17 - 10
-904 - species - True - 1 - 1
-905 - sport-br7 - True - 95 - 10
-906 - spring_monthly_volume - True - 53 - 10
-907 - spring_quality - True - 12 - 10
-908 - springs - True - 4 - 4
-909 - spring_yearly_volume - True - 95 - 10
-910 - staj - True - 1 - 1
-911 - startups-br7 - True - 64 - 10
-912 - stat2017 - True - 56 - 10
-913 - stat2018 - True - 63 - 10
-914 - stateengagementwithlawyers - True - 1 - 1
-915 - statistical-area-2008 - True - 15 - 10
-916 - statisticsassigningperformance - True - 1 - 1
-917 - statisticsjobsperformance - True - 1 - 1
-918 - stat_n-hoods_table-br7 - True - 72 - 10
-919 - statreport2016-eca - True - 69 - 10
-920 - stats_rish - True - 8 - 8
-921 - strat_border - True - 4 - 4
-922 - stream-monitoring - True - 3 - 3
-923 - streams - True - 2 - 2
-924 - street-light-br7 - True - 68 - 10
-925 - street-namesmaaleadumim - True - 5 - 5
-926 - streets-of-the-city-br7 - True - 505 - 10
-927 - studyapplications - True - 1 - 1
-928 - subgushallshape - True - 1 - 1
-929 - sulfur-oxides - True - 2 - 2
-930 - supervisionfiles - True - 1 - 1
-931 - support - True - 2 - 2
-932 - surveyers - True - 8 - 8
-933 - svivaniturmifal - True - 1 - 1
-934 - svt - True - 1 - 1
-935 - synagogues - True - 2 - 2
-936 - synagogues-br7 - True - 65 - 10
-937 - tabbar - True - 1 - 1
-938 - tables - True - 2 - 2
-939 - tabu_asset - True - 1 - 1
-940 - tahaz_clusters - True - 3 - 3
-941 - talmudiccollege - True - 1 - 1
-942 - tashlumim_2018 - True - 56 - 10
-943 - tashlumim_hozrim_2018 - True - 56 - 10
-944 - tatal - True - 1 - 1
-945 - tavlat-simlei-averot - True - 1 - 1
-946 - tavsagol-br7 - True - 64 - 10
-947 - taxi-stations-br7 - True - 73 - 10
-948 - taz_jer_pop_type - True - 9 - 9
-949 - taz_mot_rate_2040 - True - 40 - 10
-950 - taz_north_popdens_2016 - True - 68 - 10
-951 - taz_ta_popdens_2017 - True - 56 - 10
-952 - tender-br7 - True - 65 - 10
-953 - tenders - True - 2 - 2
-954 - teunot_2017 - True - 51 - 10
-955 - teunot2019 - True - 56 - 10
-956 - tichnun-pituah - True - 2 - 2
-957 - tikufim-2021 - True - 37 - 10
-958 - tikufim_station_2022 - True - 44 - 10
-959 - tipathlav - True - 1 - 1
-960 - tly - True - 1 - 1
-961 - tlzgizanut - True - 1 - 1
-962 - tma - True - 8 - 8
-963 - tma_23 - True - 11 - 10
-964 - tma_23a4_dipo - True - 48 - 10
-965 - tma_23a4_lines - True - 52 - 10
-966 - tma_3 - True - 144 - 10
-967 - tma_3_plans - True - 149 - 10
-968 - tma_3_points - True - 144 - 10
-969 - tma_42 - True - 8 - 8
-970 - tmm - True - 1 - 1
-971 - tmt - True - 1 - 1
-972 - tochniyot - True - 1 - 1
-973 - tourism1617 - True - 15 - 10
-974 - tour-operator - True - 2 - 2
-975 - tovin - True - 1 - 1
-976 - tozeret - True - 1 - 1
-977 - tqar - True - 1 - 1
-978 - tqen - True - 1 - 1
-979 - tqes - True - 1 - 1
-980 - tqfr - True - 1 - 1
-981 - tqhe - True - 1 - 1
-982 - tq_he_a3 - True - 179 - 10
-983 - tqru - True - 1 - 1
-984 - trademarks_nice - True - 1 - 1
-985 - traffic_authority - True - 61 - 10
-986 - traffic-counts - True - 7 - 7
-987 - traffic_light_junction - True - 6 - 6
-988 - training-courses - True - 5 - 5
-989 - train_safety - True - 5 - 5
-990 - train_station - True - 14 - 10
-991 - train_trip - True - 5 - 5
-992 - transfer_bank - True - 33 - 10
-993 - travelwarnings - True - 1 - 1
-994 - treated_waste_cons - True - 4 - 4
-995 - trees-br7 - True - 65 - 10
-996 - tripscelular_1819 - True - 1 - 1
-997 - truck_survey_2017 - True - 56 - 10
-998 - ttl_transport - True - 146 - 10
-999 - tunnels - True - 1 - 1
-1000 - tvr - True - 1 - 1
-1001 - ufh - True - 1 - 1
-1002 - undergroundcarparksmaaleadumim - True - 1 - 1
-1003 - unified - True - 2 - 2
-1004 - unified_businesses-br7 - True - 66 - 10
-1005 - universities - True - 2 - 2
-1006 - urban-nature-br7 - True - 67 - 10
-1007 - urban_renewal - True - 3 - 3
-1008 - vaadatezvonot - True - 1 - 1
-1009 - vaccines-abroad-price-list - True - 20 - 10
-1010 - vaccine-yard-birds - True - 3 - 3
-1011 - vacseffect - True - 1 - 1
-1012 - valkachshap - True - 1 - 1
-1013 - vatikim - True - 2 - 2
-1014 - vatmal - True - 1 - 1
-1015 - vat-refund-stores - True - 1 - 1
-1016 - vehicle_counts - True - 9 - 9
-1017 - vehicles_filters_reduce_emissions - True - 8 - 8
-1018 - veterinary_chambers - True - 4 - 4
-1019 - veterinary_chemical_preparations - True - 4 - 4
-1020 - vod - True - 1 - 1
-1021 - vor - True - 1 - 1
-1022 - vote - True - 3 - 3
-1023 - votes-knesset - True - 10 - 10
-1024 - votingboxes - True - 1 - 1
-1025 - voting-polls - True - 3 - 3
-1026 - wages-and-labor-income-by-locality - True - 102 - 10
-1027 - wages-and-labor-income-by-locality2013 - True - 120 - 10
-1028 - waste-information-system - True - 9 - 9
-1029 - water-and-food-fabs-lists - True - 137 - 10
-1030 - water-efficient-plants - True - 50 - 10
-1031 - water_factory - True - 49 - 10
-1032 - welfare-frames - True - 7 - 7
-1033 - wide-approval - True - 6 - 6
-1034 - workplan - True - 1 - 1
-1035 - world-environmental-days - True - 98 - 10
-1036 - wplan_muni - True - 7 - 7
-1037 - www-dat-gov-il - True - 253 - 10
-1038 - xplan - True - 3 - 3
-1039 - xplan2 - True - 136 - 10
-1040 - xplan_services - True - 29 - 10
-1041 - yehidot - True - 1 - 1
-1042 - yerusha - True - 1 - 1
-1043 - yeshuv_by_station - True - 22 - 10
-1044 - yhl - True - 1 - 1
-1045 - yrh - True - 1 - 1
-1046 - yrs - True - 1 - 1
-1047 - ytv - True - 1 - 1
-1048 - zakaut-hatkana - True - 2 - 2
-1049 - zfr - True - 1 - 1
-1050 - zft - True - 1 - 1
-1051 - zlm - True - 1 - 1
-end: 2023-03-25 09:39:12
+0 - 02 - True
+1 - 03 - True
+2 - 04 - True
+3 - 05 - True
+4 - 06 - True
+5 - 062019 - True
+6 - 14 - True
+7 - 17 - True
+8 - 18 - True
+9 - 19 - True
+10 - 1minrain - True
+11 - 20 - True
+12 - 2002-31-10-2016 - True
+13 - 2004-1997 - True
+14 - 2005 - True
+15 - 2005-2008 - True
+16 - 2005-2011 - True
+17 - 2006 - True
+18 - 2007 - True
+19 - 2008 - True
+20 - 2009 - True
+21 - 2009-2011 - True
+22 - 2009-2018 - True
+23 - 2010 - True
+24 - 2010-2019 - True
+25 - 2011 - True
+26 - 2012-2005 - True
+27 - 2013 - True
+28 - 2014 - True
+29 - 2015-2013 - True
+30 - 2017 - True
+31 - 2017-2018 - True
+32 - 2018 - True
+33 - 2018-2017 - True
+34 - 2019infrastructure - True
+35 - 2020 - True
+36 - 2021 - True
+37 - 2030 - True
+38 - 206 - True
+39 - 209 - True
+40 - 21 - True
+41 - 257 - True
+42 - 258 - True
+43 - 276 - True
+44 - 278 - True
+45 - 280 - True
+46 - 285 - True
+47 - 287 - True
+48 - 288 - True
+49 - 289 - True
+50 - 29 - True
+51 - 290 - True
+52 - 291 - True
+53 - 292 - True
+54 - 293 - True
+55 - 294 - True
+56 - 30 - True
+57 - 30-2021 - True
+58 - 30-6-2022 - True
+59 - 30-9-2021 - True
+60 - 30-9-2022 - True
+61 - 31-2021 - True
+62 - 31-2022 - True
+63 - 321 - True
+64 - 334 - True
+65 - 335 - True
+66 - 343 - True
+67 - 345 - True
+68 - 348 - True
+69 - 350 - True
+70 - 351 - True
+71 - 352 - True
+72 - 353 - True
+73 - 354new - True
+74 - 355new - True
+75 - 356 - True
+76 - 357 - True
+77 - 358 - True
+78 - 360 - True
+79 - 361 - True
+80 - 362 - True
+81 - 363 - True
+82 - 364 - True
+83 - 365 - True
+84 - 366 - True
+85 - 367 - True
+86 - 371 - True
+87 - 374 - True
+88 - 375 - True
+89 - 377 - True
+90 - 379 - True
+91 - 381 - True
+92 - 408 - True
+93 - 425 - True
+94 - 46 - True
+95 - 48 - True
+96 - 481 - True
+97 - 486 - True
+98 - 49 - True
+99 - 50 - True
+100 - 500 - True
+101 - 502 - True
+102 - 502-2 - True
+103 - 503 - True
+104 - 504 - True
+105 - 506-1 - True
+106 - 506-2 - True
+107 - 507 - True
+108 - 508 - True
+109 - 51 - True
+110 - 510 - True
+111 - 517 - True
+112 - 518 - True
+113 - 519 - True
+114 - 52 - True
+115 - 520 - True
+116 - 521 - True
+117 - 53 - True
+118 - 531 - True
+119 - 532 - True
+120 - 534 - True
+121 - 535 - True
+122 - 536 - True
+123 - 537 - True
+124 - 538 - True
+125 - 538-1 - True
+126 - 539 - True
+127 - 54 - True
+128 - 541 - True
+129 - 542 - True
+130 - 543 - True
+131 - 544 - True
+132 - 545 - True
+133 - 547 - True
+134 - 548 - True
+135 - 549 - True
+136 - 551 - True
+137 - 552 - True
+138 - 557 - True
+139 - 558 - True
+140 - 559 - True
+141 - 56 - True
+142 - 564 - True
+143 - 566 - True
+144 - 568 - True
+145 - 591 - True
+146 - 609 - True
+147 - 61 - True
+148 - 62 - True
+149 - 642 - True
+150 - 643 - True
+151 - 650 - True
+152 - 651 - True
+153 - 652 - True
+154 - 653 - True
+155 - 659 - True
+156 - 671 - True
+157 - 673 - True
+158 - 6b1c032a-fdc1-4f92-bee1-14d6bf6af910 - True
+159 - 711 - True
+160 - 808 - True
+161 - 813 - True
+162 - 814 - True
+163 - 826 - True
+164 - 827 - True
+165 - 828 - True
+166 - 829 - True
+167 - 830 - True
+168 - 831 - True
+169 - 832 - True
+170 - 833 - True
+171 - 860 - True
+172 - 861 - True
+173 - 862 - True
+174 - 863 - True
+175 - 864 - True
+176 - 865 - True
+177 - 926 - True
+178 - 928 - True
+179 - 930 - True
+180 - 931 - True
+181 - 932 - True
+182 - 933 - True
+183 - 934 - True
+184 - 935 - True
+185 - 943 - True
+186 - 944 - True
+187 - 945 - True
+188 - 946 - True
+189 - 947 - True
+190 - 953 - True
+191 - 958 - True
+192 - 961 - True
+193 - 969 - True
+194 - 982 - True
+195 - 983 - True
+196 - 991 - True
+197 - a2016 - True
+198 - academic - True
+199 - accessibilityorders - True
+200 - accidents2018 - True
+201 - accidents_municipal - True
+202 - accid_taz - True
+203 - acquifer - True
+204 - addresses-br7 - True
+205 - afq - True
+206 - aidtools - True
+207 - aircraft_data_il - True
+208 - airport - True
+209 - air-stations - True
+210 - airstrip - True
+211 - alhakav - True
+212 - aluyot-pituach - True
+213 - ambrosia - True
+214 - amount_monthly_closures_vehicles - True
+215 - antennaactive - True
+216 - antenna_hakama - True
+217 - ap - True
+218 - applying-to-social-services-departments - True
+219 - approved-items-by-personal-import - True
+220 - aquifer_level_history - True
+221 - aquifer-sensitivity - True
+222 - ararim - True
+223 - arb - True
+224 - archivesfreedomofinformationforzover - True
+225 - archivespermissiontostreamforzover - True
+226 - archivespermitflowingtoseaforzover-csv - True
+227 - archives-yco - True
+228 - ard - True
+229 - arl - True
+230 - arrivaltostationdayandhours - True
+231 - arrivaltostationhours - True
+232 - asbest - True
+233 - asbest-permit-03-2016 - True
+234 - asbestsamplinganalysis - True
+235 - asbest-waste-sites - True
+236 - asd - True
+237 - asq - True
+238 - assb122019 - True
+239 - assb32018 - True
+240 - assb32019 - True
+241 - assb32020 - True
+242 - assb62017 - True
+243 - assb62018 - True
+244 - assb62020 - True
+245 - assb92017 - True
+246 - assb92018 - True
+247 - assb92019 - True
+248 - assb92020 - True
+249 - atarim-leumim - True
+250 - atirot - True
+251 - atl - True
+252 - audit-cities - True
+253 - autism-schools - True
+254 - automated-devices - True
+255 - average-salary - True
+256 - avian-influenza-events - True
+257 - ayalontrafficcounts - True
+258 - azakamaaleadumim - True
+259 - bakashot_cpc - True
+260 - bakashot_ipc - True
+261 - bakashot_patents - True
+262 - banks - True
+263 - basic_domes - True
+264 - basin - True
+265 - batei-esek - True
+266 - beach - True
+267 - beer-sheva-municipality-budget-7 - True
+268 - beneficiary_recipients - True
+269 - bgv - True
+270 - bichildrengrowth2016 - True
+271 - bicycle_jer_2019 - True
+272 - bicycles-parking-br7 - True
+273 - bicycle_track-br7 - True
+274 - bike_mahirlair - True
+275 - bike_net_center - True
+276 - bike_net_tlv - True
+277 - bilateral-communications-agreements - True
+278 - bod - True
+279 - bor - True
+280 - bor_depth - True
+281 - borehole_level - True
+282 - borehole_quality_history - True
+283 - borehole_refpoint - True
+284 - boreholes - True
+285 - borehole_wq_params - True
+286 - bor_perfor - True
+287 - bqt - True
+288 - br7-zoning - True
+289 - branches - True
+290 - britzugiyut - True
+291 - brt_line - True
+292 - bsh - True
+293 - bsm - True
+294 - bsv - True
+295 - budget2020 - True
+296 - budget-changes-2014 - True
+297 - budget-changes-2015 - True
+298 - budget-changes-2016 - True
+299 - buildings-br7 - True
+300 - buildingsites - True
+301 - buildings-preservation-br7 - True
+302 - bureaus-of-health - True
+303 - bus_fleet - True
+304 - businesscenters-br7 - True
+305 - business-licensing-br7 - True
+306 - businessreq - True
+307 - bus_rishui_bitzua_2021 - True
+308 - bus_speed - True
+309 - bus_stops - True
+310 - busterminal - True
+311 - bus_terminal_fcl - True
+312 - bus_terminal_strat - True
+313 - calculatorforentrepreneur - True
+314 - callkorekitotvatikim - True
+315 - callkoreyoung - True
+316 - cameras-br7 - True
+317 - cannabis_certified_physicians - True
+318 - cannabis_licensed_workers - True
+319 - cannabis_pharmacies - True
+320 - carbon-monoxide - True
+321 - car-insurance - True
+322 - cell_subbasin - True
+323 - cemeteries - True
+324 - central-database-of-cbs - True
+325 - certificate-list-of-line-equipment - True
+326 - cf-output - True
+327 - chiller - True
+328 - chiyuvim - True
+329 - chovotpirsum_iriot - True
+330 - chovotpirsum_moatzotezoriyot_kavyark - True
+331 - chovotpirsum_moatzotezoryot - True
+332 - chovotpirsum_moatzotmekomyot - True
+333 - chovotpirsum_moatzotmekomyotkavyarok - True
+334 - chovotpirsum_vaadamekomitletichnunuvnia - True
+335 - citiesandsettelments - True
+336 - city_lishka - True
+337 - city-plans-br7 - True
+338 - cleanasbestos - True
+339 - cleanliness - True
+340 - closed-construction-sites - True
+341 - coast-sensitivity - True
+342 - community-centers-br7 - True
+343 - companiespersonscleansing20200 - True
+344 - cong_tax_rings - True
+345 - construction_equipment - True
+346 - contaminated_land_tlv - True
+347 - contaminatedterrains - True
+348 - continuing_education - True
+349 - cooperative - True
+350 - coordinates - True
+351 - cord-blood-banks - True
+352 - corpo-list - True
+353 - corpus - True
+354 - councils - True
+355 - countries - True
+356 - court_specialists - True
+357 - covid-19 - True
+358 - cpalist - True
+359 - cpc - True
+360 - crime_records_data - True
+361 - cvfr - True
+362 - cybermarketplace - True
+363 - dargat_ziuhum_cley_tzama - True
+364 - database-of-plant-pests-in-israel - True
+365 - datasetlist - True
+366 - dat-gov-il - True
+367 - daycares-br7 - True
+368 - decision260 - True
+369 - defi - True
+370 - degem-rechev-wltp - True
+371 - demand_survey_2019-br7 - True
+372 - demographics-br7 - True
+373 - depo_lrt_metro - True
+374 - desalination - True
+375 - designs - True
+376 - digumi_arubut - True
+377 - disabilities-centers - True
+378 - distance - True
+379 - diurtziburi - True
+380 - dmn - True
+381 - dog-gardens-br7 - True
+382 - domestic_pesticides - True
+383 - driving_license_ranks - True
+384 - driving_shcool - True
+385 - drugs-rehab - True
+386 - druzim - True
+387 - druzim_kadim - True
+388 - dynamic_wl_cl - True
+389 - ecological-mapping-for-mosquito-controle - True
+390 - e-data-gov-il - True
+391 - e-data-gov-il-dataset-yeshuvmoatzadata - True
+392 - education-br7 - True
+393 - egd - True
+394 - elderly-social-clubs-br7 - True
+395 - elt - True
+396 - emergency_phones - True
+397 - emergencywatertanks - True
+398 - employeetravel - True
+399 - employment - True
+400 - e-new-data-gov-il - True
+401 - environmental_impact_index - True
+402 - est - True
+403 - ethiopianrab - True
+404 - eventsdistrict - True
+405 - excellenceframework-2016 - True
+406 - excellenceframework-district-2016 - True
+407 - excellenceframework-loacal-2016 - True
+408 - excellenceframework-school-2016 - True
+409 - excellenceframework-service-2016 - True
+410 - exemptions - True
+411 - eyv - True
+412 - ezv - True
+413 - ezvonot2018 - True
+414 - factory - True
+415 - fast_lane_gate - True
+416 - fast_lanes - True
+417 - fcs-gmp - True
+418 - fcs-importers - True
+419 - fcs-manufacturer - True
+420 - fees - True
+421 - fieldschools - True
+422 - financial-sanctions - True
+423 - fireant - True
+424 - firefightingfees - True
+425 - fire_hydrants-br7 - True
+426 - firs-name - True
+427 - flydata - True
+428 - foreignntz - True
+429 - freedom-of-info - True
+430 - frn - True
+431 - fuelstationbynumber - True
+432 - garbage-bins-br7 - True
+433 - garbagecontainers - True
+434 - gas-stations-br7 - True
+435 - gdr - True
+436 - gemelnet - True
+437 - geology_models - True
+438 - gis - True
+439 - gis-_ - True
+440 - gis_shiput-br7 - True
+441 - gis_urban_renewal - True
+442 - gizanut - True
+443 - govdecisions2016 - True
+444 - government_advertising - True
+445 - greenbuildings - True
+446 - greenkd - True
+447 - greenschools - True
+448 - gsa - True
+449 - hafradat-psolet - True
+450 - hag - True
+451 - hagbalat_recall - True
+452 - hakirot - True
+453 - halicim_bateydin - True
+454 - hasmachottoveim - True
+455 - hativot-nof - True
+456 - hatkana_nekudat_igun - True
+457 - hdr - True
+458 - health-br7 - True
+459 - heavy-truck - True
+460 - hef - True
+461 - hekdeshot - True
+462 - helipad - True
+463 - highwayparkinglots - True
+464 - hitkadmuthabnia - True
+465 - hiv - True
+466 - hkr - True
+467 - hlz - True
+468 - hmo-companies - True
+469 - hmo_companies2014 - True
+470 - hmomaaleadumim - True
+471 - hmr - True
+472 - hofesh - True
+473 - hofesh_hameida - True
+474 - hof-naki - True
+475 - hokrim - True
+476 - holidaysinisrael - True
+477 - honoraryconsuls - True
+478 - hospitals_psyc - True
+479 - hostels - True
+480 - hotels_ranking - True
+481 - housingcontractfiles - True
+482 - Housingpropertyportfolios - True
+483 - housing-social-workers - True
+484 - housingunits-planning-inventory - True
+485 - hoze_zhut - True
+486 - hrd - True
+487 - hsg - True
+488 - hsv - True
+489 - http-dat-gov-il-forms-data-shabat-5777-xls - True
+490 - http-dat-gov-il-forms-data-shabat-5778-xls - True
+491 - https-data-gov-il-organization-ministry-of-immigrant-absorption - True
+492 - https-goo-gl-u7v4qv - True
+493 - https-main-knesset-gov-il-activity-legislation-laws-pages-lawlaws-aspx-t-lawlaws-st-lawlaws - True
+494 - https-shirathayam-m-datit-org-il-pirsumnisuin - True
+495 - https-www-cbs-gov-il-he-mediarelease-doclib-2019-057-24_19_057t1-xlsx - True
+496 - https-www-data-gov-il-dataset-682 - True
+497 - https-www-data-gov-il-dataset-683 - True
+498 - https-www-gov-il-he-departments-general-traffic-enforcement-cameras - True
+499 - https-www-gov-il-he-departments-guides-police-vehicle-confiscation-chapterindex-2 - True
+500 - https-www-haifa-muni-il-informationcity-documents-20-20-20-20-20-20-xls - True
+501 - https-www-haifa-muni-il-informationcity-documents-20-20-20-20-excel-xls - True
+502 - https-www-haifa-muni-il-informationcity-pages-databasespublic-aspx - True
+503 - hvr - True
+504 - hydro_station - True
+505 - hzf - True
+506 - hzr - True
+507 - ica-changes - True
+508 - ica_companies - True
+509 - ica_partnerships - True
+510 - idea - True
+511 - idg-platform - True
+512 - import_quotas - True
+513 - ims_stat - True
+514 - industrial - True
+515 - industrialareas - True
+516 - industrial-zones-info - True
+517 - infrastructures2017 - True
+518 - installed-filters - True
+519 - insurance - True
+520 - interchange_areas - True
+521 - intershiplabs - True
+522 - ipc - True
+523 - iplan-itur-tochnit - True
+524 - israel-dialing-plan - True
+525 - israel_fire_rescue_stations - True
+526 - israel-numbering-plan - True
+527 - israel_rain_areas_for_planning - True
+528 - israel-streets-synom - True
+529 - isreal_fire_rescue_gis - True
+530 - items-appproved-by-personal-import - True
+531 - items-that-not-approved-by-personal-import - True
+532 - itzumim - True
+533 - ivf - True
+534 - ivflist - True
+535 - jobmarketpulse - True
+536 - jobs-br7 - True
+537 - jobseekersdata - True
+538 - jordan_hury_water_quality - True
+539 - judgments - True
+540 - justice-miflagot - True
+541 - justice-patent-attorneys - True
+542 - kadaster - True
+543 - kamut_sgirot_hodshi_rechev_blikoddegem - True
+544 - kavi-hof - True
+545 - kav_ratzif_surveys - True
+546 - kindergarten - True
+547 - kindergartensmaaleadumim - True
+548 - kinneret_cl - True
+549 - kinuyeymakor - True
+550 - kiosk - True
+551 - kishuriyut_prj - True
+552 - kitot - True
+553 - klitamaaleadumim - True
+554 - kriahaziva - True
+555 - ksb - True
+556 - labcorpus - True
+557 - labs-list - True
+558 - legislation - True
+559 - level_discharge - True
+560 - levelseparation - True
+561 - lic_consumers - True
+562 - licences_per_missions_facilities - True
+563 - license_import_chemicals - True
+564 - licensing_bus_system - True
+565 - light-traffics-br7 - True
+566 - lishkahebrew - True
+567 - lishkot-tayarut - True
+568 - lishkot-tayarut-eng - True
+569 - list_of_rabbis_for_kidushin - True
+570 - lists-permit-holders-for-the-provision-of-large-scale-post - True
+571 - local-authorities - True
+572 - localauthorities2017 - True
+573 - localauthorities2018 - True
+574 - local_council - True
+575 - local-council-1 - True
+576 - lod - True
+577 - longtermforecast_rain - True
+578 - lrt_line - True
+579 - lrt_stat - True
+580 - lrt_strat_plan - True
+581 - maale - True
+582 - maaleadumimpublicbuildings - True
+583 - mactzavot - True
+584 - madbirim - True
+585 - maflasmultiannual - True
+586 - maflasmultiannualforzover - True
+587 - mahirlair_city - True
+588 - mahirlair_intercity - True
+589 - mahozot - True
+590 - mamtziim_patents - True
+591 - mandatory-standards - True
+592 - manpowerconstructors - True
+593 - manpowercrane - True
+594 - marks - True
+595 - mashkonot - True
+596 - mashlima2023 - True
+597 - mataan_ashkelon - True
+598 - mataan_hdr_ntn - True
+599 - matash - True
+600 - maxdischarge_yearlyvolume - True
+601 - max_min_longtermforecast - True
+602 - mazon - True
+603 - mdn-status - True
+604 - measlescoverage - True
+605 - mechir-lamishtaken - True
+606 - medical-tourism-agent-list - True
+607 - mef - True
+608 - mehir_yevuan - True
+609 - membership-in-liquidation - True
+610 - mentalhealthclinics - True
+611 - mental-health-institutions-emergency-health-unit - True
+612 - meonotyommaaleadumim - True
+613 - merchav_tichnun - True
+614 - merhavironi - True
+615 - metachnenim - True
+616 - metadata - True
+617 - metavhim - True
+618 - metrofan - True
+619 - metro_line - True
+620 - metronit - True
+621 - metro_stat - True
+622 - mevakshimpatents - True
+623 - mfaamanot - True
+624 - mfa_un - True
+625 - mgl - True
+626 - mhamad-hahisha - True
+627 - miflas2012 - True
+628 - miflas2013 - True
+629 - miflas2014 - True
+630 - miflas2015 - True
+631 - miflas2016 - True
+632 - miflas2017 - True
+633 - mile_post - True
+634 - mimshakim_2023 - True
+635 - mimshakim_2030 - True
+636 - misgadim - True
+637 - mishmoret - True
+638 - mishtatef - True
+639 - misradei_hakirot - True
+640 - mizrakot_maim-br7 - True
+641 - mkt - True
+642 - mng - True
+643 - moadoniot - True
+644 - moag-district - True
+645 - modedim - True
+646 - mohalim-list - True
+647 - moj-amutot - True
+648 - mokdey_teunot-drachim_2018 - True
+649 - molsa-addictions-treatment-frames - True
+650 - molsa-addictions-treatment-frames-ar - True
+651 - molsa-court-assiatance-units - True
+652 - molsa-homeless-units - True
+653 - molsa-homeless-units-ar - True
+654 - molsa-outerhomes-elderly - True
+655 - molsa-outerhomes-elderly-ar - True
+656 - molsa-outerhomes-elderly-vacation - True
+657 - molsa-outerhomes-elderly-vacation-ar - True
+658 - molsa-populations-divorce-expert-ar - True
+659 - molsa-protected-houses-list-ar - True
+660 - molsa-social-and-welfare-magazin-publications - True
+661 - molsa-social-departmentsd-list-ar - True
+662 - molsa-social-sorkers-abroainstitutes - True
+663 - molsa-units-adult-probation-service - True
+664 - molsa-volunteering-coordinators - True
+665 - monthly-statistics - True
+666 - mops-gov-il - True
+667 - moreh-dereh-eng - True
+668 - mosdot - True
+669 - most-537 - True
+670 - motorcycle - True
+671 - mrl - True
+672 - msh - True
+673 - msr - True
+674 - mtl - True
+675 - municipal-corporations - True
+676 - municipal_indices - True
+677 - musachim - True
+678 - my-bills - True
+679 - my-dataest - True
+680 - my_dataset - True
+681 - my-dataset2 - True
+682 - my-dataset3 - True
+683 - my-dataset4 - True
+684 - my-dataset5 - True
+685 - mzr - True
+686 - n2r - True
+687 - nataz_completion - True
+688 - nataz_kayam - True
+689 - nataz_planned - True
+690 - nataz_strategic - True
+691 - nationalcanopytrees - True
+692 - nativ - True
+693 - nature-reservesmaaleadumim - True
+694 - nechasimb - True
+695 - nechasimg - True
+696 - nechasimp - True
+697 - nhr - True
+698 - nitrogen_oxides - True
+699 - nitur-yamit - True
+700 - nkr - True
+701 - nmvoc - True
+702 - noise-duration - True
+703 - noshmim-lervacha - True
+704 - notary - True
+705 - nrm - True
+706 - nti_taba - True
+707 - nti_zhut_dereh - True
+708 - ntn - True
+709 - ntv - True
+710 - ntz-mail - True
+711 - ntz-short - True
+712 - nursing-institutions-emergency-health-unit - True
+713 - nutrition-database - True
+714 - nvz - True
+715 - nyz - True
+716 - nzl - True
+717 - nzn - True
+718 - nzr - True
+719 - obbusta2013 - True
+720 - obrailta_2013 - True
+721 - odata - True
+722 - ofneidan - True
+723 - ofreedom-of-information-report - True
+724 - olim-1989-2015-age - True
+725 - olim-1989-2015-continent - True
+726 - olim-1989-2015-district - True
+727 - olim-1989-2015-gender - True
+728 - olim-1989-2015-main - True
+729 - olim-1989-2015-profession - True
+730 - olim-1989-2015-town-county - True
+731 - olim-1989-2015-year-month - True
+732 - olim_2009_2018_age - True
+733 - olim_2018_cities - True
+734 - olim_by_countries_2018 - True
+735 - open-area-sens - True
+736 - open-call - True
+737 - opercraft_tq - True
+738 - orn - True
+739 - outerhomes_homeless - True
+740 - outerhomes-homeless-ar - True
+741 - ownership-of-historic-sites-in-the-city - True
+742 - parkinglots - True
+743 - park_n_ride - True
+744 - pathogenicity - True
+745 - payment - True
+746 - payments-to-welfare-frameworks - True
+747 - pdo - True
+748 - penetration - True
+749 - pensia-net - True
+750 - permitemissionforzovar - True
+751 - permitholders - True
+752 - permit-license - True
+753 - permit-pharm - True
+754 - personal_import_vehicles - True
+755 - personnel-welfare-authorities - True
+756 - pharmacy - True
+757 - pharmacy-duty-br7 - True
+758 - picture-gallery-eng - True
+759 - pinkas - True
+760 - pinkashakablanim - True
+761 - planresearchers - True
+762 - plants-garden - True
+763 - playground-datagov-br7 - True
+764 - pm-10 - True
+765 - pm2-5 - True
+766 - police_boundaries - True
+767 - police_receptions - True
+768 - pollute-diesel-vehicles - True
+769 - population-and-recipients-of-benefits-under-settlement-2010 - True
+770 - population_and_recipients_of_benefits_under_settlement_2011 - True
+771 - population-and-recipients-of-benefits-under-settlement-2012 - True
+772 - populations - True
+773 - pr2018 - True
+774 - prep - True
+775 - press - True
+776 - price_controlled_consumer_products - True
+777 - principal-investigator-posts - True
+778 - private-and-commercial-vehicles - True
+779 - private-chambers - True
+780 - private-covid-test - True
+781 - producercode - True
+782 - production - True
+783 - professionallibrary - True
+784 - protectedhouseslist - True
+785 - prvbuildingquirement - True
+786 - psychiatric-hospitals-emergency-health-unit - True
+787 - publicbuildings - True
+788 - public-inquiry-officials-in-communications-companies - True
+789 - pumpingfacility - True
+790 - qgt - True
+791 - qly - True
+792 - qual_per_hydro_station - True
+793 - questions - True
+794 - rabies-occurrence - True
+795 - radon - True
+796 - radon-lab-practitioners - True
+797 - radon-practitioners - True
+798 - rail_flow_2040 - True
+799 - rail_freq_2018 - True
+800 - rail_freq_2019 - True
+801 - rail_freq_2020 - True
+802 - rail_freq_2023 - True
+803 - rail_freq_2040 - True
+804 - rail_stat_onoff_month - True
+805 - rail_strategic - True
+806 - rail_strat_station - True
+807 - rashuty - True
+808 - raw-material-deposits - True
+809 - recall - True
+810 - rechev_le_pail_with_degem - True
+811 - rechev_le_pail_without-degem - True
+812 - rechev-tag-nachim - True
+813 - recruitment - True
+814 - recyclingfacilitiesmaaleadumim - True
+815 - reg-green-countries-he - True
+816 - registered_veterinary_vaccines - True
+817 - report-assignment-streets-regions - True
+818 - researches - True
+819 - researchinstitute - True
+820 - reservoirs - True
+821 - reshev_bitul_sofi - True
+822 - residents_in_israel_by_communities_and_age_groups - True
+823 - returning-residents-2006-2015 - True
+824 - ridership - True
+825 - rishayon_srifat_gazam - True
+826 - river-permits - True
+827 - rivers - True
+828 - rmg - True
+829 - rml - True
+830 - rng - True
+831 - roadauthority - True
+832 - roads - True
+833 - roads-br7 - True
+834 - roundabout - True
+835 - rpn - True
+836 - rsh - True
+837 - runoff_recharge_prioritization_areas - True
+838 - rvm - True
+839 - safetyorderslist - True
+840 - saharbneiadam - True
+841 - satisfaction-hosp-general2014 - True
+842 - satisfaction-hosp-general2016 - True
+843 - satisfaction-hosp-psychiatry-2015 - True
+844 - satisfaction-hosp-psychiatry-2017 - True
+845 - satisfaction-malrad-2015 - True
+846 - savingsplaninterest - True
+847 - school - True
+848 - schools - True
+849 - schoolsmaaleadumim - True
+850 - sdb - True
+851 - sdm - True
+852 - segula - True
+853 - sekerhashpaotcorona - True
+854 - senior_card - True
+855 - serologiclabs - True
+856 - servicecontractors - True
+857 - serviceindex - True
+858 - service-space - True
+859 - setl-mid-point - True
+860 - settlement-2019 - True
+861 - sewage_donor - True
+862 - sewage_owners - True
+863 - sfirot - True
+864 - sfirot_tnua_2019 - True
+865 - shamaiim - True
+866 - shamaim - True
+867 - shamaim_rechev - True
+868 - shape - True
+869 - sharaiim_kadim - True
+870 - sharaim - True
+871 - sheetkshape - True
+872 - shelters-br7 - True
+873 - sheltersmaaleadumim - True
+874 - sherut-mivhan-lanoar - True
+875 - shf - True
+876 - shikumshchunot - True
+877 - shinui_mivne - True
+878 - shk - True
+879 - shkifut-2015 - True
+880 - shkifut-budget-boarding-2016 - True
+881 - shkifut-budget-cluster-2016 - True
+882 - shkifut-budget-cluster-kindergarten-2016 - True
+883 - shkifut-budget-highschool-2016 - True
+884 - shkifut-budget-kindergarten-2016 - True
+885 - shkifut-budget-legal-2016 - True
+886 - shkifut-budget-local-2016 - True
+887 - shkifut-budget-middleschool-2016 - True
+888 - shkifut-budget-school-2016 - True
+889 - shkifut-budget-sector-2016 - True
+890 - shkifut-budget-supervision-2016 - True
+891 - shopping-cart - True
+892 - simaneymisahr - True
+893 - simcha-2017 - True
+894 - sirens-br7 - True
+895 - siua_kaspi_2017 - True
+896 - siyua - True
+897 - socharim - True
+898 - social-departments - True
+899 - social-workers-registration - True
+900 - society-and-welfare-journal - True
+901 - soil_groups - True
+902 - special-education-kindergartensmaaleadumim - True
+903 - special_populations - True
+904 - species - True
+905 - sport-br7 - True
+906 - spring_monthly_volume - True
+907 - spring_quality - True
+908 - springs - True
+909 - spring_yearly_volume - True
+910 - staj - True
+911 - startups-br7 - True
+912 - stat2017 - True
+913 - stat2018 - True
+914 - stateengagementwithlawyers - True
+915 - statistical-area-2008 - True
+916 - statisticsassigningperformance - True
+917 - statisticsjobsperformance - True
+918 - stat_n-hoods_table-br7 - True
+919 - statreport2016-eca - True
+920 - stats_rish - True
+921 - strat_border - True
+922 - stream-monitoring - True
+923 - streams - True
+924 - street-light-br7 - True
+925 - street-namesmaaleadumim - True
+926 - streets-of-the-city-br7 - True
+927 - studyapplications - True
+928 - subgushallshape - True
+929 - sulfur-oxides - True
+930 - supervisionfiles - True
+931 - support - True
+932 - surveyers - True
+933 - svivaniturmifal - True
+934 - svt - True
+935 - synagogues - True
+936 - synagogues-br7 - True
+937 - tabbar - True
+938 - tables - True
+939 - tabu_asset - True
+940 - tahaz_clusters - True
+941 - talmudiccollege - True
+942 - tashlumim_2018 - True
+943 - tashlumim_hozrim_2018 - True
+944 - tatal - True
+945 - tavlat-simlei-averot - True
+946 - tavsagol-br7 - True
+947 - taxi-stations-br7 - True
+948 - taz_jer_pop_type - True
+949 - taz_mot_rate_2040 - True
+950 - taz_north_popdens_2016 - True
+951 - taz_ta_popdens_2017 - True
+952 - tender-br7 - True
+953 - tenders - True
+954 - teunot_2017 - True
+955 - teunot2019 - True
+956 - tichnun-pituah - True
+957 - tikufim-2021 - True
+958 - tikufim_station_2022 - True
+959 - tipathlav - True
+960 - tly - True
+961 - tlzgizanut - True
+962 - tma - True
+963 - tma_23 - True
+964 - tma_23a4_dipo - True
+965 - tma_23a4_lines - True
+966 - tma_3 - True
+967 - tma_3_plans - True
+968 - tma_3_points - True
+969 - tma_42 - True
+970 - tmm - True
+971 - tmt - True
+972 - tochniyot - True
+973 - tourism1617 - True
+974 - tour-operator - True
+975 - tovin - True
+976 - tozeret - True
+977 - tqar - True
+978 - tqen - True
+979 - tqes - True
+980 - tqfr - True
+981 - tqhe - True
+982 - tq_he_a3 - True
+983 - tqru - True
+984 - trademarks_nice - True
+985 - traffic_authority - True
+986 - traffic-counts - True
+987 - traffic_light_junction - True
+988 - training-courses - True
+989 - train_safety - True
+990 - train_station - True
+991 - train_trip - True
+992 - transfer_bank - True
+993 - travelwarnings - True
+994 - treated_waste_cons - True
+995 - trees-br7 - True
+996 - tripscelular_1819 - True
+997 - truck_survey_2017 - True
+998 - ttl_transport - True
+999 - tunnels - True
+1000 - tvr - True
+1001 - ufh - True
+1002 - undergroundcarparksmaaleadumim - True
+1003 - unified - True
+1004 - unified_businesses-br7 - True
+1005 - universities - True
+1006 - urban-nature-br7 - True
+1007 - urban_renewal - True
+1008 - vaadatezvonot - True
+1009 - vaccines-abroad-price-list - True
+1010 - vaccine-yard-birds - True
+1011 - vacseffect - True
+1012 - valkachshap - True
+1013 - vatikim - True
+1014 - vatmal - True
+1015 - vat-refund-stores - True
+1016 - vehicle_counts - True
+1017 - vehicles_filters_reduce_emissions - True
+1018 - veterinary_chambers - True
+1019 - veterinary_chemical_preparations - True
+1020 - vod - True
+1021 - vor - True
+1022 - vote - True
+1023 - votes-knesset - True
+1024 - votingboxes - True
+1025 - voting-polls - True
+1026 - wages-and-labor-income-by-locality - True
+1027 - wages-and-labor-income-by-locality2013 - True
+1028 - waste-information-system - True
+1029 - water-and-food-fabs-lists - True
+1030 - water-efficient-plants - True
+1031 - water_factory - True
+1032 - welfare-frames - True
+1033 - wide-approval - True
+1034 - workplan - True
+1035 - world-environmental-days - True
+1036 - wplan_muni - True
+1037 - www-dat-gov-il - True
+1038 - xplan - True
+1039 - xplan2 - True
+1040 - xplan_services - True
+1041 - yehidot - True
+1042 - yerusha - True
+1043 - yeshuv_by_station - True
+1044 - yhl - True
+1045 - yrh - True
+1046 - yrs - True
+1047 - ytv - True
+1048 - zakaut-hatkana - True
+1049 - zfr - True
+1050 - zft - True
+1051 - zlm - True
+not found 0 datasetsend: 2023-03-25 12:59:23

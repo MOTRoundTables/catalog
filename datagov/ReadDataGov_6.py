@@ -1,4 +1,4 @@
-# ReadDataGov_4.py  - 9/9/22
+# ReadDataGov_6.py  - 24/3/23
 # This script creates a catolog with all the datasets in datagov.
 # The result serves as input to prepare catalog updates.
 # The result includes 4 text files (delimited with "|"):
@@ -50,7 +50,7 @@ f.close()
 sp = "|"
 
 f = open(dr+'resource_list.txt', 'w', encoding="utf-8")   # moved to utf8 cause an arabic string caused error in write. at the end converto to ansi with np++
-f.write("n|j|name|type|date|title|org|geo|freq|resources|tags|author|email|orgh|licID|lictitle|notes\n")
+f.write("n|name|type|date|title|org|geo|freq|resources|tags|author|email|orgh|licID|lictitle|notes\n")
 
 f1 = open(dr+'resources.txt', 'w', encoding="utf-8")
 f1.write("n|rsc|name|format|dateCr|dateMo|id|size\n")
@@ -58,10 +58,11 @@ f1.write("n|rsc|name|format|dateCr|dateMo|id|size\n")
 f2 = open(dr+'tags.txt', 'w', encoding="utf-8")
 f2.write("n|rsc|org|tag|tagId\n")
 
+notfound = 0
 i = 0
 while i <= n-1:   # n
     aPackage = flist[i]
-    url0 = 'https://data.gov.il/api/3/action/package_search?q=' + aPackage    # query the dataset ID
+    url0 = 'https://data.gov.il/api/3/action/package_show?id=' + aPackage
 
     try:
         with urllib.request.urlopen(url0) as url:  
@@ -72,19 +73,13 @@ while i <= n-1:   # n
         continue
 
     success = data["success"]
-    rlist = data["result"]  # print(flist)
-    n1 = rlist["count"]     # NUMBER OF RESULTS IN QUERY
-    #print(aPackage, success, n1, sep=" - ")
 
-    rlist2 = rlist["results"]  #print(flist)
-    n2 = len(rlist2)
-    print(i, aPackage, success, n1, n2, sep=" - ")
-    log.write(str(i) + " - " + aPackage + " - " + str(success) + " - " + str(n1) + " - " + str(n2) + "\n")
+    print(i, aPackage, success )
+    log.write(str(i) + " - " + aPackage + " - " + str(success) + "\n")
 
-    j = 0
-    while j <= n2-1:
-        rsc = rlist2[j] 
-        rscname = rsc["name"] 
+    if success:
+        rsc = data["result"]
+        rscname = rsc["name"]
         if aPackage == rscname:
             rsctitle = rsc["title"] 
             rsctype = rsc["type"]
@@ -104,7 +99,7 @@ while i <= n-1:   # n
             lictitle = rsc["license_title"]
 
             # print("    ", j, rscname, sep=" - ")
-            f.write(str(i) + sp + str(j) + sp + rscname + sp + rsctype + sp + rscdate[:10] + sp +  \
+            f.write(str(i) + sp + rscname + sp + rsctype + sp + rscdate[:10] + sp +  \
                 rsctitle + sp + orgname + sp + rscgeo + sp + rscfreq + sp + str(num_resources) + sp + str(num_tags) + sp + \
                 authorname + sp + authormail + sp + orgtitle + sp + licID + sp + lictitle + sp + notes + "\n")
             # save resources    
@@ -125,9 +120,14 @@ while i <= n-1:   # n
                 ktag = tags[k] 
                 vocid = ktag["vocabulary_id"] if ktag["vocabulary_id"] is not None else "--"
                 f2.write(str(i) + sp + rscname + sp + orgname + sp + ktag["name"] + sp + vocid + "\n")     # + sp + krsc["id"]
-                k += 1                    
+                k += 1
+        else:        
+            log.write("error: result name different from package " + aPackage + " <> " + rscname + "\n")
+            notfound += 1
 
-        j += 1 # end while
+    else:
+        log.write("error: Package not retrieved " + aPackage + "\n")
+        notfound += 1
 
     i += 1  # end while
 
@@ -135,8 +135,10 @@ f.close()
 f1.close()
 f2.close()
 
+log.write("not found " + str(notfound) + " datasets" + "\n")
 log.write("end: " + now.strftime("%Y-%m-%d %H:%M:%S"))
 log.close()
+print("not found " + str(notfound) + " datasets" + "\n")
 print("done ...")
 print ("data.gov directory - saved in sub-directory: " + ver)
 
