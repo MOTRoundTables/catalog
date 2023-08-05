@@ -1,0 +1,106 @@
+{
+  "Title": "נתיבי העדפה קיימים",
+  "Author": "מת\"ל, נתיבי איילון, צתא\"ל ירושלים",
+  "Publisher": "משרד התחבורה",
+  "Contact": "צוות חצב",
+  "Contact Email": "geo@mot.gov.il",
+  "Description": "שכבת מידע גיאוגרפי של נתיבי העדפה (נתיבי תחבורה ציבורית) קיימים",
+  "Keywords": "תחבורה ציבורית, העדפה",
+  "Created": "01/11/2019",
+  "version": "1",
+  "Last updated": "01/11/2019",
+  "Spatial coverage": "ארצי",
+  "Temporal coverage": "מצב קיים",
+  "Language": "עברית",
+  "License": "Creative Commons Attribution",
+  "Frequency of update": "משתנה",
+  "References": ["https://www.gov.il/he/departments/general/survey-routes-public-transportation", "https://www.gov.il/he/departments/topics/public_transportation_subject", "https://geo.mot.gov.il/#?z=0&layers=NATAZ_KAYAM&bgval=0"],
+  "Metadata creator": "איליה",
+  "Metadata creation date": "02/02/2020",
+  "Data quality": "מרכז דרך",
+  "URL": "https://data.gov.il/dataset/nataz_kayam",
+  "Comments": ["המידע נאסף מחברות התשתית של משרד התחבורה, משרדי ממשלה, רשויות ממשלתיות,", "רשויות מקומיות, חברות פרטיות ועוד", "המידע נסמך בדיוק על האמור במקורות אלו ומתעדכן בתדירות משתנה", "אין להתייחס למידע זה כנוסח מחייב של הדין או כמידע מחייב"],
+  "Dataset file": "NATAZ_KAYAM.ZIP",
+  "File spatial coverage": "ארצי",
+  "Spatial reference system": "ITM",
+  "Files list": "Bus_priority.SHP",
+  "Files": [
+    {
+      "File name": "Bus_priority.SHP",
+      "File format": "shp",
+      "Geographic bounding": "156000, 627000, 239000, 755000",
+      "File fields": [
+        {
+          "name": "SEGMENT",
+          "type": "Text",
+          "description": "מקטע"
+        },
+        {
+          "name": "CITYCODE",
+          "type": "Text",
+          "description": "קוד ישוב"
+        },
+        {
+          "name": "CITY",
+          "type": "Text",
+          "description": "ישוב"
+        },
+        {
+          "name": "NATAZ_TY_1",
+          "type": "Text",
+          "description": "סוג"
+        },
+        {
+          "name": "START",
+          "type": "Text",
+          "description": "מוצא"
+        },
+        {
+          "name": "END",
+          "type": "Text",
+          "description": "יעד"
+        },
+        {
+          "name": "VEHTYPE",
+          "type": "Text",
+          "description": "כלי רכב מורשים"
+        },
+        {
+          "name": "TOT_LENGTH",
+          "type": "Number",
+          "description": "אורך"
+        },
+        {
+          "name": "ST_ST",
+          "type": "Text",
+          "description": "ימי חול פעיל מ"
+        },
+        {
+          "name": "ST_ET",
+          "type": "Text",
+          "description": "ימי חול פעיל עד"
+        },
+        {
+          "name": "FRI_ST",
+          "type": "Text",
+          "description": "יום שישי פעיל מ"
+        },
+        {
+          "name": "FRI_ET",
+          "type": "Text",
+          "description": "יום שישי פעיל עד"
+        },
+        {
+          "name": "SAT_ST",
+          "type": "Text",
+          "description": "יום שבת פעיל מ"
+        },
+        {
+          "name": "SAT_ET",
+          "type": "Text",
+          "description": "יום שבת פעיל עד"
+        }
+      ]
+    }
+  ]
+}

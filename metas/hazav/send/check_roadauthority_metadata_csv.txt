@@ -1,0 +1,55 @@
+meta tools report
+Sat Aug 05
+reading C:/Users/marsz/Documents/GitHub/catalog/metas/hazav/roadauthority_metadata_csv.xlsx
+simple file
+warning: suspicious date: 1/1/2019
+warning: suspicious date: 1/12/2022
+warning: suspicious date: 4/12/2022
+finished converting meta from excel to json
+
+This is: רשות תמרור - כבישים
+it includes 1 data files:
+1: ROADAUTHORITY.CSV
+
+Metafile Header:
+    Publisher: משרד התחבורה
+      Contact: צוות חצב
+Contact Email: geo@mot.gov.il
+       Author: משרד התחבורה
+- - - - - - -
+       Title: רשות תמרור - כבישים
+     Created: 1/1/2019
+Temporal coverage: מצב קיים
+Description:
+השכבה מציגה מקטעי כביש אשר סמכות רשות התמרור בהם הואצלה על ידי המפקח על התעבורה לגוף שונה מהרשות המוניציפאלית שבתחומה נמצא הכביש.
+לדוגמה, רשות התמרור בכביש 20, אשר עובר בתחומה של העיר תל אביב - יפו, היא חברת נתיבי איילון.
+
+
+check individual files
+
+
+1: check fields for ROADAUTHORITY.CSV
+
+
+Description: שכבת GIS בפורמט SHP וקובץ סימבולוגיה LYR
+
+Error discrepacies: file fields not in meta: OID
+Error discrepacies: file fields not in meta: Shape_Length
+Error discrepacies: meta fields not in file: OBJECTID
+Error discrepacies: meta fields not in file: SHAPE
+Error discrepacies: meta fields not in file: SHAPE_Length
+
+
+-- Data Summary ------------------------
+                           Values
+Name                       f1    
+Number of rows             3642  
+Number of columns          8     
+_______________________          
+Column type frequency:           
+  character                4     
+  numeric                  4     
+________________________         
+Group variables            None  
+
+Finished

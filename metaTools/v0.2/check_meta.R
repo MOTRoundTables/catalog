@@ -1,11 +1,11 @@
-# catalog tools - ver. 0.2
+# catalog tools - ver. 0.2 - metadata standard version: 1.2
 
 #source("metaTools/v0.1/metalib.R") # why ?
 source("metalib.R")                 # this is the working dir ? isn't ir
 source("files_list.R")              # specify here the file names  
 
 # Please specify:
-myfile = 1
+myfile = 8
 dr = x[[myfile]]$dr #  the directory where the zip was opened
 fl = x[[myfile]]$fl #  is the name of the meta-file (without file type -assumed .xlsx)
 

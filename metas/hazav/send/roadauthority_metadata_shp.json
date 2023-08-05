@@ -1,0 +1,90 @@
+{
+  "Author": "משרד התחבורה",
+  "Publisher": "משרד התחבורה",
+  "Contact": "צוות חצב",
+  "Contact Email": "geo@mot.gov.il",
+  "Title": "רשות תמרור - כבישים",
+  "Description": "השכבה מציגה מקטעי כביש אשר סמכות רשות התמרור בהם הואצלה על ידי המפקח על התעבורה לגוף שונה מהרשות המוניציפאלית שבתחומה נמצא הכביש. לדוגמה, רשות התמרור בכביש 20, אשר עובר בתחומה של העיר תל אביב - יפו, היא חברת נתיבי איילון.",
+  "Created": "1/1/2019",
+  "Version": "10",
+  "Last updated": "1/12/2022",
+  "Temporal coverage": "מצב קיים",
+  "Spatial coverage": "ארצי",
+  "Metadata creator": "עופר גולד",
+  "Metadata creation date": "4/12/2022",
+  "Keywords": "רשות תמרור,ארצי,דרכים,גבולות רשות תמרור,חצב",
+  "Frequency of update": "משתנה",
+  "Language": "עברית",
+  "References": "https://www.gov.il/he/departments/topics/central_and_local_traffic_authorities_il/govil-landing-page",
+  "Legal constrains": "http://opendefinition.org/licenses/cc-by",
+  "License": "Creative Commons Attribution",
+  "Data quality": "מרכז דרך",
+  "Dataset file": "ROADAUTHORITY.ZIP",
+  "URL": "https://data.gov.il/dataset/roadauthority",
+  "Files": [
+    {
+      "File name": "ROADAUTHORITY.shp",
+      "File format": "shp",
+      "File description": "שכבת GIS בפורמט SHP וקובץ סימבולוגיה LYR",
+      "File spatial coverage": "ארצי",
+      "Spatial reference system": "ITM",
+      "Geographic bounding": "130451.475200:280229.097700 , 799544.217600:378324.712000",
+      "File fields": [
+        {
+          "name": "TRAFAUTH",
+          "type": "String",
+          "description": "רשות תמרור מקומית",
+          "comment": "שם רשות תמרור מקומית"
+        },
+        {
+          "name": "TRAFCODE",
+          "type": "Integer",
+          "description": "קוד רשות תמרור",
+          "comment": "קוד רשות תמרור"
+        },
+        {
+          "name": "ROAD",
+          "type": "String",
+          "description": "כביש",
+          "comment": "כביש"
+        },
+        {
+          "name": "OBJECTID",
+          "type": "OID",
+          "description": "OBJECTID",
+          "comment": "לא לתצוגה"
+        },
+        {
+          "name": "ROADNUM",
+          "type": "String",
+          "description": "ROADNUM",
+          "comment": "לא לתצוגה"
+        },
+        {
+          "name": "SHAPE",
+          "type": "Geometry",
+          "description": "SHAPE",
+          "comment": "לא לתצוגה"
+        },
+        {
+          "name": "YEARMONTH",
+          "type": "Integer",
+          "description": "שנה וחודש",
+          "comment": "שנה וחודש של עדכניות נתונים"
+        },
+        {
+          "name": "STATUS",
+          "type": "String",
+          "description": "סטטוס",
+          "comment": "הסטטוס התכנוני של מקטע הדרך"
+        },
+        {
+          "name": "SHAPE_Length",
+          "type": "Double",
+          "description": "SHAPE_Length",
+          "comment": "לא לתצוגה"
+        }
+      ]
+    }
+  ]
+}

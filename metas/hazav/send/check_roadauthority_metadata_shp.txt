@@ -1,0 +1,52 @@
+meta tools report
+Sat Aug 06
+
+This is: רשות תמרור - כבישים
+it includes 1 data files:
+1: ROADAUTHORITY.shp
+
+Metafile Header:
+    Publisher: משרד התחבורה
+      Contact: צוות חצב
+Contact Email: geo@mot.gov.il
+       Author: משרד התחבורה
+- - - - - - -
+       Title: רשות תמרור - כבישים
+     Created: 1/1/2019
+Temporal coverage: מצב קיים
+       Description: השכבה מציגה מקטעי כביש אשר סמכות רשות התמרור בהם הואצלה על ידי המפקח על התעבורה לגוף שונה מהרשות המוניציפאלית שבתחומה נמצא הכביש. לדוגמה, רשות התמרור בכביש 20, אשר עובר בתחומה של העיר תל אביב - יפו, היא חברת נתיבי איילון.
+
+
+check individual files
+
+
+1: check fields for ROADAUTHORITY.shp
+
+
+Description: שכבת GIS בפורמט SHP וקובץ סימבולוגיה LYR
+
+Error discrepacies: file fields not in meta: Shape_Leng
+Error discrepacies: meta fields not in file: OBJECTID
+Error discrepacies: meta fields not in file: SHAPE
+Error discrepacies: meta fields not in file: SHAPE_Length
+
+
+-- Data Summary ------------------------
+                           Values
+Name                       f1    
+Number of rows             3642  
+Number of columns          8     
+_______________________          
+Column type frequency:           
+  character                5     
+  numeric                  3     
+________________________         
+Group variables            None  
+
+Simple feature collection with 3642 features and 7 fields
+Geometry type: MULTILINESTRING
+Dimension:     XY
+Bounding box:  xmin: 130451.5 ymin: 378324.7 xmax: 280229.1 ymax: 799544.2
+Projected CRS: Israel 1993 / Israeli TM Grid
+
+Finished

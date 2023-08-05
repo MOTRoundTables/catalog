@@ -8,12 +8,55 @@ library(skimr)  # https://cran.r-project.org/web/packages/skimr/
 library(sf)
 
 # ---------------------------------------
+# metadata dictionary
+
+metadict = list()
+metadict$hdr_required = c("Publisher", "Contact", "Title", "Description", 
+               "Keywords", "Created", "Temporal coverage", "Spatial coverage", 
+               "Dataset file", "Metadata creation date", "Last updated" )
+
+metadict$hdr_conditional = c("Version", "Files list", "Files")
+
+metadict$hdr_optional = c("Contact Email", "Author", "Author Email", 
+                 "Frequency of update", "Language", "Related documents", 
+                 "References", "Legal constrains", "License", "Data quality", 
+                 "Size", "Metadata creator", "Metadata version", "Comments", 
+                 "URL")
+
+metadict$files_required = c("Files list", "Files") # in complex datasets
+
+metadict$stat_fields = c("Sample proportion", "Data processing", 
+                "Overall accuracy", "Data validation", 
+                "Statistical definitions", "Statistical population", 
+                "Statistical unit", "Reference area", "Collection period", 
+                "Sample frame", "Sampling method", "Sample size", 
+                "Survey method", "Estimation Method", "Estimation period")
+
+metadict$file_required = c( "File name", "File format", 
+                            "File description", "File fields")
+
+metadict$file_optional = c("File size", "File date", "Spatial coverage")
+
+metadict$file_conditional = c("File Comments", "Spatial reference system", 
+                              "Geographic bounding")
+metadict$field_required = c("Comments", "Name", "Type", "Description", "Values")
+
+metadict$datekeys = c("CREATED", "LAST UPDATED", "METADATA CREATION DATE", "FILE DATE")
+
+# block_keys = {"Related documents", "Comments", "Files list", "Description"}
+
+
+# ---------------------------------------
 # check file functions
+
 
 checkmetafilesfields <- function(meta) {
   #browser()
   addrep("check individual files", 2, 1)
-  nfiles = length(meta$"Files list")
+  meta$metatype = 1   # simple file"
+  if ("Files list" %in% meta) { nfiles = length(meta$"Files list") } 
+  else { nfiles = 1 }
+
   for (i in 1:nfiles) {
     checkmetafilefields(meta, i) 
   }
@@ -21,37 +64,47 @@ checkmetafilesfields <- function(meta) {
 
 checkmetafilefields <- function(meta, i) {  # check fields for specific file
   #browser()
-  
-  file_required_keys = c(  "File name", "File format", "File description", "File fields")
-  
+
   addrep(paste(i, ": check fields for ", meta$"Files list"[i], sep="" ), 1, 1)
   keys = names(meta$Files[[i]])
-  missing1 = setdiff(file_required_keys,keys)
+  missing1 = setdiff(metadict$file_required,keys)
   if (length(missing1)>0) {
     addrep(paste("Error: Missing required keywords in file header:", missing1))
   }    
-  addrep(paste("Description:", meta$Files[[i]]$"File description"))
+  addrep(paste("Description:", meta$Files[[i]]$"File description"), 1, 1)
 
   f1 = openmetafile(meta, i)  # opens selected data file
     
-  metafields = getmetafilefields(meta, i)
-  filefields = getfilefields(meta, i, f1)  # actual file fields
+  if (!is.null(f1)) {
+    metafields = getmetafilefields(meta, i)
+    filefields = getfilefields(meta, i, f1)  # actual file fields
   
-  differences <- setdiff(filefields, metafields)
-  if (length(differences)>0) {
-    addrep(paste("Error: discrepacies if meta and file field names:", differences))
-  }
-  addrep(shortsummary(f1))
+    differences <- setdiff(filefields, metafields)
+    if (length(differences)>0) {
+      addrep(paste("Error discrepacies: file fields not in meta:", differences))
+    }
+
+    differences <- setdiff(metafields, filefields)
+    if (length(differences)>0) {
+      addrep(paste("Error discrepacies: meta fields not in file:", differences))
+    }
+    
+    addrep(shortsummary(f1), 1)
   
-  filetype = getmetafiletype(meta, i)
-  if (filetype=="shp") { # short summary of the shp file
-    addrep(capture.output(print(f1, n = 0)), 1)
+    filetype = getmetafiletype(meta, i)
+    if (filetype=="shp") { # short summary of the shp file
+      addrep(capture.output(print(f1, n = 0)), 1)
+    } 
+    
   }
   #print(filefields)
 }
 
 
 shortsummary <- function(f1) {
+  if (is.null(f1)) {
+    return()
+  }
   #head(f1)
   #summary(f1) 
   x = skim(f1) %>%
@@ -84,19 +137,20 @@ getmetafiletype <- function(meta, filenum) {  # gets 1st line of a csv
 openmetafile <- function(meta, filenum) {
   fl = meta$"Files list"[filenum]
   print( paste("opening:", fl ) )
-  filtetype = getmetafiletype(meta, filenum)
+  filtetype = toupper(getmetafiletype(meta, filenum))
   
   fl1 = paste(meta$dir, fl, sep="")
   
   if (file.exists(fl1)) {
-    if (filtetype=="csv") {
+    if (filtetype=="CSV") {
       readfile <- read_csv(fl1)
-    } else if (filtetype=="shp") {
+    } else if (filtetype=="SHP") {
       require(sf)
       readfile <- st_read(fl1) # readfile <- as.data.frame(readfile) # - no need for this
     }
   } else {
-    print("File not found")
+    readfile = NULL
+    print(paste("File not found: ", fl1))
   }
   return(readfile)
   #return(list(readfile=readfile, headline=headline))
@@ -113,13 +167,13 @@ getfilefields <- function(meta, filenum, f1) {
     f1 = openmetafile(meta, filenum)  # opens selected data file
   }  
   
-  filetype = getmetafiletype(meta, filenum)
-
   filefields = colnames(f1) # f1$headline
-  
+
+  filetype = getmetafiletype(meta, filenum)
   if (filetype=="shp") {
     filefields = filefields[-length(filefields)]  # remove 'geometry'
   }
+  return(filefields)
 }
 
 
@@ -127,24 +181,18 @@ getfilefields <- function(meta, filenum, f1) {
 # check header  functions
 
 chkmetaheaderkeys <- function(meta) {
-  
-  hdr_required = c("Publisher", "Contact", "Title", "Description", "Keywords",
-                   "Created", "Last updated", "Temporal coverage", 
-                   "Spatial coverage", "Dataset file", "Metadata creation date")
-  
-  files_required = c("Files list", "Files")
-
+  #browser()
   keys = names(meta)
-  missing1 = setdiff(hdr_required,keys)
+  missing1 = setdiff(metadict$hdr_required,keys)
   
   if (length(missing1)>0) {
     addrep(paste("Error: Missing required keywords in header:", missing1), 1)
   }
 
-  missing2 = setdiff(files_required,keys)
-  if ((length(meta$"Files list")>0)&(length(missing2)>0)) {
-    addrep(paste("Error: There are several files but missing in header:", missing2), 1)
-  }
+  #missing2 = setdiff(metadict$files_required,keys)
+  #if ((length(meta$"Files list")>0)&(length(missing2)>0)) {
+  #  addrep(paste("Error: There are several files but missing in header:", missing2), 1)
+  #}
 
 }
 
@@ -152,7 +200,7 @@ chkmetaheaderkeys <- function(meta) {
 # read & display metadata 
 
 getjsonmeta <- function(dr, fl) { 
-  
+  #browser()
   fl1 = paste(dr,fl,".json",sep="")
   if (!file.exists(fl1)) {
     print("json meta not found - will attempt to create one")
@@ -162,11 +210,18 @@ getjsonmeta <- function(dr, fl) {
   fl1 = paste(dr,fl,".json",sep="")
   meta = read_json(fl1, simplifyVector = FALSE)
   meta$dir = dr
+  if ("Files list" %in% meta) {  # find if simple or complex file
+    meta$metatype = 2
+    meta$nfiles = length(meta$"Files list")
+  } else {
+    meta$metatype = 1   # simple file
+    meta$nfiles = 1
+    meta["Files list"] = c(meta$Files[[1]]["File name"])
+  }
   
   addrep( paste("This is:", meta$Title ), 1 )
-  nfiles = length(meta$"Files list")
-  addrep( paste("it includes", nfiles, "data files:") )
-  for (i in 1:nfiles) { 
+  addrep( paste("it includes", meta$nfiles, "data files:") )
+  for (i in 1:meta$nfiles) { 
     addrep(paste(i, ": ", meta$"Files list"[i], sep="" ))
   }
   return(meta)
@@ -208,9 +263,10 @@ tellmeta <- function(meta) {
 # convert metadata from xlsx to json
 
 metaxls2json <- function(dr, fl) { 
+  #browser()
   fl1 = paste(dr,fl,".xlsx",sep="")
   if (!file.exists(fl1)) {
-    print("File not found")
+    print(paste("File not found: ", fl1))
     return()
   }  
 
@@ -223,18 +279,35 @@ metaxls2json <- function(dr, fl) {
   columns = c("keyword", "name", "type", "description", "comment", "value", "label")
   data <- read_excel(fl1, sheet=1, range=rng, col_names = columns)
 
-  data$lvl <- apply(data, 1, setlvl)
-  data$cont <- apply(data, 1, setcont)
+  data$lvl <- apply(data, 1, setlvl)    # mark last filled column in each row
+  data$cont <- apply(data, 1, setcont)  # mark block lines
 
+  # find if simple or complex file
+  if ("Files list" %in% data$keyword) {
+    addrep("complex file")
+    metatype <- 2
+    
+  } else {
+    addrep("simple file")
+    metatype <- 1
+  }  
+    
   # build header
-  tmp <- readkeys(data, 1, "Files")
-  i = tmp$last
-  hdr = tmp$meta
-
-  # build files 
-  nfiles = length(hdr$"Files list")
+  if (metatype==1) {
+    tmp <- readkeys(data, 1, "File name") # header rows= before "File name" key
+    i = tmp$last-1
+    hdr = tmp$meta
+    nfiles = 1
+    
+  } else {
+    tmp <- readkeys(data, 1, "Files")  # header rows= before the "files" key
+    i = tmp$last
+    hdr = tmp$meta
+    nfiles = length(hdr$"Files list")
+  }
   #print( paste("This metadata includes", nfiles, "Files") )
-
+  
+  # build files 
   files = list()
   for (f in 1:nfiles) {  
     tmp <- readkeys(data, i, "File fields")
@@ -319,10 +392,7 @@ readflds = function (data, strt, stp) {
 readkeys = function (data, strt, stp) {
   #browser()
   stp = toupper(stp)
-  
-  datekeys = c("CREATED", "LAST UPDATED", "METADATA CREATION DATE", "FILE DATE")
-  # block_keys = {"Related documents", "Comments", "Files list", "Description"}
-  
+
   jmeta = list()
   x = NA
   for (i in strt:nrow(data)) {  
@@ -342,7 +412,7 @@ readkeys = function (data, strt, stp) {
       x = list()
       ky = data$keyword[i]
       
-      if (toupper(ky) %in% datekeys) {
+      if (toupper(ky) %in% metadict$datekeys) {
         x[[ ky ]] <- getformatteddate(data$name[i])
       } else {
         x[[ ky ]] <- data$name[i]

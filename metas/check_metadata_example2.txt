@@ -1,0 +1,31 @@
+meta tools report
+Sat Aug 05
+reading C:/Users/marsz/Documents/GitHub/catalog/metas/metadata_example2.xlsx
+complex file
+finished converting meta from excel to json
+
+This is: נתיבי העדפה קיימים
+it includes 1 data files:
+1: Bus_priority.SHP
+
+Metafile Header:
+    Publisher: משרד התחבורה
+      Contact: צוות חצב
+Contact Email: geo@mot.gov.il
+       Author: מת"ל, נתיבי איילון, צתא"ל ירושלים
+- - - - - - -
+       Title: נתיבי העדפה קיימים
+     Created: 01/11/2019
+Temporal coverage: מצב קיים
+       Description: שכבת מידע גיאוגרפי של נתיבי העדפה (נתיבי תחבורה ציבורית) קיימים
+
+
+check individual files
+
+
+1: check fields for Bus_priority.SHP
+
+Error: Missing required keywords in file header: File description
+Description: 
+
+Finished
