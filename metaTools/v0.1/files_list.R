@@ -7,9 +7,9 @@
 x = array(list(), 20)
 
 # ido files
-x[[1]]$dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/tayarut/tourism_2016_2017_0.2/"
-#x[[1]]$dr = "C:/Users/idshk/Downloads/OneDrive_2023-01-03/version 0.2/"
-x[[1]]$fl = "tourist_meta_0.2"
+# x[[1]]$dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/tayarut/tourism_2016_2017_0.2/"
+x[[1]]$dr = "C:/Users/idshk/Downloads/OneDrive_2023-01-03/version 0.4/"
+x[[1]]$fl = "tourist_meta_0.4"
 
 # amit files
 x[[2]]$dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/amit/busvalid/"
@@ -32,6 +32,8 @@ x[[6]]$fl = "Metadata-Information_on_public_transportation_Survey_2021"
 x[[7]]$dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/hzv/accid_taz/"
 x[[7]]$ fl = "accid_taz_metadata"
 
+x[[8]]$dr = "C:/Users/idshk/OneDrive/idos_shit/shared_network_scenarios/versions/Roads_version 0.1/tmp3/"
+x[[8]]$fl = "st_net_proj_2030_2050"
 
 # -------------------------------------------------------
 

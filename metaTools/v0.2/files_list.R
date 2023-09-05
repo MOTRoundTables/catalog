@@ -33,11 +33,11 @@ x[[6]]$fl = "Metadata-Information_on_public_transportation_Survey_2021"
 x[[7]]$dr = "C:/Users/marsz/Desktop/zvl/tmp24/Data/hzv/accid_taz/"
 x[[7]]$ fl = "accid_taz_metadata"
 
-x[[8]]$dr = "C:/Users/marsz/Documents/GitHub/catalog/metas/hazav/"
-x[[8]]$ fl = "roadauthority_metadata_csv"  # shp"  #
+x[[8]]$dr = "C:/Users/idshk/OneDrive/idos_shit/shared_network_scenarios/versions/Roads_version 0.1/tmp3/"
+x[[8]]$ fl = "st_net_proj_2030_2050"  # shp"  #
 
-#x[[8]]$dr = "C:/Users/marsz/Documents/GitHub/catalog/metas/"
-#x[[8]]$ fl = "metadata_example2"
+# x[[8]]$dr = "C:/Users/marsz/Documents/GitHub/catalog/metas/"
+# x[[8]]$ fl = "metadata_example2"
 
 
 
