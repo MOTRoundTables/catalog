@@ -1,4 +1,4 @@
-# ReadDataGov_6.py  - 24/3/23
+# ReadDataGov_7.py  - 6/10/24
 # This script creates a catolog with all the datasets in datagov.
 # The result serves as input to prepare catalog updates.
 # The result includes 4 text files (delimited with "|"):
@@ -9,7 +9,7 @@
 # The files are saved in a sub-directory defined by variable "ver".
 
 # directory version:
-ver = "230915" # "230324" # "220909" # "220816",  "220523", "211008", "210715"
+ver = "241006" # "230915" # "230324" # "220909" # "220816",  "220523", "211008", "210715"
 
 print ("read data.gov directory")
 
