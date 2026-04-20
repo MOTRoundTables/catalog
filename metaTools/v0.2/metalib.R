@@ -51,10 +51,10 @@ metadict$datekeys = c("CREATED", "LAST UPDATED", "METADATA CREATION DATE", "FILE
 
 
 checkmetafilesfields <- function(meta) {
-  #browser()
+  # browser()
   addrep("check individual files", 2, 1)
   meta$metatype = 1   # simple file"
-  if ("Files list" %in% meta) { nfiles = length(meta$"Files list") } 
+  if ("Files list" %in% names(meta)) { nfiles = length(meta$"Files list") } 
   else { nfiles = 1 }
 
   for (i in 1:nfiles) {
@@ -107,15 +107,20 @@ shortsummary <- function(f1) {
   }
   #head(f1)
   #summary(f1) 
-  x = skim(f1) %>%
-    summary() 
-  a <- capture.output(print(x, quote=FALSE))
-  b = c("")
-  for (i in 1:length(a)) {b = c(b, a[i] )}
+  if(!"sf" %in% class(f1)){
+    x = skim(f1) %>%
+      summary() 
+    a <- capture.output(print(x, quote=FALSE))
+    b = c("")
+    for (i in 1:length(a)) {b = c(b, a[i] )}
+    
+    my_str <- capture.output(print(f1, n = 0))
+    return(b)
+  }
   
-  my_str <- capture.output(print(f1, n = 0))
   
-  return(b)
+  
+  
 }
 
 # lisf of field information from META file
@@ -147,6 +152,9 @@ openmetafile <- function(meta, filenum) {
     } else if (filtetype=="SHP") {
       require(sf)
       readfile <- st_read(fl1) # readfile <- as.data.frame(readfile) # - no need for this
+    } else if (filtetype=="XLSX"){
+      require(readxl)
+      readfile <- read_excel(fl1) # readfile <- as.data.frame(readfile) # - no need for this
     }
   } else {
     readfile = NULL
@@ -200,7 +208,7 @@ chkmetaheaderkeys <- function(meta) {
 # read & display metadata 
 
 getjsonmeta <- function(dr, fl) { 
-  #browser()
+  # browser()
   fl1 = paste(dr,fl,".json",sep="")
   if (!file.exists(fl1)) {
     print("json meta not found - will attempt to create one")
@@ -210,7 +218,7 @@ getjsonmeta <- function(dr, fl) {
   fl1 = paste(dr,fl,".json",sep="")
   meta = read_json(fl1, simplifyVector = FALSE)
   meta$dir = dr
-  if ("Files list" %in% meta) {  # find if simple or complex file
+  if ("Files list" %in% names(meta)) {  # find if simple or complex file
     meta$metatype = 2
     meta$nfiles = length(meta$"Files list")
   } else {

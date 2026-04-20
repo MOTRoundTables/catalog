@@ -1,8 +1,8 @@
 # catalog tools - ver. 0.2 - metadata standard version: 1.2
 
-#source("metaTools/v0.1/metalib.R") # why ?
-source("metalib.R")                 # this is the working dir ? isn't ir
-source("files_list.R")              # specify here the file names  
+source("metaTools/v0.2/metalib.R") # why ?
+# source("metalib.R")                 # this is the working dir ? isn't ir
+source("metaTools/v0.2/files_list.R")              # specify here the file names  
 
 # Please specify:
 myfile = 8
